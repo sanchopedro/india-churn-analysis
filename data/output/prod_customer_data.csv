@@ -1,6 +1,5 @@
 Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_Deal,Phone_Service,Multiple_Lines,Internet_Service,Internet_Type,Online_Security,Online_Backup,Device_Protection_Plan,Premium_Support,Streaming_TV,Streaming_Movies,Streaming_Music,Unlimited_Data,Contract,Paperless_Billing,Payment_Method,Monthly_Charge,Total_Charges,Total_Refunds,Total_Extra_Data_Charges,Total_Long_Distance_Charges,Total_Revenue,Customer_Status,Churn_Category,Churn_Reason
 19877-DEL,Male,35,No,Delhi,7,27,Not Available,Yes,No,Yes,Cable,No,Yes,No,Yes,Yes,No,No,Yes,One Year,Yes,Credit Card,65.6,593.3,0.0,0,381.51,974.81,Stayed,Others,Others
-58353-MAH,Female,45,Yes,Maharashtra,14,13,Not Available,Yes,Yes,Yes,Cable,No,No,No,No,No,Yes,Yes,No,Month-to-Month,No,Credit Card,-4.0,542.4,38.33,10,96.21,610.28,Stayed,Others,Others
 25063-WES,Male,51,No,West Bengal,4,35,Deal 5,Yes,No,Yes,Fiber Optic,No,No,Yes,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,73.9,280.85,0.0,0,134.6,415.45,Churned,Competitor,Competitor had better devices
 59787-KAR,Male,79,No,Karnataka,3,21,Deal 4,Yes,No,Yes,Fiber Optic,No,Yes,Yes,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,98.0,1237.85,0.0,0,361.66,1599.51,Churned,Dissatisfaction,Product dissatisfaction
 28544-TAM,Female,80,No,Tamil Nadu,3,8,Not Available,Yes,No,Yes,Fiber Optic,No,No,No,Yes,Yes,No,No,Yes,Month-to-Month,Yes,Credit Card,83.9,267.4,0.0,0,22.14,289.54,Churned,Dissatisfaction,Network reliability
@@ -31,7 +30,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 42012-UTT,Female,49,No,Uttar Pradesh,8,2,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Two Year,No,Bank Withdrawal,19.7,1396.9,0.0,0,2648.91,4045.81,Stayed,Others,Others
 79321-MAH,Female,22,Yes,Maharashtra,4,8,Deal 3,Yes,No,Yes,Fiber Optic,No,No,No,No,Yes,Yes,Yes,Yes,One Year,No,Credit Card,91.2,3247.55,0.0,0,1591.37,4838.92,Stayed,Others,Others
 82811-HAR,Female,46,Yes,Haryana,2,18,Deal 2,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,One Year,No,Bank Withdrawal,20.45,900.9,0.0,0,2429.42,3330.32,Stayed,Others,Others
-36568-HAR,Male,26,Yes,Haryana,7,8,Not Available,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,One Year,No,Bank Withdrawal,-2.0,7942.15,0.0,0,2888.82,10830.97,Stayed,Others,Others
 62683-UTT,Female,30,No,Uttar Pradesh,12,20,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,One Year,No,Bank Withdrawal,20.55,1343.4,30.53,0,1549.04,2861.91,Stayed,Others,Others
 18223-MAD,Male,32,No,Madhya Pradesh,14,2,Not Available,No,No,Yes,Cable,Yes,No,Yes,Yes,No,No,No,Yes,Two Year,Yes,Credit Card,39.4,825.4,0.0,0,0.0,825.4,Stayed,Others,Others
 41111-MAH,Female,32,No,Maharashtra,10,8,Not Available,Yes,Yes,No,Not Available,No,No,No,No,No,No,No,No,Two Year,Yes,Bank Withdrawal,25.1,1070.15,0.0,0,1317.52,2387.67,Stayed,Others,Others
@@ -167,7 +165,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 57568-KER,Female,39,No,Kerala,14,15,Deal 5,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,19.75,58.85,0.0,0,73.89,132.74,Churned,Attitude,Attitude of support person
 12377-UTT,Female,18,No,Uttar Pradesh,15,2,Not Available,Yes,Yes,No,Not Available,No,No,No,No,No,No,No,No,One Year,No,Credit Card,24.35,538.5,0.0,0,1104.46,1642.96,Stayed,Others,Others
 63614-WES,Female,58,No,West Bengal,3,23,Not Available,Yes,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,No,No,Yes,Two Year,No,Bank Withdrawal,69.85,5102.35,25.24,0,2042.64,7119.75,Stayed,Others,Others
-78895-HAR,Male,24,Yes,Haryana,12,4,Deal 5,No,No,Yes,Cable,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Month-to-Month,No,Credit Card,-3.0,465.7,0.0,0,0.0,465.7,Stayed,Others,Others
 54667-TEL,Male,51,Yes,Telangana,11,33,Deal 5,Yes,No,Yes,DSL,No,No,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,54.4,475.1,0.0,0,12.48,487.58,Stayed,Others,Others
 74887-UTT,Female,35,No,Uttar Pradesh,12,10,Deal 1,No,No,Yes,Cable,No,No,No,Yes,Yes,Yes,Yes,No,Two Year,No,Bank Withdrawal,50.55,3364.55,0.0,110,0.0,3474.55,Stayed,Others,Others
 78121-MAH,Male,33,Yes,Maharashtra,0,17,Deal 5,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,21.05,113.85,0.0,0,171.3,285.15,Churned,Attitude,Attitude of support person
@@ -228,7 +225,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 56595-KAR,Male,57,Yes,Karnataka,10,4,Deal 4,Yes,No,Yes,Cable,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,45.9,521.9,0.0,0,142.45,664.35,Stayed,Others,Others
 82770-UTT,Female,79,Yes,Uttarakhand,14,9,Not Available,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,Yes,Yes,No,No,Yes,Two Year,Yes,Bank Withdrawal,99.9,5706.3,0.0,0,970.48,6676.78,Stayed,Others,Others
 95165-GUJ,Female,36,Yes,Gujarat,7,9,Deal 3,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.05,471.7,0.0,0,321.75,793.45,Stayed,Others,Others
-69379-UTT,Female,41,No,Uttar Pradesh,5,15,Deal 1,No,No,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Two Year,No,Credit Card,-8.0,4539.6,0.0,130,0.0,4669.6,Stayed,Others,Others
 69775-KER,Female,44,Yes,Kerala,13,1,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Two Year,No,Credit Card,19.65,830.25,0.0,0,1041.2,1871.45,Stayed,Others,Others
 51415-WES,Male,45,Yes,West Bengal,2,21,Not Available,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,84.9,3067.2,0.0,0,887.76,3954.96,Churned,Attitude,Attitude of service provider
 63347-TEL,Male,32,Yes,Telangana,13,4,Deal 1,Yes,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,No,Bank Withdrawal,86.85,6263.8,0.0,0,717.81,6981.61,Stayed,Others,Others
@@ -329,7 +325,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 14610-CHH,Female,56,No,Chhattisgarh,0,25,Deal 4,Yes,No,Yes,Cable,No,No,No,Yes,No,No,No,Yes,One Year,Yes,Bank Withdrawal,49.45,1119.35,0.0,0,594.55,1713.9,Stayed,Others,Others
 17664-KAR,Female,30,No,Karnataka,13,22,Deal 4,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,No,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,73.7,1558.7,0.0,0,599.34,2158.04,Stayed,Others,Others
 41417-JHA,Female,41,Yes,Jharkhand,10,2,Not Available,Yes,No,Yes,Fiber Optic,No,No,No,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,79.7,79.7,0.0,0,33.88,113.58,Churned,Dissatisfaction,Poor expertise of online support
-65868-RAJ,Female,80,Yes,Rajasthan,4,8,Not Available,Yes,Yes,Yes,Fiber Optic,No,No,Yes,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,-1.0,343.95,0.0,20,33.3,397.25,Churned,Competitor,Competitor offered more data
 48513-TAM,Male,65,No,Tamil Nadu,1,12,Deal 3,Yes,No,Yes,Cable,Yes,No,No,Yes,Yes,Yes,Yes,Yes,One Year,No,Bank Withdrawal,74.4,1712.9,0.0,0,788.64,2501.54,Stayed,Others,Others
 72588-RAJ,Female,77,No,Rajasthan,4,18,Not Available,Yes,Yes,Yes,Fiber Optic,No,No,Yes,No,No,Yes,No,Yes,Month-to-Month,No,Credit Card,88.3,2467.75,0.0,0,457.38,2925.13,Churned,Other,Don't know
 93542-TEL,Female,36,Yes,Telangana,5,16,Deal 1,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Two Year,No,Bank Withdrawal,19.8,1397.65,0.0,0,819.7,2217.35,Stayed,Others,Others
@@ -419,7 +414,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 88373-ODI,Male,32,No,Odisha,3,21,Deal 4,Yes,No,Yes,Cable,No,No,No,No,No,No,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,45.55,402.6,0.0,0,344.4,747.0,Churned,Attitude,Attitude of support person
 21967-WES,Male,46,Yes,West Bengal,1,33,Deal 2,Yes,Yes,Yes,Fiber Optic,Yes,No,No,Yes,No,Yes,Yes,No,One Year,No,Bank Withdrawal,93.55,6069.25,0.0,30,176.8,6276.05,Stayed,Others,Others
 17796-BIH,Female,65,No,Bihar,5,1,Not Available,Yes,No,Yes,Cable,Yes,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,48.45,48.45,0.0,0,16.42,64.87,Joined,Others,Others
-17060-JAM,Female,80,No,Jammu & Kashmir,5,8,Not Available,No,No,Yes,Cable,Yes,No,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,-10.0,840.1,0.0,0,0.0,840.1,Churned,Competitor,Competitor made better offer
 89590-MAD,Male,37,No,Madhya Pradesh,11,23,Deal 3,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Two Year,No,Credit Card,20.2,558.8,0.0,0,998.76,1557.56,Stayed,Others,Others
 65431-AND,Female,56,Yes,Andhra Pradesh,9,2,Not Available,Yes,Yes,No,Not Available,No,No,No,No,No,No,No,No,Two Year,Yes,Credit Card,24.15,1776.45,0.0,0,2734.56,4511.01,Stayed,Others,Others
 38793-DEL,Female,46,Yes,Delhi,10,19,Not Available,Yes,No,Yes,Cable,Yes,No,Yes,Yes,Yes,No,No,Yes,One Year,Yes,Bank Withdrawal,67.5,1544.05,0.0,0,435.6,1979.65,Churned,Other,Don't know
@@ -561,7 +555,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 19754-JAM,Female,63,No,Jammu & Kashmir,15,1,Deal 5,No,No,Yes,DSL,No,No,No,Yes,Yes,No,No,Yes,Month-to-Month,No,Mailed Check,40.65,328.95,0.0,0,0.0,328.95,Churned,Competitor,Competitor had better devices
 15018-TAM,Female,34,No,Tamil Nadu,8,34,Not Available,Yes,Yes,Yes,Cable,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,No,Credit Card,89.9,5958.85,0.0,0,2399.76,8358.61,Stayed,Others,Others
 64668-JAM,Male,38,No,Jammu & Kashmir,1,35,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Two Year,No,Credit Card,19.4,578.5,0.0,0,278.1,856.6,Stayed,Others,Others
-59723-RAJ,Male,34,No,Rajasthan,13,6,Deal 2,Yes,No,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,One Year,Yes,Bank Withdrawal,-2.0,4138.9,0.0,0,1728.66,5867.56,Stayed,Others,Others
 75858-HAR,Female,60,No,Haryana,10,31,Not Available,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,75.35,564.65,0.0,0,176.19,740.84,Stayed,Others,Others
 37270-MAH,Male,36,No,Maharashtra,10,18,Not Available,No,No,Yes,DSL,No,No,No,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,35.55,35.55,0.0,0,0.0,35.55,Churned,Other,Don't know
 33717-JAM,Male,42,No,Jammu & Kashmir,10,29,Not Available,Yes,Yes,Yes,Fiber Optic,No,No,No,No,Yes,No,No,Yes,Month-to-Month,No,Bank Withdrawal,85.45,4517.25,0.0,0,870.79,5388.04,Churned,Other,Don't know
@@ -675,9 +668,7 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 18928-UTT,Female,64,No,Uttar Pradesh,2,18,Not Available,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,Yes,No,No,No,No,Month-to-Month,No,Bank Withdrawal,90.55,5116.6,0.0,40,156.8,5313.4,Stayed,Others,Others
 66926-HAR,Male,35,No,Haryana,7,6,Not Available,Yes,Yes,No,Not Available,No,No,No,No,No,No,No,No,One Year,Yes,Mailed Check,24.85,962.25,0.0,0,1339.06,2301.31,Stayed,Others,Others
 76279-MAH,Male,31,No,Maharashtra,3,32,Not Available,Yes,No,Yes,DSL,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Two Year,Yes,Bank Withdrawal,74.35,4317.35,0.0,0,1406.19,5723.54,Stayed,Others,Others
-11264-MAH,Female,27,Yes,Maharashtra,14,17,Deal 5,No,No,Yes,DSL,No,No,No,No,No,No,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,-4.0,24.8,0.0,0,0.0,24.8,Churned,Dissatisfaction,Product dissatisfaction
 82992-JAM,Female,62,No,Jammu & Kashmir,15,19,Deal 3,Yes,No,Yes,Fiber Optic,No,No,No,No,Yes,Yes,Yes,No,One Year,Yes,Mailed Check,89.1,3342.0,0.0,90,1143.42,4575.42,Stayed,Others,Others
-72873-JAM,Male,44,No,Jammu & Kashmir,2,12,Deal 4,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,-7.0,825.7,0.0,0,237.38,1063.08,Churned,Competitor,Competitor made better offer
 41429-ODI,Female,45,Yes,Odisha,5,30,Not Available,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,69.05,1815.65,0.0,0,975.26,2790.91,Stayed,Others,Others
 98408-AND,Female,30,No,Andhra Pradesh,4,3,Not Available,Yes,No,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,Yes,Bank Withdrawal,80.45,5886.85,0.0,0,933.12,6819.97,Stayed,Others,Others
 97033-BIH,Female,74,Yes,Bihar,0,9,Deal 3,Yes,Yes,Yes,Fiber Optic,No,No,No,Yes,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,101.5,2917.65,0.0,0,1440.6,4358.25,Stayed,Others,Others
@@ -685,7 +676,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 83908-DEL,Female,47,Yes,Delhi,15,28,Deal 5,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,70.85,70.85,0.0,0,27.05,97.9,Churned,Dissatisfaction,Network reliability
 57274-PUN,Female,56,No,Punjab,15,24,Not Available,Yes,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,One Year,Yes,Bank Withdrawal,78.45,5333.35,0.0,0,507.96,5841.31,Stayed,Others,Others
 35014-HAR,Female,74,Yes,Haryana,6,28,Not Available,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,103.5,6479.4,0.0,0,1142.82,7622.22,Stayed,Others,Others
-22364-UTT,Male,57,Yes,Uttar Pradesh,14,21,Not Available,Yes,No,Yes,DSL,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Credit Card,-9.0,4663.4,0.0,0,2385.6,7049.0,Stayed,Others,Others
 25757-JHA,Male,41,No,Jharkhand,13,33,Deal 4,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.6,414.95,0.0,0,89.3,504.25,Stayed,Others,Others
 15418-PUN,Female,62,No,Punjab,2,31,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,One Year,No,Bank Withdrawal,19.8,229.6,0.0,0,451.8,681.4,Churned,Attitude,Attitude of support person
 56083-AND,Female,24,Yes,Andhra Pradesh,3,3,Not Available,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,Yes,Yes,Month-to-Month,No,Bank Withdrawal,70.25,2868.05,0.0,0,1671.98,4540.03,Churned,Attitude,Attitude of support person
@@ -716,7 +706,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 44709-WES,Female,72,Yes,West Bengal,7,17,Not Available,No,No,Yes,DSL,No,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,30.75,82.85,0.0,0,0.0,82.85,Joined,Others,Others
 59940-MAH,Male,72,Yes,Maharashtra,11,13,Not Available,Yes,Yes,No,Not Available,No,No,No,No,No,No,No,No,Two Year,No,Credit Card,25.65,1740.8,0.0,0,1883.52,3624.32,Stayed,Others,Others
 68533-AND,Female,61,No,Andhra Pradesh,1,36,Deal 2,Yes,No,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,No,Credit Card,85.5,4421.95,0.0,0,1730.43,6152.38,Stayed,Others,Others
-39870-WES,Male,40,No,West Bengal,10,21,Deal 5,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,-7.0,69.75,0.0,0,27.97,97.72,Churned,Attitude,Attitude of support person
 41682-KAR,Female,21,No,Karnataka,12,10,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,One Year,Yes,Credit Card,20.35,1442.65,0.0,0,1619.43,3062.08,Stayed,Others,Others
 71483-BIH,Male,47,Yes,Bihar,6,20,Deal 5,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,69.1,69.1,0.0,0,16.55,85.65,Churned,Other,Don't know
 37016-JAM,Female,63,Yes,Jammu & Kashmir,12,18,Deal 3,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Two Year,No,Bank Withdrawal,20.4,743.5,0.0,0,264.86,1008.36,Stayed,Others,Others
@@ -877,7 +866,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 57456-CHH,Male,72,Yes,Chhattisgarh,15,6,Deal 5,Yes,Yes,Yes,Fiber Optic,No,No,Yes,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,78.55,149.55,0.0,0,87.92,237.47,Churned,Competitor,Competitor made better offer
 29602-PUN,Female,62,No,Punjab,11,2,Deal 1,Yes,Yes,Yes,Fiber Optic,No,No,Yes,No,Yes,Yes,Yes,Yes,Two Year,Yes,Bank Withdrawal,97.85,6841.3,0.0,0,184.32,7025.62,Stayed,Others,Others
 23051-KAR,Male,55,No,Karnataka,12,29,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Two Year,No,Credit Card,20.45,1024.65,0.0,0,1553.3,2577.95,Stayed,Others,Others
-66144-AND,Female,64,Yes,Andhra Pradesh,1,31,Not Available,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,No,No,No,Yes,One Year,Yes,Bank Withdrawal,-5.0,3344.1,0.0,0,567.42,3911.52,Stayed,Others,Others
 59209-MAH,Male,31,No,Maharashtra,6,29,Deal 4,Yes,Yes,Yes,Fiber Optic,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,106.1,2249.95,0.0,0,458.43,2708.38,Churned,Price,Long distance charges
 58317-MAD,Male,77,No,Madhya Pradesh,5,33,Not Available,Yes,Yes,Yes,DSL,No,Yes,Yes,No,Yes,Yes,Yes,Yes,One Year,Yes,Bank Withdrawal,80.85,4079.55,0.0,0,366.08,4445.63,Stayed,Others,Others
 42706-MAD,Female,41,Yes,Madhya Pradesh,0,11,Not Available,Yes,Yes,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,50.3,913.3,0.0,0,689.76,1603.06,Stayed,Others,Others
@@ -911,7 +899,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 82183-WES,Female,30,Yes,West Bengal,8,6,Not Available,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Two Year,Yes,Bank Withdrawal,115.6,8220.4,0.0,140,2497.68,10858.08,Stayed,Others,Others
 84122-UTT,Male,35,Yes,Uttar Pradesh,2,4,Not Available,Yes,Yes,Yes,Cable,No,No,No,Yes,Yes,Yes,Yes,No,Month-to-Month,No,Bank Withdrawal,71.6,1957.1,0.0,140,365.85,2462.95,Stayed,Others,Others
 49699-JAM,Female,19,No,Jammu & Kashmir,9,10,Deal 4,Yes,No,Yes,DSL,Yes,No,No,No,Yes,No,No,Yes,One Year,Yes,Bank Withdrawal,59.75,1374.35,0.0,0,132.66,1507.01,Stayed,Others,Others
-88042-CHH,Female,24,Yes,Chhattisgarh,9,4,Deal 4,Yes,No,Yes,DSL,No,Yes,Yes,Yes,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,-10.0,688.5,49.24,0,316.36,955.62,Stayed,Others,Others
 33682-AND,Male,49,No,Andhra Pradesh,2,4,Deal 5,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Two Year,No,Credit Card,19.55,68.8,0.0,0,116.36,185.16,Stayed,Others,Others
 42561-GUJ,Female,57,Yes,Gujarat,10,17,Deal 5,Yes,Yes,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,48.8,349.8,0.0,0,63.7,413.5,Stayed,Others,Others
 41881-RAJ,Male,42,Yes,Rajasthan,7,16,Deal 5,Yes,No,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Month-to-Month,No,Credit Card,78.65,483.3,0.0,10,279.54,772.84,Stayed,Others,Others
@@ -943,7 +930,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 21928-KAR,Male,30,Yes,Karnataka,3,36,Not Available,Yes,No,Yes,Fiber Optic,No,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,74.05,1565.7,0.0,0,106.47,1672.17,Churned,Dissatisfaction,Lack of self-service on Website
 92118-PUN,Male,52,Yes,Punjab,9,32,Not Available,No,No,Yes,DSL,Yes,No,Yes,No,No,No,No,Yes,One Year,No,Credit Card,35.3,264.8,0.0,0,0.0,264.8,Stayed,Others,Others
 62729-WES,Female,42,Yes,West Bengal,1,35,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Two Year,No,Bank Withdrawal,19.75,1272.05,0.0,0,698.82,1970.87,Stayed,Others,Others
-28587-GUJ,Male,34,No,Gujarat,12,5,Not Available,Yes,No,Yes,DSL,No,No,Yes,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,-3.0,712.25,0.0,0,177.54,889.79,Stayed,Others,Others
 27880-UTT,Male,74,No,Uttar Pradesh,1,25,Not Available,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,105.9,334.65,0.0,0,123.9,458.55,Churned,Attitude,Attitude of service provider
 98696-WES,Male,29,Yes,West Bengal,9,29,Not Available,Yes,Yes,Yes,Fiber Optic,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,No,Bank Withdrawal,107.95,5969.85,0.0,0,956.46,6926.31,Stayed,Others,Others
 24871-BIH,Male,61,Yes,Bihar,3,26,Deal 4,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,One Year,Yes,Credit Card,20.0,445.3,0.0,0,557.06,1002.36,Stayed,Others,Others
@@ -968,7 +954,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 53368-RAJ,Female,37,Yes,Rajasthan,4,26,Deal 4,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,19.05,454.05,0.0,0,1021.9,1475.95,Stayed,Others,Others
 16556-GUJ,Female,52,No,Gujarat,9,32,Not Available,No,No,Yes,DSL,No,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,30.6,856.35,0.0,0,0.0,856.35,Churned,Dissatisfaction,Product dissatisfaction
 41272-MAD,Female,64,Yes,Madhya Pradesh,1,16,Deal 4,Yes,No,Yes,Cable,No,No,Yes,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Credit Card,67.8,653.15,0.0,0,370.8,1023.95,Stayed,Others,Others
-96283-HAR,Female,38,Yes,Haryana,2,9,Deal 3,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,One Year,No,Credit Card,-5.0,459.6,0.0,0,45.5,505.1,Stayed,Others,Others
 47938-BIH,Female,32,No,Bihar,11,24,Not Available,No,No,Yes,DSL,No,Yes,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,29.15,357.15,0.0,0,0.0,357.15,Stayed,Others,Others
 74506-HAR,Female,39,Yes,Haryana,11,14,Not Available,Yes,No,Yes,Fiber Optic,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,One Year,Yes,Bank Withdrawal,103.15,7031.3,0.0,0,2603.7,9635.0,Stayed,Others,Others
 13194-UTT,Female,48,No,Uttarakhand,10,36,Deal 1,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,One Year,No,Credit Card,115.65,7968.85,0.0,10,1201.9,9180.75,Churned,Dissatisfaction,Product dissatisfaction
@@ -1289,10 +1274,8 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 88789-TAM,Male,41,Yes,Tamil Nadu,12,6,Not Available,Yes,No,Yes,Fiber Optic,No,Yes,Yes,No,Yes,Yes,Yes,Yes,One Year,Yes,Credit Card,100.05,2090.25,0.0,0,199.1,2289.35,Stayed,Others,Others
 17956-WES,Male,57,No,West Bengal,2,6,Not Available,Yes,Yes,Yes,DSL,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,49.9,1441.95,0.0,100,166.8,1708.75,Stayed,Others,Others
 33968-MAD,Male,63,Yes,Madhya Pradesh,13,34,Not Available,Yes,No,Yes,DSL,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Two Year,No,Bank Withdrawal,79.2,4016.3,0.0,0,859.56,4875.86,Stayed,Others,Others
-79898-PUN,Male,33,Yes,Punjab,13,17,Not Available,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,-7.0,1021.55,0.0,0,264.3,1285.85,Stayed,Others,Others
 93798-TAM,Male,64,No,Tamil Nadu,1,6,Not Available,Yes,No,Yes,DSL,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,45.3,45.3,0.0,30,28.37,103.67,Churned,Competitor,Competitor offered higher download speeds
 76580-TAM,Female,29,Yes,Tamil Nadu,0,17,Deal 5,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Mailed Check,20.4,20.4,0.0,0,22.12,42.52,Churned,Price,Long distance charges
-79098-TAM,Female,55,No,Tamil Nadu,9,31,Deal 4,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,One Year,Yes,Mailed Check,-1.0,415.9,0.0,0,602.6,1018.5,Stayed,Others,Others
 78104-JHA,Female,61,Yes,Jharkhand,11,9,Deal 4,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,78.95,1101.85,0.0,0,229.04,1330.89,Churned,Competitor,Competitor made better offer
 58802-TAM,Female,42,Yes,Tamil Nadu,0,32,Not Available,Yes,Yes,Yes,Fiber Optic,No,No,No,Yes,No,Yes,Yes,Yes,Month-to-Month,Yes,Credit Card,89.05,1448.6,0.0,0,191.36,1639.96,Churned,Competitor,Competitor made better offer
 88980-HAR,Female,41,Yes,Haryana,9,14,Not Available,Yes,Yes,No,Not Available,No,No,No,No,No,No,No,No,Two Year,No,Bank Withdrawal,23.3,797.1,0.0,0,228.2,1025.3,Stayed,Others,Others
@@ -1343,7 +1326,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 33463-JAM,Female,43,No,Jammu & Kashmir,13,35,Deal 5,Yes,No,Yes,Fiber Optic,No,No,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,90.4,168.2,0.0,0,21.06,189.26,Churned,Other,Don't know
 25525-TAM,Male,28,Yes,Tamil Nadu,12,3,Not Available,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,94.65,3624.3,0.0,0,1888.6,5512.9,Churned,Other,Don't know
 46190-DEL,Male,28,Yes,Delhi,0,24,Deal 3,Yes,No,Yes,Fiber Optic,No,No,Yes,No,Yes,Yes,Yes,No,One Year,Yes,Bank Withdrawal,95.8,3036.75,0.0,60,1379.4,4476.15,Churned,Competitor,Competitor made better offer
-42950-PUN,Female,31,No,Punjab,4,29,Not Available,Yes,Yes,Yes,Fiber Optic,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,-4.0,4946.05,0.0,0,504.0,5450.05,Stayed,Others,Others
 59786-WES,Female,65,No,West Bengal,10,10,Not Available,Yes,No,Yes,Fiber Optic,No,No,Yes,No,No,Yes,Yes,Yes,Month-to-Month,No,Bank Withdrawal,86.05,308.1,0.0,0,177.44,485.54,Stayed,Others,Others
 56827-HAR,Female,44,Yes,Haryana,9,2,Deal 3,Yes,Yes,Yes,DSL,Yes,Yes,No,Yes,No,No,No,Yes,Month-to-Month,No,Credit Card,67.45,1801.1,0.0,0,398.46,2199.56,Stayed,Others,Others
 81714-BIH,Female,45,No,Bihar,7,36,Not Available,Yes,No,Yes,DSL,Yes,Yes,No,No,No,No,No,Yes,One Year,No,Bank Withdrawal,55.45,1477.65,0.0,0,547.83,2025.48,Stayed,Others,Others
@@ -1377,7 +1359,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 26308-ODI,Male,45,Yes,Odisha,5,24,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Two Year,No,Bank Withdrawal,19.35,1153.25,0.0,0,1358.5,2511.75,Stayed,Others,Others
 44055-UTT,Male,50,Yes,Uttar Pradesh,0,17,Not Available,Yes,No,Yes,Cable,Yes,No,No,No,No,No,No,No,Month-to-Month,Yes,Mailed Check,49.4,232.55,0.0,10,235.3,477.85,Stayed,Others,Others
 64910-PUN,Female,47,Yes,Punjab,12,30,Not Available,Yes,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,No,No,Yes,Two Year,No,Credit Card,70.9,4911.35,49.37,0,1863.88,6725.86,Stayed,Others,Others
-52140-TAM,Female,76,No,Tamil Nadu,2,27,Not Available,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,-10.0,533.05,0.0,0,149.59,682.64,Stayed,Others,Others
 99317-UTT,Female,46,Yes,Uttar Pradesh,13,6,Not Available,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Mailed Check,69.25,418.4,0.0,0,236.16,654.56,Churned,Competitor,Competitor made better offer
 82483-BIH,Female,80,No,Bihar,14,3,Deal 2,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,104.4,4133.95,0.0,0,259.53,4393.48,Stayed,Others,Others
 28873-TAM,Male,55,No,Tamil Nadu,7,4,Not Available,Yes,No,Yes,Fiber Optic,No,Yes,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,74.95,151.75,0.0,0,7.52,159.27,Joined,Others,Others
@@ -1495,7 +1476,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 89279-ODI,Male,43,Yes,Odisha,6,11,Not Available,Yes,No,Yes,DSL,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Two Year,Yes,Bank Withdrawal,79.35,5753.25,0.0,40,2145.6,7938.85,Stayed,Others,Others
 92904-KAR,Male,34,No,Karnataka,3,26,Not Available,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,Yes,Yes,Yes,Yes,One Year,Yes,Credit Card,103.2,7362.9,45.38,0,2135.52,9453.04,Stayed,Others,Others
 91617-AND,Female,76,No,Andhra Pradesh,6,24,Not Available,No,No,Yes,DSL,No,No,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,44.4,263.05,0.0,0,0.0,263.05,Stayed,Others,Others
-59731-HAR,Female,24,No,Haryana,15,9,Deal 1,Yes,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,No,No,No,Two Year,No,Credit Card,-4.0,5401.9,0.0,20,1613.52,7035.42,Stayed,Others,Others
 21500-HAR,Female,38,Yes,Haryana,5,28,Not Available,Yes,Yes,Yes,Cable,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,50.85,239.55,0.0,0,51.52,291.07,Churned,Dissatisfaction,Product dissatisfaction
 38785-TAM,Female,53,Yes,Tamil Nadu,4,35,Deal 2,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Two Year,No,Credit Card,20.65,1218.45,0.0,0,691.3,1909.75,Stayed,Others,Others
 71631-KAR,Female,30,No,Karnataka,0,27,Deal 3,Yes,No,Yes,Fiber Optic,Yes,No,Yes,Yes,Yes,No,Yes,Yes,One Year,Yes,Bank Withdrawal,95.55,3692.85,0.0,0,174.72,3867.57,Churned,Attitude,Attitude of service provider
@@ -1509,7 +1489,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 38932-TAM,Female,59,No,Tamil Nadu,5,8,Not Available,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,105.85,2239.65,0.0,0,575.8,2815.45,Churned,Dissatisfaction,Service dissatisfaction
 39438-PUN,Male,44,Yes,Punjab,13,13,Not Available,Yes,No,Yes,Fiber Optic,Yes,Yes,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,81.05,5135.35,0.0,0,3167.36,8302.71,Stayed,Others,Others
 67754-WES,Female,31,Yes,West Bengal,0,15,Deal 1,Yes,Yes,Yes,Cable,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Two Year,No,Credit Card,79.55,5810.9,0.0,0,3243.6,9054.5,Stayed,Others,Others
-36043-TAM,Female,27,No,Tamil Nadu,14,23,Deal 5,Yes,Yes,Yes,Fiber Optic,No,No,Yes,No,Yes,No,No,Yes,One Year,Yes,Bank Withdrawal,-10.0,767.9,0.0,0,274.14,1042.04,Stayed,Others,Others
 52683-GUJ,Female,23,No,Gujarat,7,2,Deal 2,Yes,Yes,Yes,Fiber Optic,Yes,No,Yes,No,Yes,Yes,Yes,Yes,One Year,No,Bank Withdrawal,104.0,6363.45,0.0,0,2787.09,9150.54,Stayed,Others,Others
 15837-RAJ,Female,58,Yes,Rajasthan,3,16,Not Available,Yes,Yes,Yes,DSL,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Two Year,Yes,Credit Card,85.15,4461.85,0.0,0,1665.04,6126.89,Stayed,Others,Others
 97161-MAD,Female,34,Yes,Madhya Pradesh,14,17,Not Available,No,No,Yes,DSL,Yes,Yes,Yes,Yes,No,No,No,Yes,Two Year,No,Bank Withdrawal,46.25,3121.4,0.0,0,0.0,3121.4,Stayed,Others,Others
@@ -1582,7 +1561,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 68216-ODI,Female,56,Yes,Odisha,6,21,Not Available,Yes,Yes,Yes,Fiber Optic,Yes,No,Yes,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,94.4,4014.6,0.0,0,1728.72,5743.32,Stayed,Others,Others
 58325-MAD,Female,61,No,Madhya Pradesh,13,35,Deal 2,Yes,No,Yes,Cable,Yes,Yes,Yes,No,No,No,No,No,One Year,Yes,Credit Card,61.5,2722.2,0.0,150,1974.28,4846.48,Stayed,Others,Others
 73593-BIH,Female,34,Yes,Bihar,14,31,Not Available,Yes,No,Yes,Cable,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Two Year,No,Bank Withdrawal,75.2,3254.35,0.0,0,1289.14,4543.49,Stayed,Others,Others
-58319-UTT,Female,24,No,Uttarakhand,4,11,Deal 5,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,One Year,No,Mailed Check,-2.0,134.05,0.0,0,291.48,425.53,Stayed,Others,Others
 96575-KAR,Female,78,Yes,Karnataka,5,7,Not Available,Yes,Yes,Yes,Fiber Optic,No,No,Yes,Yes,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,103.3,2890.65,0.0,0,787.92,3678.57,Churned,Competitor,Competitor made better offer
 48234-KAR,Male,24,Yes,Karnataka,7,6,Not Available,Yes,No,Yes,Fiber Optic,No,No,Yes,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,94.9,3848.0,0.0,0,1770.79,5618.79,Stayed,Others,Others
 78790-PUN,Male,49,No,Punjab,0,4,Deal 3,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,80.25,1861.5,0.0,0,1183.2,3044.7,Churned,Competitor,Competitor had better devices
@@ -1624,7 +1602,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 19349-ODI,Male,67,Yes,Odisha,14,2,Deal 2,Yes,Yes,Yes,Cable,No,Yes,Yes,Yes,Yes,Yes,No,Yes,One Year,Yes,Bank Withdrawal,111.95,4534.9,0.0,0,1846.64,6381.54,Churned,Other,Don't know
 36469-UTT,Female,36,Yes,Uttar Pradesh,9,22,Not Available,Yes,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,Yes,Bank Withdrawal,85.1,4657.95,0.0,0,461.45,5119.4,Stayed,Others,Others
 13305-RAJ,Female,26,Yes,Rajasthan,14,26,Deal 2,No,No,Yes,DSL,Yes,Yes,No,Yes,No,Yes,Yes,No,One Year,Yes,Bank Withdrawal,50.7,3088.75,0.0,20,0.0,3108.75,Stayed,Others,Others
-89062-UTT,Male,45,No,Uttar Pradesh,5,33,Not Available,Yes,No,Yes,DSL,No,Yes,Yes,Yes,No,No,No,Yes,Month-to-Month,Yes,Credit Card,-7.0,2924.05,0.0,0,1657.92,4581.97,Stayed,Others,Others
 38795-MAH,Female,39,Yes,Maharashtra,15,25,Deal 2,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,One Year,Yes,Bank Withdrawal,110.15,6448.05,0.0,0,1339.89,7787.94,Churned,Dissatisfaction,Network reliability
 73490-PUN,Female,70,Yes,Punjab,11,15,Deal 4,No,No,Yes,DSL,No,No,No,No,No,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,34.7,329.8,0.0,0,0.0,329.8,Churned,Other,Deceased
 84535-TAM,Male,46,No,Tamil Nadu,2,36,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Mailed Check,20.4,42.9,0.0,0,99.06,141.96,Joined,Others,Others
@@ -1635,7 +1612,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 97221-AND,Female,19,No,Andhra Pradesh,13,1,Deal 4,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.75,208.25,0.0,0,202.9,411.15,Stayed,Others,Others
 41649-MAD,Male,50,No,Madhya Pradesh,4,11,Deal 1,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Two Year,No,Bank Withdrawal,19.85,1434.1,0.0,0,246.96,1681.06,Stayed,Others,Others
 99727-WES,Male,37,Yes,West Bengal,6,24,Deal 1,Yes,No,Yes,DSL,Yes,Yes,No,No,No,No,No,Yes,One Year,Yes,Mailed Check,54.8,3465.7,0.0,0,762.96,4228.66,Stayed,Others,Others
-26899-MAH,Male,47,No,Maharashtra,7,21,Not Available,Yes,Yes,Yes,Fiber Optic,No,No,Yes,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,-1.0,2391.8,0.0,0,830.88,3222.68,Churned,Price,Lack of affordable download/upload speed
 45392-GUJ,Male,39,No,Gujarat,12,29,Not Available,Yes,Yes,Yes,Fiber Optic,No,No,Yes,No,Yes,No,No,Yes,One Year,Yes,Credit Card,89.6,1633.0,0.0,0,626.04,2259.04,Stayed,Others,Others
 71989-KAR,Female,61,Yes,Karnataka,11,9,Deal 4,Yes,Yes,Yes,DSL,Yes,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,54.45,1127.35,0.0,0,160.16,1287.51,Churned,Other,Don't know
 13429-MAH,Female,47,No,Maharashtra,0,14,Deal 2,Yes,Yes,Yes,Fiber Optic,Yes,No,Yes,No,Yes,No,No,Yes,Two Year,Yes,Credit Card,94.6,5948.7,0.0,0,81.28,6029.98,Stayed,Others,Others
@@ -1655,7 +1631,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 74757-MAH,Male,64,No,Maharashtra,14,8,Not Available,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,One Year,Yes,Credit Card,75.2,775.3,0.0,0,315.04,1090.34,Stayed,Others,Others
 69071-ODI,Female,36,No,Odisha,1,21,Not Available,Yes,Yes,Yes,Fiber Optic,No,No,Yes,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,92.5,452.7,0.0,0,16.25,468.95,Churned,Competitor,Competitor offered more data
 56554-RAJ,Female,29,Yes,Rajasthan,0,11,Deal 5,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,19.75,19.75,0.0,0,10.22,29.97,Joined,Others,Others
-47587-KER,Female,45,Yes,Kerala,13,5,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,One Year,No,Bank Withdrawal,-4.0,395.6,0.0,0,146.2,541.8,Stayed,Others,Others
 36755-AND,Female,62,Yes,Andhra Pradesh,9,9,Deal 5,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.65,169.75,0.0,0,209.36,379.11,Stayed,Others,Others
 86362-ASS,Female,35,Yes,Assam,15,11,Not Available,Yes,No,Yes,Fiber Optic,No,No,No,Yes,No,No,No,Yes,Month-to-Month,Yes,Mailed Check,74.3,74.3,0.0,0,39.55,113.85,Joined,Others,Others
 61877-CHH,Male,70,No,Chhattisgarh,0,34,Deal 1,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Two Year,No,Bank Withdrawal,111.65,7943.45,0.0,0,3226.32,11169.77,Stayed,Others,Others
@@ -1819,7 +1794,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 77286-PUN,Male,29,No,Punjab,7,8,Deal 5,Yes,Yes,Yes,Fiber Optic,No,No,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,85.35,758.6,0.0,0,442.26,1200.86,Churned,Competitor,Competitor offered higher download speeds
 41322-UTT,Female,36,Yes,Uttar Pradesh,7,2,Deal 2,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,One Year,Yes,Credit Card,108.05,7118.9,0.0,0,2687.1,9806.0,Stayed,Others,Others
 16327-WES,Male,83,No,West Bengal,13,2,Deal 3,Yes,No,Yes,Fiber Optic,No,Yes,Yes,No,Yes,Yes,No,No,One Year,Yes,Bank Withdrawal,101.45,2948.6,0.0,60,191.11,3199.71,Stayed,Others,Others
-32586-UTT,Female,25,No,Uttar Pradesh,15,10,Not Available,Yes,Yes,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,-8.0,25.75,0.0,0,15.22,40.97,Joined,Others,Others
 56878-HAR,Female,49,No,Haryana,3,23,Deal 4,Yes,Yes,Yes,Fiber Optic,No,No,No,Yes,No,No,No,Yes,Month-to-Month,Yes,Credit Card,79.55,958.25,0.0,0,263.16,1221.41,Stayed,Others,Others
 18214-MAH,Female,29,No,Maharashtra,9,34,Deal 2,Yes,Yes,Yes,Fiber Optic,Yes,No,No,No,Yes,Yes,Yes,Yes,One Year,No,Credit Card,100.9,5448.6,0.0,0,2264.9,7713.5,Stayed,Others,Others
 21140-UTT,Male,38,No,Uttar Pradesh,7,36,Not Available,Yes,No,Yes,Fiber Optic,No,No,No,Yes,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,73.85,926.25,0.0,0,494.34,1420.59,Churned,Other,Moved
@@ -1858,7 +1832,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 26221-TAM,Female,34,No,Tamil Nadu,12,24,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,One Year,No,Credit Card,20.15,419.9,0.0,0,1057.32,1477.22,Stayed,Others,Others
 33439-RAJ,Female,37,No,Rajasthan,6,32,Deal 2,Yes,No,Yes,Fiber Optic,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,One Year,Yes,Bank Withdrawal,103.7,4730.6,0.0,0,115.15,4845.75,Stayed,Others,Others
 77594-AND,Male,40,Yes,Andhra Pradesh,8,15,Deal 2,Yes,Yes,Yes,DSL,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Two Year,Yes,Credit Card,74.2,4805.65,0.0,0,1444.95,6250.6,Stayed,Others,Others
-66737-CHH,Female,77,Yes,Chhattisgarh,10,22,Deal 5,Yes,Yes,Yes,Fiber Optic,No,No,No,Yes,Yes,Yes,Yes,Yes,Two Year,Yes,Credit Card,-8.0,908.55,0.0,0,318.88,1227.43,Stayed,Others,Others
 95984-MAH,Male,55,No,Maharashtra,15,25,Deal 4,Yes,Yes,Yes,Fiber Optic,No,No,No,No,Yes,Yes,Yes,Yes,Month-to-Month,No,Bank Withdrawal,95.2,930.4,0.0,0,356.3,1286.7,Churned,Competitor,Competitor offered more data
 45860-ODI,Female,38,Yes,Odisha,14,12,Not Available,Yes,No,Yes,Fiber Optic,No,No,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,77.65,714.15,0.0,0,205.92,920.07,Churned,Competitor,Competitor made better offer
 73156-RAJ,Female,57,Yes,Rajasthan,2,29,Deal 3,Yes,No,Yes,Fiber Optic,Yes,No,No,Yes,No,Yes,Yes,Yes,One Year,Yes,Bank Withdrawal,89.2,3251.3,0.0,0,1736.35,4987.65,Stayed,Others,Others
@@ -1913,7 +1886,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 49491-TEL,Female,49,Yes,Telangana,6,19,Not Available,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,45.0,865.85,22.55,0,560.88,1404.18,Stayed,Others,Others
 12391-TEL,Male,40,No,Telangana,9,24,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,One Year,Yes,Credit Card,19.8,572.2,0.0,0,1337.48,1909.68,Stayed,Others,Others
 54756-TEL,Male,36,Yes,Telangana,5,28,Deal 2,Yes,No,Yes,Fiber Optic,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,One Year,No,Credit Card,103.9,6449.15,0.0,0,2627.88,9077.03,Stayed,Others,Others
-95873-GUJ,Male,43,No,Gujarat,12,26,Deal 5,Yes,No,Yes,Cable,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,-8.0,199.75,0.0,0,135.72,335.47,Stayed,Others,Others
 71752-TEL,Female,51,No,Telangana,4,2,Deal 5,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,19.9,57.4,0.0,0,53.8,111.2,Joined,Others,Others
 15692-UTT,Female,25,No,Uttar Pradesh,0,23,Not Available,Yes,No,Yes,Cable,No,No,No,No,No,No,Yes,Yes,Month-to-Month,No,Credit Card,45.05,45.05,0.0,0,48.03,93.08,Churned,Competitor,Competitor had better devices
 37245-MAD,Female,57,No,Madhya Pradesh,12,31,Deal 4,No,No,Yes,DSL,Yes,Yes,Yes,Yes,No,No,No,Yes,One Year,No,Credit Card,45.9,693.45,16.27,0,0.0,677.18,Stayed,Others,Others
@@ -2163,7 +2135,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 81612-UTT,Female,36,No,Uttar Pradesh,6,5,Deal 2,No,No,Yes,DSL,Yes,Yes,No,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,46.3,2546.85,0.0,0,0.0,2546.85,Stayed,Others,Others
 49597-KAR,Female,57,Yes,Karnataka,4,14,Deal 3,Yes,Yes,Yes,Fiber Optic,No,No,Yes,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Credit Card,90.05,3097.0,0.0,0,681.7,3778.7,Stayed,Others,Others
 43254-HAR,Female,40,Yes,Haryana,5,32,Deal 2,Yes,No,Yes,DSL,Yes,Yes,Yes,Yes,No,No,No,Yes,One Year,Yes,Bank Withdrawal,65.85,3928.3,0.0,0,2614.2,6542.5,Stayed,Others,Others
-27948-CHH,Male,72,No,Chhattisgarh,14,17,Not Available,Yes,Yes,Yes,Fiber Optic,No,No,Yes,No,Yes,Yes,No,Yes,One Year,Yes,Bank Withdrawal,-2.0,5409.75,0.0,0,1628.0,7037.75,Stayed,Others,Others
 27001-KER,Female,21,No,Kerala,0,4,Not Available,Yes,No,Yes,Fiber Optic,No,Yes,No,Yes,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,92.55,4779.45,0.0,0,1289.49,6068.94,Stayed,Others,Others
 75280-BIH,Male,44,Yes,Bihar,2,36,Not Available,Yes,No,Yes,DSL,No,No,Yes,No,Yes,Yes,Yes,No,One Year,Yes,Credit Card,70.0,347.4,0.0,10,226.25,583.65,Churned,Competitor,Competitor had better devices
 52439-GUJ,Male,54,Yes,Gujarat,6,14,Deal 2,No,No,Yes,DSL,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,53.75,3196.0,0.0,0,0.0,3196.0,Stayed,Others,Others
@@ -2179,7 +2150,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 35401-UTT,Female,42,Yes,Uttar Pradesh,13,26,Not Available,Yes,No,Yes,Cable,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,71.35,71.35,0.0,0,40.4,111.75,Churned,Dissatisfaction,Poor expertise of phone support
 62467-ODI,Female,30,Yes,Odisha,1,7,Deal 4,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,One Year,Yes,Credit Card,19.65,478.1,0.0,0,239.43,717.53,Stayed,Others,Others
 55786-HAR,Female,48,Yes,Haryana,3,7,Deal 5,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Credit Card,100.25,100.25,0.0,0,20.23,120.48,Churned,Other,Don't know
-36228-TAM,Male,78,No,Tamil Nadu,2,31,Not Available,Yes,No,Yes,DSL,Yes,Yes,No,No,No,Yes,No,Yes,One Year,Yes,Bank Withdrawal,-3.0,1339.8,0.0,0,901.95,2241.75,Stayed,Others,Others
 78016-TAM,Female,43,Yes,Tamil Nadu,4,23,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,19.75,313.4,0.0,0,511.84,825.24,Stayed,Others,Others
 76622-RAJ,Female,20,Yes,Rajasthan,2,7,Not Available,No,No,Yes,DSL,No,Yes,Yes,Yes,No,Yes,Yes,No,One Year,Yes,Bank Withdrawal,51.05,3635.15,0.0,120,0.0,3755.15,Stayed,Others,Others
 83553-GUJ,Male,47,No,Gujarat,9,5,Not Available,Yes,No,Yes,Fiber Optic,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,Yes,Bank Withdrawal,105.65,6844.5,0.0,0,2043.36,8887.86,Stayed,Others,Others
@@ -2193,7 +2163,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 46214-JAM,Female,58,No,Jammu & Kashmir,5,12,Not Available,Yes,Yes,Yes,Fiber Optic,No,No,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,84.4,4116.15,0.0,0,1766.5,5882.65,Churned,Competitor,Competitor had better devices
 83658-RAJ,Male,25,Yes,Rajasthan,7,12,Deal 3,Yes,Yes,Yes,Fiber Optic,No,No,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Credit Card,84.6,2088.05,0.0,0,239.25,2327.3,Stayed,Others,Others
 75143-JAM,Female,71,Yes,Jammu & Kashmir,8,29,Not Available,Yes,No,Yes,Fiber Optic,Yes,Yes,No,Yes,Yes,Yes,No,No,One Year,Yes,Mailed Check,105.0,2007.25,0.0,20,151.05,2178.3,Stayed,Others,Others
-73155-ASS,Female,48,Yes,Assam,12,34,Deal 2,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Two Year,No,Credit Card,-3.0,6631.85,0.0,0,1803.75,8435.6,Stayed,Others,Others
 82486-JHA,Female,44,No,Jharkhand,3,1,Not Available,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,84.75,264.85,0.0,0,114.27,379.12,Churned,Competitor,Competitor had better devices
 64535-TAM,Male,41,Yes,Tamil Nadu,1,11,Not Available,Yes,Yes,Yes,Fiber Optic,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,One Year,Yes,Bank Withdrawal,111.25,7511.65,0.0,0,2347.01,9858.66,Stayed,Others,Others
 61904-KER,Female,56,Yes,Kerala,3,36,Not Available,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,75.25,576.7,0.0,0,150.56,727.26,Stayed,Others,Others
@@ -2218,7 +2187,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 14390-UTT,Female,45,No,Uttar Pradesh,3,11,Not Available,Yes,No,Yes,Cable,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,Yes,Credit Card,81.0,3533.6,0.0,0,1170.45,4704.05,Stayed,Others,Others
 78645-UTT,Female,40,No,Uttar Pradesh,7,12,Deal 1,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,No,Yes,No,No,Yes,Two Year,Yes,Credit Card,99.0,7061.65,0.0,0,1116.83,8178.48,Stayed,Others,Others
 49859-UTT,Female,37,No,Uttar Pradesh,9,23,Not Available,Yes,Yes,Yes,DSL,No,No,Yes,Yes,Yes,Yes,Yes,Yes,One Year,Yes,Credit Card,82.0,1425.45,0.0,0,225.0,1650.45,Churned,Dissatisfaction,Product dissatisfaction
-46004-TAM,Male,25,Yes,Tamil Nadu,1,6,Not Available,Yes,No,Yes,DSL,No,No,No,Yes,Yes,Yes,Yes,Yes,Month-to-Month,No,Bank Withdrawal,-8.0,132.4,0.0,0,47.04,179.44,Joined,Others,Others
 21013-JAM,Male,55,No,Jammu & Kashmir,12,8,Not Available,Yes,No,Yes,Fiber Optic,Yes,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,74.5,609.9,0.0,0,383.28,993.18,Churned,Competitor,Competitor made better offer
 51740-TAM,Female,38,Yes,Tamil Nadu,4,25,Not Available,No,No,Yes,DSL,No,No,No,Yes,No,No,No,No,Month-to-Month,Yes,Credit Card,31.0,95.05,0.0,20,0.0,115.05,Churned,Dissatisfaction,Poor expertise of online support
 82482-MAD,Female,64,Yes,Madhya Pradesh,9,34,Deal 4,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Two Year,Yes,Bank Withdrawal,20.05,264.55,0.0,0,484.08,748.63,Stayed,Others,Others
@@ -2458,7 +2426,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 59701-MAH,Female,43,Yes,Maharashtra,4,17,Not Available,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Two Year,Yes,Bank Withdrawal,110.3,7966.9,0.0,0,2376.72,10343.62,Stayed,Others,Others
 39718-JAM,Male,35,Yes,Jammu & Kashmir,14,32,Not Available,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,44.85,435.4,0.0,0,495.8,931.2,Churned,Competitor,Competitor made better offer
 23230-MAH,Male,21,Yes,Maharashtra,12,4,Not Available,Yes,No,Yes,Cable,No,No,No,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,55.0,55.0,0.0,0,47.22,102.22,Churned,Competitor,Competitor had better devices
-13380-JAM,Male,52,No,Jammu & Kashmir,3,8,Not Available,Yes,No,Yes,Fiber Optic,No,No,No,Yes,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,-1.0,1373.05,15.57,0,483.12,1840.6,Stayed,Others,Others
 64131-MAH,Female,24,Yes,Maharashtra,15,6,Deal 2,Yes,Yes,Yes,Fiber Optic,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,One Year,Yes,Bank Withdrawal,111.55,5720.35,0.0,0,2005.32,7725.67,Stayed,Others,Others
 17002-UTT,Male,51,No,Uttar Pradesh,10,34,Not Available,Yes,Yes,Yes,Fiber Optic,No,No,No,No,Yes,Yes,Yes,Yes,Month-to-Month,No,Bank Withdrawal,95.65,778.1,0.0,0,237.28,1015.38,Churned,Attitude,Attitude of support person
 79251-UTT,Female,28,Yes,Uttar Pradesh,5,9,Not Available,Yes,Yes,Yes,Cable,No,Yes,Yes,Yes,Yes,No,No,Yes,One Year,No,Bank Withdrawal,74.6,4368.95,0.0,0,377.91,4746.86,Stayed,Others,Others
@@ -2543,17 +2510,14 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 38918-MAH,Female,47,Yes,Maharashtra,11,2,Not Available,Yes,Yes,Yes,Fiber Optic,Yes,No,No,No,Yes,Yes,Yes,Yes,Two Year,No,Bank Withdrawal,99.15,6875.35,0.0,0,3129.15,10004.5,Stayed,Others,Others
 87939-PUN,Female,30,No,Punjab,14,8,Not Available,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Mailed Check,74.25,74.25,0.0,0,21.8,96.05,Churned,Other,Don't know
 69381-KER,Female,43,No,Kerala,5,34,Not Available,Yes,Yes,Yes,Fiber Optic,No,No,No,No,Yes,No,No,Yes,One Year,No,Bank Withdrawal,84.05,2781.85,0.0,0,1288.32,4070.17,Churned,Other,Moved
-39946-ASS,Female,54,Yes,Assam,11,26,Not Available,Yes,No,Yes,Fiber Optic,No,Yes,Yes,Yes,No,No,No,Yes,One Year,Yes,Bank Withdrawal,-2.0,2184.6,0.0,0,772.72,2957.32,Stayed,Others,Others
 65574-MAH,Female,18,No,Maharashtra,12,10,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,One Year,Yes,Credit Card,20.55,1252.0,0.0,0,1175.47,2427.47,Stayed,Others,Others
 68268-KAR,Male,73,No,Karnataka,6,24,Deal 2,Yes,No,Yes,Fiber Optic,Yes,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,74.15,3229.4,0.0,0,121.8,3351.2,Churned,Attitude,Attitude of support person
 62686-HAR,Female,52,Yes,Haryana,1,21,Deal 2,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,84.5,3906.7,0.0,0,1332.8,5239.5,Stayed,Others,Others
 18103-KAR,Male,47,Yes,Karnataka,5,10,Not Available,Yes,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,No,No,No,Month-to-Month,Yes,Credit Card,78.9,2976.95,0.0,30,1569.17,4576.12,Stayed,Others,Others
 99831-JAM,Male,58,Yes,Jammu & Kashmir,3,36,Deal 5,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,69.1,69.1,0.0,0,38.66,107.76,Churned,Competitor,Competitor made better offer
 56667-PUN,Male,31,Yes,Punjab,15,22,Not Available,Yes,Yes,Yes,Fiber Optic,No,No,Yes,No,Yes,Yes,Yes,Yes,Two Year,No,Credit Card,101.15,6067.4,0.0,0,603.0,6670.4,Stayed,Others,Others
-93521-MAH,Female,55,No,Maharashtra,6,35,Not Available,Yes,No,Yes,DSL,No,No,No,Yes,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,-1.0,49.3,0.0,10,14.97,74.27,Joined,Others,Others
 53050-MAH,Female,22,Yes,Maharashtra,5,10,Deal 5,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Two Year,No,Credit Card,20.45,106.9,0.0,0,145.75,252.65,Stayed,Others,Others
 62597-UTT,Male,33,Yes,Uttar Pradesh,0,29,Not Available,Yes,Yes,Yes,Fiber Optic,Yes,No,No,No,Yes,No,No,Yes,Month-to-Month,No,Bank Withdrawal,91.7,3479.05,0.0,0,482.98,3962.03,Stayed,Others,Others
-56460-MAH,Male,38,Yes,Maharashtra,12,23,Deal 5,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,-1.0,129.2,0.0,10,5.44,144.64,Joined,Others,Others
 94305-KAR,Male,49,Yes,Karnataka,5,18,Deal 5,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,19.75,19.75,0.0,0,5.32,25.07,Joined,Others,Others
 87849-AND,Female,67,No,Andhra Pradesh,11,6,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Two Year,Yes,Mailed Check,18.95,1031.1,0.0,0,1292.76,2323.86,Stayed,Others,Others
 56124-WES,Female,18,No,West Bengal,4,12,Deal 2,Yes,No,Yes,Cable,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,Yes,Credit Card,83.85,4307.1,0.0,0,351.39,4658.49,Stayed,Others,Others
@@ -2624,7 +2588,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 62959-PUN,Male,59,Yes,Punjab,7,6,Deal 5,No,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,23.45,23.45,0.0,0,0.0,23.45,Churned,Price,Price too high
 24696-BIH,Female,69,Yes,Bihar,0,20,Deal 5,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,43.95,85.1,0.0,0,38.18,123.28,Joined,Others,Others
 14706-TAM,Female,53,No,Tamil Nadu,13,13,Not Available,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,69.95,529.5,0.0,0,247.94,777.44,Churned,Dissatisfaction,Poor expertise of online support
-17570-GUJ,Male,56,No,Gujarat,8,4,Not Available,Yes,No,Yes,DSL,Yes,No,No,Yes,No,No,No,No,One Year,No,Credit Card,-8.0,795.15,0.0,100,387.52,1282.67,Stayed,Others,Others
 54516-WES,Female,42,No,West Bengal,4,13,Not Available,Yes,No,Yes,Fiber Optic,No,No,No,No,Yes,Yes,Yes,Yes,Month-to-Month,No,Mailed Check,89.15,89.15,0.0,0,32.35,121.5,Churned,Competitor,Competitor had better devices
 14782-AND,Female,21,Yes,Andhra Pradesh,3,10,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.55,20.55,0.0,0,37.92,58.47,Churned,Attitude,Attitude of support person
 87748-AND,Female,52,Yes,Andhra Pradesh,2,18,Deal 2,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,103.85,5017.9,0.0,0,2110.5,7128.4,Churned,Price,Price too high
@@ -2673,7 +2636,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 57765-TAM,Male,37,Yes,Tamil Nadu,14,17,Deal 5,Yes,Yes,Yes,Cable,No,No,No,No,Yes,Yes,Yes,No,Month-to-Month,No,Credit Card,95.0,655.5,36.6,10,143.64,772.54,Churned,Competitor,Competitor had better devices
 69923-JHA,Male,52,No,Jharkhand,7,18,Not Available,Yes,Yes,Yes,Cable,No,No,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,59.85,59.85,0.0,0,22.05,81.9,Churned,Attitude,Attitude of support person
 52403-WES,Female,66,Yes,West Bengal,9,6,Not Available,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,No,Two Year,Yes,Bank Withdrawal,71.25,71.25,0.0,10,17.6,98.85,Joined,Others,Others
-71101-KAR,Female,42,No,Karnataka,4,28,Deal 2,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,No,Credit Card,-9.0,6758.45,11.85,0,2599.8,9346.4,Stayed,Others,Others
 29855-TAM,Male,47,Yes,Tamil Nadu,2,18,Not Available,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,70.0,1144.5,0.0,80,130.22,1354.72,Churned,Attitude,Attitude of support person
 38073-ASS,Female,54,Yes,Assam,8,35,Not Available,No,No,Yes,DSL,Yes,Yes,No,No,No,No,No,Yes,Two Year,No,Bank Withdrawal,36.15,2434.45,0.0,0,0.0,2434.45,Stayed,Others,Others
 38963-TEL,Female,59,Yes,Telangana,13,33,Not Available,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,One Year,Yes,Bank Withdrawal,109.25,8109.8,0.0,0,2241.36,10351.16,Churned,Competitor,Competitor had better devices
@@ -2723,7 +2685,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 87171-JAM,Male,40,Yes,Jammu & Kashmir,12,13,Not Available,Yes,No,Yes,DSL,Yes,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,49.55,1210.4,0.0,0,345.36,1555.76,Churned,Other,Don't know
 72788-TEL,Male,39,No,Telangana,14,6,Not Available,Yes,No,Yes,DSL,Yes,Yes,No,Yes,No,No,No,No,One Year,No,Credit Card,59.6,3509.4,0.0,70,829.35,4408.75,Stayed,Others,Others
 68521-PUN,Female,74,Yes,Punjab,13,25,Not Available,Yes,Yes,Yes,Fiber Optic,No,No,No,No,Yes,Yes,No,No,One Year,Yes,Bank Withdrawal,95.05,3944.5,0.0,100,1776.18,5820.68,Stayed,Others,Others
-96108-TEL,Male,40,Yes,Telangana,7,26,Deal 4,Yes,No,Yes,Fiber Optic,No,No,No,No,Yes,No,No,Yes,Month-to-Month,No,Bank Withdrawal,-5.0,1641.3,0.0,0,907.8,2549.1,Stayed,Others,Others
 71923-UTT,Male,62,Yes,Uttar Pradesh,2,25,Not Available,Yes,No,Yes,Fiber Optic,Yes,No,No,No,No,No,No,No,One Year,Yes,Bank Withdrawal,75.4,1643.55,0.0,80,405.26,2128.81,Stayed,Others,Others
 99897-TAM,Male,63,Yes,Tamil Nadu,9,30,Not Available,Yes,No,Yes,Fiber Optic,No,No,No,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,80.6,2244.95,0.0,0,947.52,3192.47,Stayed,Others,Others
 49247-MAD,Male,51,Yes,Madhya Pradesh,1,32,Deal 1,Yes,Yes,Yes,DSL,Yes,No,No,No,No,Yes,Yes,Yes,One Year,No,Bank Withdrawal,65.2,4543.15,0.0,0,2080.4,6623.55,Stayed,Others,Others
@@ -2801,7 +2762,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 22803-GUJ,Male,22,Yes,Gujarat,7,7,Deal 2,Yes,No,Yes,Fiber Optic,Yes,Yes,Yes,No,Yes,No,No,Yes,One Year,Yes,Bank Withdrawal,93.5,4619.55,0.0,0,1074.57,5694.12,Stayed,Others,Others
 61893-TEL,Female,27,Yes,Telangana,9,12,Deal 5,Yes,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,No,No,Yes,Two Year,No,Credit Card,73.35,733.5,0.0,0,55.9,789.4,Stayed,Others,Others
 21620-TAM,Female,53,No,Tamil Nadu,8,29,Not Available,Yes,Yes,Yes,Fiber Optic,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,104.2,3243.45,17.01,0,115.63,3342.07,Churned,Dissatisfaction,Product dissatisfaction
-16142-TAM,Male,60,No,Tamil Nadu,15,34,Not Available,Yes,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,Yes,Bank Withdrawal,-7.0,6463.15,0.0,0,3211.92,9675.07,Stayed,Others,Others
 55616-BIH,Female,47,Yes,Bihar,0,7,Not Available,Yes,Yes,Yes,Fiber Optic,No,No,Yes,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,100.75,1129.75,0.0,0,535.04,1664.79,Churned,Price,Long distance charges
 15835-TEL,Female,72,No,Telangana,1,30,Not Available,Yes,Yes,Yes,DSL,No,No,Yes,No,Yes,Yes,No,Yes,Two Year,No,Bank Withdrawal,74.85,2181.75,0.0,0,1215.0,3396.75,Stayed,Others,Others
 56235-UTT,Female,42,No,Uttar Pradesh,14,26,Not Available,No,No,Yes,Cable,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,Yes,Bank Withdrawal,65.55,4807.45,0.0,0,0.0,4807.45,Stayed,Others,Others
@@ -2840,7 +2800,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 15513-PUN,Male,50,No,Punjab,8,28,Not Available,Yes,Yes,Yes,Fiber Optic,Yes,No,No,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,88.05,801.3,0.0,0,201.69,1002.99,Stayed,Others,Others
 84517-MAD,Male,28,No,Madhya Pradesh,13,15,Deal 4,Yes,Yes,Yes,DSL,No,No,No,Yes,Yes,Yes,Yes,Yes,One Year,Yes,Credit Card,75.85,854.45,0.0,0,591.0,1445.45,Stayed,Others,Others
 59560-TEL,Female,49,Yes,Telangana,4,16,Not Available,Yes,Yes,Yes,Fiber Optic,No,No,No,No,Yes,Yes,Yes,No,Month-to-Month,Yes,Credit Card,94.65,2104.55,0.0,40,1018.16,3162.71,Churned,Competitor,Competitor offered higher download speeds
-15205-TEL,Female,71,Yes,Telangana,3,10,Not Available,Yes,Yes,Yes,Fiber Optic,No,No,Yes,No,Yes,Yes,Yes,No,Month-to-Month,No,Bank Withdrawal,-5.0,4747.2,0.0,140,140.06,5027.26,Stayed,Others,Others
 67522-RAJ,Female,32,No,Rajasthan,9,2,Not Available,Yes,Yes,Yes,Fiber Optic,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Two Year,Yes,Bank Withdrawal,104.0,7039.05,0.0,0,840.18,7879.23,Stayed,Others,Others
 22134-WES,Female,28,No,West Bengal,8,7,Not Available,Yes,No,Yes,DSL,No,Yes,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,50.55,244.75,0.0,0,215.1,459.85,Stayed,Others,Others
 32496-TAM,Female,30,Yes,Tamil Nadu,8,7,Deal 5,Yes,Yes,Yes,Fiber Optic,No,No,No,Yes,Yes,Yes,Yes,No,Month-to-Month,Yes,Credit Card,100.85,399.25,0.0,10,31.76,441.01,Stayed,Others,Others
@@ -2861,7 +2820,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 82170-TAM,Male,41,No,Tamil Nadu,5,29,Not Available,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Mailed Check,44.6,44.6,0.0,0,45.28,89.88,Joined,Others,Others
 52502-JAM,Female,81,Yes,Jammu & Kashmir,9,20,Deal 4,Yes,No,Yes,Fiber Optic,No,Yes,No,Yes,No,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,89.05,1169.35,0.0,0,19.11,1188.46,Churned,Competitor,Competitor made better offer
 31864-AND,Female,26,No,Andhra Pradesh,1,13,Not Available,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,Yes,Yes,Yes,Yes,Two Year,No,Bank Withdrawal,97.45,6253.0,0.0,0,2378.88,8631.88,Stayed,Others,Others
-64525-JHA,Female,70,No,Jharkhand,4,20,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,-5.0,164.3,0.0,0,223.6,387.9,Churned,Attitude,Attitude of support person
 73469-MAH,Male,32,No,Maharashtra,11,12,Deal 2,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,One Year,No,Bank Withdrawal,19.1,1007.8,0.0,0,1495.83,2503.63,Stayed,Others,Others
 95984-KAR,Female,50,No,Karnataka,4,17,Deal 2,Yes,Yes,No,Not Available,No,No,No,No,No,No,No,No,One Year,Yes,Bank Withdrawal,24.45,1066.15,0.0,0,1631.16,2697.31,Stayed,Others,Others
 17235-AND,Female,44,Yes,Andhra Pradesh,13,11,Not Available,Yes,No,Yes,DSL,No,Yes,No,Yes,No,Yes,Yes,Yes,One Year,Yes,Bank Withdrawal,66.5,2728.6,0.0,0,1312.82,4041.42,Churned,Other,Moved
@@ -2973,7 +2931,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 45459-AND,Female,36,Yes,Andhra Pradesh,11,22,Not Available,Yes,No,Yes,Fiber Optic,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,108.2,2203.7,0.0,0,321.0,2524.7,Stayed,Others,Others
 27244-JAM,Female,81,No,Jammu & Kashmir,8,22,Not Available,Yes,No,Yes,Fiber Optic,Yes,No,Yes,Yes,No,Yes,No,Yes,One Year,No,Credit Card,94.3,1818.3,0.0,0,650.8,2469.1,Stayed,Others,Others
 41064-PUN,Male,66,Yes,Punjab,11,26,Deal 1,No,No,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Two Year,Yes,Credit Card,64.95,4546.0,0.0,30,0.0,4576.0,Stayed,Others,Others
-71235-TAM,Female,54,Yes,Tamil Nadu,2,15,Not Available,Yes,Yes,No,Not Available,No,No,No,No,No,No,No,No,Two Year,Yes,Credit Card,-6.0,1563.95,0.0,0,510.26,2074.21,Stayed,Others,Others
 79595-MAD,Male,59,No,Madhya Pradesh,2,3,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Two Year,No,Mailed Check,19.75,498.1,0.0,0,821.76,1319.86,Stayed,Others,Others
 23283-TAM,Male,60,No,Tamil Nadu,9,27,Not Available,Yes,No,Yes,DSL,No,No,No,No,Yes,No,No,Yes,Month-to-Month,No,Bank Withdrawal,54.6,1125.2,0.0,0,360.99,1486.19,Stayed,Others,Others
 46886-UTT,Female,65,No,Uttar Pradesh,0,22,Not Available,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,70.65,142.35,0.0,0,25.04,167.39,Churned,Competitor,Competitor had better devices
@@ -3000,7 +2957,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 39128-PUN,Male,36,No,Punjab,15,22,Deal 5,Yes,No,Yes,DSL,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,44.75,44.75,0.0,10,18.57,73.32,Joined,Others,Others
 93014-MAH,Female,67,Yes,Maharashtra,12,2,Deal 3,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,One Year,No,Credit Card,116.25,3899.05,0.0,0,761.94,4660.99,Stayed,Others,Others
 68584-KAR,Male,47,Yes,Karnataka,11,36,Deal 1,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,Yes,Credit Card,114.05,8468.2,0.0,0,2214.0,10682.2,Stayed,Others,Others
-89527-GUJ,Male,30,No,Gujarat,2,21,Not Available,Yes,No,Yes,Fiber Optic,Yes,Yes,No,No,No,Yes,Yes,Yes,One Year,Yes,Bank Withdrawal,-7.0,3023.85,0.0,0,1172.8,4196.65,Stayed,Others,Others
 91875-WES,Male,36,Yes,West Bengal,2,33,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,One Year,Yes,Mailed Check,20.5,365.8,0.0,0,725.22,1091.02,Stayed,Others,Others
 75800-BIH,Male,45,Yes,Bihar,12,26,Not Available,Yes,No,Yes,Fiber Optic,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Two Year,Yes,Bank Withdrawal,105.25,7173.15,0.0,0,2135.2,9308.35,Stayed,Others,Others
 24805-BIH,Male,42,Yes,Bihar,10,26,Deal 2,Yes,Yes,Yes,DSL,Yes,No,Yes,Yes,No,No,No,No,Two Year,Yes,Credit Card,65.0,2879.9,0.0,0,1680.25,4560.15,Stayed,Others,Others
@@ -3117,7 +3073,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 57477-WES,Male,74,Yes,West Bengal,6,31,Not Available,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,102.95,7101.5,15.24,0,1221.5,8307.76,Churned,Competitor,Competitor had better devices
 97974-AND,Female,34,No,Andhra Pradesh,10,17,Deal 2,Yes,Yes,Yes,Fiber Optic,No,No,Yes,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,101.35,6164.7,0.0,0,933.72,7098.42,Stayed,Others,Others
 48163-AND,Male,70,No,Andhra Pradesh,7,1,Deal 2,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,No,Yes,No,Yes,Month-to-Month,No,Credit Card,90.05,4547.25,0.0,0,1123.08,5670.33,Churned,Competitor,Competitor made better offer
-62771-ASS,Female,19,No,Assam,10,11,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,-3.0,78.3,0.0,0,167.76,246.06,Stayed,Others,Others
 56556-MAH,Female,26,No,Maharashtra,3,2,Deal 4,Yes,No,Yes,Fiber Optic,Yes,No,No,Yes,Yes,No,No,Yes,Month-to-Month,No,Bank Withdrawal,91.85,1574.45,0.0,0,713.15,2287.6,Churned,Price,Lack of affordable download/upload speed
 26601-UTT,Male,36,No,Uttar Pradesh,13,25,Deal 4,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,82.65,1185.0,0.0,0,637.98,1822.98,Stayed,Others,Others
 58004-TAM,Female,57,No,Tamil Nadu,14,4,Deal 2,Yes,Yes,Yes,DSL,Yes,No,No,Yes,No,Yes,Yes,No,One Year,No,Bank Withdrawal,68.7,4070.95,0.0,150,1670.88,5891.83,Stayed,Others,Others
@@ -3139,12 +3094,10 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 97493-AND,Female,59,No,Andhra Pradesh,9,16,Deal 5,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,75.8,246.3,0.0,10,15.6,271.9,Churned,Competitor,Competitor had better devices
 76577-TEL,Male,67,Yes,Telangana,1,8,Not Available,Yes,No,Yes,Fiber Optic,No,No,Yes,Yes,No,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,91.55,1540.05,0.0,0,247.04,1787.09,Stayed,Others,Others
 37229-KAR,Male,78,No,Karnataka,10,6,Not Available,Yes,Yes,No,Not Available,No,No,No,No,No,No,No,No,One Year,No,Credit Card,24.7,1174.35,0.0,0,2020.95,3195.3,Stayed,Others,Others
-78129-DEL,Female,28,No,Delhi,13,32,Not Available,Yes,No,Yes,Fiber Optic,No,No,Yes,No,No,No,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,-1.0,325.45,0.0,0,193.92,519.37,Churned,Dissatisfaction,Service dissatisfaction
 29090-UTT,Female,55,No,Uttar Pradesh,1,3,Deal 5,Yes,No,Yes,Fiber Optic,Yes,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,79.1,246.5,0.0,0,97.29,343.79,Churned,Attitude,Attitude of support person
 41083-DEL,Female,26,Yes,Delhi,3,2,Deal 5,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,105.3,545.2,0.0,0,164.64,709.84,Churned,Competitor,Competitor offered more data
 26359-MAH,Female,28,Yes,Maharashtra,15,12,Deal 5,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,19.6,19.6,0.0,0,5.36,24.96,Churned,Price,Price too high
 19854-RAJ,Female,32,Yes,Rajasthan,5,18,Deal 1,Yes,Yes,No,Not Available,No,No,No,No,No,No,No,No,Two Year,No,Bank Withdrawal,24.25,1724.15,0.0,0,1997.8,3721.95,Stayed,Others,Others
-37071-KER,Female,48,No,Kerala,6,33,Deal 5,No,No,Yes,Cable,Yes,No,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,-4.0,91.7,0.0,0,0.0,91.7,Churned,Attitude,Attitude of support person
 98058-MAH,Female,62,No,Maharashtra,3,21,Not Available,Yes,Yes,No,Not Available,No,No,No,No,No,No,No,No,One Year,No,Bank Withdrawal,24.9,1334.0,0.0,0,144.48,1478.48,Churned,Attitude,Attitude of support person
 52313-KER,Male,64,No,Kerala,7,20,Not Available,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,101.25,2440.15,0.0,0,695.52,3135.67,Churned,Attitude,Attitude of support person
 63309-MAH,Female,75,Yes,Maharashtra,2,14,Deal 3,Yes,No,Yes,Fiber Optic,No,Yes,Yes,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,98.5,2514.5,13.43,0,494.0,2995.07,Churned,Dissatisfaction,Limited range of services
@@ -3193,7 +3146,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 19400-JHA,Male,34,No,Jharkhand,3,26,Not Available,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,73.85,1284.2,0.0,0,287.36,1571.56,Churned,Other,Don't know
 35038-HAR,Male,45,No,Haryana,6,26,Not Available,Yes,Yes,No,Not Available,No,No,No,No,No,No,No,No,Two Year,No,Mailed Check,24.45,1088.25,0.0,0,2128.95,3217.2,Stayed,Others,Others
 94247-TAM,Female,65,Yes,Tamil Nadu,6,32,Not Available,Yes,No,Yes,Fiber Optic,Yes,Yes,Yes,No,No,Yes,No,Yes,One Year,No,Bank Withdrawal,97.0,6430.9,0.0,0,240.64,6671.54,Stayed,Others,Others
-63592-RAJ,Female,31,Yes,Rajasthan,3,26,Not Available,No,No,Yes,DSL,Yes,Yes,No,Yes,No,No,No,No,One Year,Yes,Credit Card,-5.0,711.95,0.0,90,0.0,801.95,Stayed,Others,Others
 41271-BIH,Male,36,No,Bihar,14,25,Deal 1,Yes,Yes,Yes,DSL,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Two Year,Yes,Credit Card,74.8,5315.8,0.0,0,579.6,5895.4,Stayed,Others,Others
 51777-PUN,Female,59,Yes,Punjab,13,16,Not Available,Yes,Yes,No,Not Available,No,No,No,No,No,No,No,No,Two Year,No,Bank Withdrawal,23.95,1713.1,0.0,0,1534.56,3247.66,Stayed,Others,Others
 83931-MAD,Female,46,Yes,Madhya Pradesh,1,27,Not Available,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,Yes,No,No,Yes,Month-to-Month,Yes,Credit Card,96.35,3915.4,0.0,0,1176.8,5092.2,Stayed,Others,Others
@@ -3255,7 +3207,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 16932-HAR,Female,18,No,Haryana,15,5,Deal 1,Yes,Yes,Yes,Cable,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,Yes,Credit Card,91.95,6614.9,0.0,0,1951.2,8566.1,Stayed,Others,Others
 78253-UTT,Male,56,Yes,Uttarakhand,11,26,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Mailed Check,19.65,100.9,0.0,0,93.0,193.9,Stayed,Others,Others
 69876-UTT,Female,51,Yes,Uttar Pradesh,0,10,Not Available,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,84.8,3862.55,0.0,0,1767.48,5630.03,Churned,Attitude,Attitude of support person
-15115-WES,Male,37,Yes,West Bengal,0,15,Not Available,Yes,Yes,Yes,Cable,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,No,Credit Card,-10.0,6094.25,3.2,0,872.64,6963.69,Stayed,Others,Others
 41619-TAM,Female,33,Yes,Tamil Nadu,1,35,Not Available,Yes,Yes,Yes,Fiber Optic,Yes,No,No,Yes,No,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,95.4,4445.3,0.0,0,199.2,4644.5,Stayed,Others,Others
 54736-MAD,Female,67,No,Madhya Pradesh,5,25,Deal 2,Yes,Yes,Yes,DSL,Yes,Yes,No,No,Yes,No,No,No,Month-to-Month,Yes,Bank Withdrawal,70.35,3454.6,0.0,100,1261.5,4816.1,Stayed,Others,Others
 46190-GUJ,Male,27,Yes,Gujarat,0,36,Deal 5,Yes,No,Yes,DSL,No,No,No,No,No,Yes,Yes,No,Month-to-Month,No,Mailed Check,55.55,55.55,0.0,30,33.32,118.87,Joined,Others,Others
@@ -3319,7 +3270,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 73335-GUJ,Female,20,Yes,Gujarat,3,2,Deal 4,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,One Year,Yes,Credit Card,19.3,185.2,0.0,0,454.2,639.4,Stayed,Others,Others
 48321-WES,Female,18,No,West Bengal,2,3,Not Available,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,One Year,Yes,Credit Card,104.9,7537.5,0.0,0,2964.96,10502.46,Stayed,Others,Others
 16346-HAR,Female,74,Yes,Haryana,2,18,Deal 5,Yes,No,Yes,Cable,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,44.7,93.7,0.0,0,82.86,176.56,Churned,Competitor,Competitor offered more data
-87534-TAM,Female,49,Yes,Tamil Nadu,13,15,Deal 4,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,-7.0,1676.95,0.0,0,769.12,2446.07,Churned,Competitor,Competitor had better devices
 92278-HAR,Male,37,Yes,Haryana,9,34,Not Available,Yes,No,Yes,Fiber Optic,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,One Year,Yes,Bank Withdrawal,103.4,5236.4,0.0,0,1810.5,7046.9,Stayed,Others,Others
 72512-DEL,Female,44,Yes,Delhi,9,2,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Two Year,No,Bank Withdrawal,19.85,1326.35,0.0,0,1195.64,2521.99,Stayed,Others,Others
 55046-BIH,Female,51,Yes,Bihar,3,6,Deal 4,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,81.0,818.05,0.0,0,495.0,1313.05,Churned,Attitude,Attitude of support person
@@ -3350,7 +3300,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 99122-HAR,Female,61,No,Haryana,5,16,Not Available,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,Yes,Yes,Yes,Yes,One Year,Yes,Bank Withdrawal,103.15,6792.45,0.0,0,1082.25,7874.7,Stayed,Others,Others
 47736-GUJ,Female,71,Yes,Gujarat,13,1,Not Available,Yes,Yes,Yes,Fiber Optic,Yes,Yes,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,83.85,5588.8,0.0,0,3008.3,8597.1,Stayed,Others,Others
 76682-AND,Male,60,Yes,Andhra Pradesh,7,32,Deal 3,Yes,No,Yes,DSL,No,No,No,Yes,No,No,No,Yes,Two Year,Yes,Bank Withdrawal,49.8,1971.15,0.0,0,153.27,2124.42,Stayed,Others,Others
-43844-HAR,Female,55,No,Haryana,13,9,Not Available,Yes,Yes,No,Not Available,No,No,No,No,No,No,No,No,Two Year,No,Credit Card,-7.0,1849.2,0.0,0,2878.56,4727.76,Stayed,Others,Others
 21506-PUD,Male,58,Yes,Puducherry,0,1,Deal 2,No,No,Yes,Cable,Yes,No,Yes,Yes,No,No,No,Yes,Two Year,No,Credit Card,41.9,1875.25,0.0,0,0.0,1875.25,Stayed,Others,Others
 62867-GUJ,Female,31,No,Gujarat,12,13,Deal 2,Yes,Yes,Yes,Fiber Optic,Yes,Yes,No,Yes,Yes,No,No,Yes,One Year,Yes,Bank Withdrawal,100.15,6643.5,0.0,0,2380.3,9023.8,Stayed,Others,Others
 85280-ODI,Female,62,Yes,Odisha,7,4,Not Available,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,Yes,Yes,No,Yes,Two Year,No,Bank Withdrawal,104.75,5841.35,36.52,0,1547.84,7352.67,Stayed,Others,Others
@@ -3390,7 +3339,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 59649-UTT,Female,39,Yes,Uttar Pradesh,5,20,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Mailed Check,19.8,19.8,0.0,0,9.66,29.46,Churned,Price,Long distance charges
 12622-MAD,Female,34,No,Madhya Pradesh,15,36,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,One Year,Yes,Mailed Check,19.35,1033.0,29.5,0,894.0,1897.5,Stayed,Others,Others
 64780-JAM,Male,76,Yes,Jammu & Kashmir,12,24,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Mailed Check,19.95,214.75,0.0,0,324.94,539.69,Churned,Competitor,Competitor made better offer
-23044-AND,Female,42,No,Andhra Pradesh,4,4,Not Available,Yes,Yes,No,Not Available,No,No,No,No,No,No,No,No,Two Year,No,Bank Withdrawal,-9.0,809.25,0.0,0,478.45,1287.7,Stayed,Others,Others
 71858-KAR,Female,37,No,Karnataka,8,20,Deal 5,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Mailed Check,20.15,20.15,0.0,0,21.59,41.74,Churned,Attitude,Attitude of support person
 22972-MAD,Female,34,No,Madhya Pradesh,3,12,Not Available,Yes,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Two Year,No,Bank Withdrawal,80.2,5714.2,0.0,0,3536.64,9250.84,Stayed,Others,Others
 98252-MAH,Female,77,Yes,Maharashtra,3,5,Not Available,Yes,Yes,Yes,Fiber Optic,No,No,No,Yes,Yes,Yes,No,Yes,Month-to-Month,No,Bank Withdrawal,98.65,2862.75,0.0,0,608.42,3471.17,Churned,Attitude,Attitude of support person
@@ -3435,10 +3383,8 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 33391-MAH,Female,35,Yes,Maharashtra,5,11,Not Available,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,No,Yes,Yes,No,Month-to-Month,Yes,Bank Withdrawal,88.95,355.2,0.0,40,193.28,588.48,Churned,Dissatisfaction,Network reliability
 12370-JAM,Female,49,Yes,Jammu & Kashmir,2,29,Not Available,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,85.95,381.3,0.0,0,16.56,397.86,Churned,Competitor,Competitor made better offer
 21541-MAH,Female,52,Yes,Maharashtra,12,21,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,One Year,No,Credit Card,20.0,817.95,0.0,0,1513.6,2331.55,Stayed,Others,Others
-88203-ASS,Female,33,Yes,Assam,13,36,Deal 1,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Two Year,No,Credit Card,-3.0,1458.1,35.44,0,2224.6,3647.26,Stayed,Others,Others
 59028-WES,Female,28,Yes,West Bengal,6,15,Deal 4,Yes,No,Yes,Cable,Yes,Yes,Yes,Yes,No,No,Yes,Yes,One Year,No,Credit Card,65.6,1010.0,0.0,0,301.65,1311.65,Stayed,Others,Others
 79342-KAR,Female,39,Yes,Karnataka,5,22,Not Available,Yes,No,Yes,DSL,Yes,No,No,Yes,Yes,No,No,Yes,Month-to-Month,Yes,Credit Card,64.4,195.65,0.0,0,114.15,309.8,Joined,Others,Others
-37116-HAR,Female,63,No,Haryana,6,15,Not Available,Yes,No,Yes,DSL,No,No,Yes,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,-4.0,340.25,0.0,0,35.91,376.16,Churned,Other,Don't know
 64348-TEL,Female,66,Yes,Telangana,2,35,Deal 3,Yes,Yes,Yes,Fiber Optic,No,No,Yes,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,101.4,3496.3,0.0,0,1389.15,4885.45,Churned,Competitor,Competitor offered more data
 25564-KER,Female,37,No,Kerala,14,9,Deal 5,Yes,No,Yes,Cable,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,44.6,80.55,0.0,0,60.38,140.93,Churned,Price,Lack of affordable download/upload speed
 71550-RAJ,Female,53,No,Rajasthan,10,31,Deal 3,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,One Year,No,Mailed Check,19.85,535.05,0.0,0,58.0,593.05,Stayed,Others,Others
@@ -3464,8 +3410,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 24508-AND,Male,49,Yes,Andhra Pradesh,12,14,Not Available,No,No,Yes,Cable,No,No,No,Yes,No,No,No,Yes,One Year,No,Credit Card,29.45,1983.15,0.0,0,0.0,1983.15,Stayed,Others,Others
 77963-UTT,Male,35,Yes,Uttar Pradesh,10,36,Deal 2,Yes,Yes,Yes,Fiber Optic,Yes,Yes,No,No,Yes,No,No,No,Month-to-Month,Yes,Bank Withdrawal,93.85,4733.1,0.0,30,2311.33,7074.43,Stayed,Others,Others
 15712-RAJ,Female,49,No,Rajasthan,7,34,Deal 4,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,One Year,No,Credit Card,20.35,335.95,0.0,0,699.6,1035.55,Stayed,Others,Others
-23237-DEL,Female,35,No,Delhi,14,22,Not Available,Yes,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,No,Credit Card,-8.0,5956.85,0.0,0,1073.52,7030.37,Stayed,Others,Others
-89011-TAM,Female,22,No,Tamil Nadu,14,3,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Two Year,No,Credit Card,-10.0,762.45,0.0,0,1161.81,1924.26,Stayed,Others,Others
 18791-AND,Female,32,No,Andhra Pradesh,1,28,Not Available,No,No,Yes,Cable,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Two Year,No,Credit Card,54.2,3623.95,0.0,0,0.0,3623.95,Stayed,Others,Others
 52355-WES,Female,23,No,West Bengal,1,3,Not Available,Yes,No,Yes,DSL,No,No,Yes,Yes,No,No,No,Yes,Month-to-Month,No,Credit Card,54.35,1647.0,0.0,0,776.24,2423.24,Stayed,Others,Others
 84599-MAH,Female,61,No,Maharashtra,14,24,Not Available,Yes,Yes,Yes,Fiber Optic,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Two Year,Yes,Bank Withdrawal,109.65,5551.15,0.0,0,1385.0,6936.15,Churned,Competitor,Competitor had better devices
@@ -3485,7 +3429,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 84298-TAM,Male,37,No,Tamil Nadu,5,23,Deal 5,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,69.35,451.1,0.0,10,103.25,564.35,Churned,Competitor,Competitor had better devices
 73187-MAH,Male,30,No,Maharashtra,6,14,Not Available,Yes,No,Yes,Cable,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,44.75,270.95,0.0,10,246.96,527.91,Churned,Dissatisfaction,Network reliability
 17814-TAM,Female,28,Yes,Tamil Nadu,8,14,Not Available,Yes,Yes,Yes,Fiber Optic,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,One Year,No,Credit Card,110.05,5686.4,20.28,0,1363.23,7029.35,Stayed,Others,Others
-16444-BIH,Female,24,Yes,Bihar,10,4,Not Available,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,-2.0,140.7,0.0,0,72.12,212.82,Churned,Dissatisfaction,Service dissatisfaction
 53697-TAM,Male,73,Yes,Tamil Nadu,15,11,Deal 5,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.05,20.05,0.0,0,19.87,39.92,Churned,Price,Long distance charges
 32942-UTT,Female,61,Yes,Uttar Pradesh,6,3,Not Available,Yes,Yes,Yes,DSL,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,One Year,No,Bank Withdrawal,84.1,3187.65,0.0,0,954.18,4141.83,Stayed,Others,Others
 94005-GUJ,Female,54,No,Gujarat,8,20,Not Available,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,Yes,Yes,Yes,No,One Year,Yes,Bank Withdrawal,106.8,5914.4,0.0,30,1816.08,7760.48,Stayed,Others,Others
@@ -3494,7 +3437,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 28681-HAR,Female,33,No,Haryana,4,2,Not Available,Yes,No,Yes,Fiber Optic,No,No,Yes,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,75.55,75.55,0.0,0,7.11,82.66,Joined,Others,Others
 63458-GUJ,Male,61,No,Gujarat,5,36,Not Available,Yes,Yes,No,Not Available,No,No,No,No,No,No,No,No,Two Year,No,Mailed Check,25.5,1281.25,0.0,0,1043.97,2325.22,Stayed,Others,Others
 12296-MAD,Male,65,Yes,Madhya Pradesh,14,2,Not Available,No,No,Yes,Cable,Yes,No,Yes,No,No,Yes,No,Yes,One Year,Yes,Bank Withdrawal,45.0,1228.65,0.0,0,0.0,1228.65,Stayed,Others,Others
-21265-JAM,Male,66,No,Jammu & Kashmir,3,4,Deal 5,Yes,No,Yes,Cable,No,No,Yes,No,No,No,No,Yes,Month-to-Month,Yes,Mailed Check,-9.0,50.15,0.0,0,39.78,89.93,Churned,Competitor,Competitor made better offer
 72082-HAR,Female,53,Yes,Haryana,15,36,Deal 5,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.6,20.6,0.0,0,47.26,67.86,Churned,Price,Long distance charges
 53325-GUJ,Male,27,Yes,Gujarat,0,32,Not Available,Yes,No,Yes,DSL,Yes,No,No,Yes,Yes,Yes,Yes,Yes,One Year,No,Bank Withdrawal,75.0,1908.35,0.0,0,1289.86,3198.21,Stayed,Others,Others
 81650-UTT,Male,46,No,Uttar Pradesh,5,22,Deal 5,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,105.35,323.25,0.0,0,41.49,364.74,Churned,Dissatisfaction,Poor expertise of online support
@@ -3760,7 +3702,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 57345-TAM,Female,53,Yes,Tamil Nadu,14,13,Deal 4,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Mailed Check,19.8,272.95,18.55,0,261.45,515.85,Stayed,Others,Others
 98327-HAR,Male,74,No,Haryana,3,12,Not Available,Yes,Yes,Yes,Fiber Optic,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,104.2,5568.35,0.0,0,1955.2,7523.55,Churned,Competitor,Competitor offered higher download speeds
 88027-AND,Female,67,No,Andhra Pradesh,11,4,Deal 1,No,No,Yes,Cable,No,Yes,Yes,No,Yes,No,No,Yes,One Year,No,Bank Withdrawal,45.55,3027.25,0.0,0,0.0,3027.25,Stayed,Others,Others
-98098-TAM,Female,73,No,Tamil Nadu,0,5,Deal 1,Yes,Yes,Yes,DSL,Yes,Yes,No,Yes,No,No,No,Yes,One Year,Yes,Credit Card,-8.0,4174.35,0.0,0,2407.68,6582.03,Stayed,Others,Others
 87608-HAR,Male,74,Yes,Haryana,4,9,Not Available,Yes,No,Yes,Fiber Optic,No,No,No,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Credit Card,80.3,2483.05,0.0,0,66.56,2549.61,Churned,Dissatisfaction,Service dissatisfaction
 49342-KAR,Female,53,Yes,Karnataka,15,16,Not Available,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,45.05,523.1,0.0,0,374.64,897.74,Stayed,Others,Others
 54036-UTT,Female,50,No,Uttar Pradesh,5,25,Deal 3,Yes,No,Yes,Cable,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Month-to-Month,No,Bank Withdrawal,76.3,2404.15,0.0,0,1037.76,3441.91,Stayed,Others,Others
@@ -3884,7 +3825,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 38602-JAM,Female,64,No,Jammu & Kashmir,5,4,Deal 3,Yes,Yes,Yes,Fiber Optic,No,No,No,Yes,Yes,Yes,No,Yes,Month-to-Month,Yes,Credit Card,101.3,2812.2,0.0,0,460.04,3272.24,Churned,Competitor,Competitor made better offer
 29799-WES,Female,29,No,West Bengal,15,23,Not Available,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,75.15,216.75,0.0,0,45.06,261.81,Churned,Attitude,Attitude of support person
 39216-JHA,Female,21,No,Jharkhand,3,3,Not Available,Yes,No,Yes,Fiber Optic,No,Yes,No,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Mailed Check,84.3,1855.65,0.0,0,639.54,2495.19,Churned,Competitor,Competitor had better devices
-36437-MAH,Female,38,Yes,Maharashtra,2,21,Not Available,Yes,No,Yes,Fiber Optic,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,No,Credit Card,-10.0,7049.75,0.0,0,827.82,7877.57,Stayed,Others,Others
 31545-HAR,Male,45,No,Haryana,3,5,Not Available,Yes,No,Yes,DSL,Yes,No,Yes,No,No,No,No,Yes,One Year,No,Mailed Check,56.95,1889.5,0.0,0,581.06,2470.56,Stayed,Others,Others
 23791-RAJ,Female,24,Yes,Rajasthan,6,8,Deal 2,Yes,Yes,Yes,Fiber Optic,Yes,No,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Credit Card,89.15,4245.55,0.0,0,1736.5,5982.05,Stayed,Others,Others
 52182-PUN,Female,51,No,Punjab,1,35,Deal 4,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,19.75,297.3,0.0,0,597.6,894.9,Churned,Other,Moved
@@ -3949,7 +3889,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 92703-MAH,Male,28,No,Maharashtra,9,19,Deal 1,Yes,No,Yes,Cable,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Two Year,Yes,Credit Card,73.35,5154.5,0.0,0,1153.04,6307.54,Stayed,Others,Others
 75973-KAR,Female,18,No,Karnataka,5,9,Deal 1,Yes,Yes,Yes,Fiber Optic,Yes,No,Yes,No,Yes,Yes,Yes,Yes,One Year,Yes,Credit Card,104.1,7412.25,0.0,0,311.69,7723.94,Stayed,Others,Others
 84241-KAR,Female,26,No,Karnataka,3,27,Deal 1,Yes,No,Yes,Cable,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Two Year,Yes,Credit Card,82.45,5646.6,0.0,90,1010.48,6747.08,Stayed,Others,Others
-35643-UTT,Male,57,Yes,Uttar Pradesh,1,4,Not Available,Yes,Yes,Yes,Fiber Optic,Yes,No,Yes,Yes,No,No,No,Yes,One Year,Yes,Credit Card,-2.0,4013.8,25.49,0,1815.46,5803.77,Stayed,Others,Others
 22705-MAH,Female,36,No,Maharashtra,4,22,Deal 1,Yes,Yes,Yes,Fiber Optic,Yes,Yes,No,Yes,No,No,No,Yes,Two Year,Yes,Bank Withdrawal,90.35,6563.4,0.0,0,691.2,7254.6,Stayed,Others,Others
 72309-BIH,Male,59,No,Bihar,12,12,Not Available,Yes,No,Yes,Fiber Optic,No,Yes,No,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,83.6,404.2,24.44,0,35.0,414.76,Churned,Competitor,Competitor offered higher download speeds
 98128-JAM,Female,43,Yes,Jammu & Kashmir,0,16,Not Available,Yes,Yes,Yes,Fiber Optic,No,No,Yes,Yes,No,No,No,Yes,One Year,No,Bank Withdrawal,86.75,1410.25,0.0,0,845.07,2255.32,Stayed,Others,Others
@@ -3961,7 +3900,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 97191-TEL,Male,28,No,Telangana,15,17,Deal 1,Yes,No,Yes,Fiber Optic,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,No,Bank Withdrawal,103.15,6895.5,0.0,0,888.42,7783.92,Stayed,Others,Others
 84005-MAD,Male,48,Yes,Madhya Pradesh,6,26,Deal 4,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Two Year,No,Credit Card,19.45,369.05,0.0,0,668.78,1037.83,Stayed,Others,Others
 53716-GUJ,Female,61,No,Gujarat,15,25,Deal 2,Yes,No,Yes,DSL,Yes,Yes,Yes,No,No,Yes,Yes,No,Two Year,Yes,Credit Card,70.1,3238.4,0.0,30,213.6,3482.0,Stayed,Others,Others
-33296-AND,Male,32,No,Andhra Pradesh,3,36,Not Available,Yes,No,Yes,DSL,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,-5.0,45.05,0.0,70,13.84,128.89,Churned,Dissatisfaction,Network reliability
 21479-PUN,Female,76,Yes,Punjab,0,16,Not Available,No,No,Yes,DSL,No,No,No,No,Yes,No,No,No,One Year,Yes,Bank Withdrawal,35.9,973.65,0.0,40,0.0,1013.65,Stayed,Others,Others
 69717-BIH,Female,36,No,Bihar,3,15,Not Available,Yes,Yes,Yes,Fiber Optic,No,No,No,No,Yes,Yes,Yes,Yes,Month-to-Month,No,Bank Withdrawal,94.4,857.25,0.0,0,244.89,1102.14,Churned,Price,Price too high
 99721-TEL,Male,75,No,Telangana,11,4,Deal 1,Yes,Yes,No,Not Available,No,No,No,No,No,No,No,No,Two Year,Yes,Credit Card,24.65,1766.75,0.0,0,337.25,2104.0,Stayed,Others,Others
@@ -4004,7 +3942,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 11535-WES,Male,43,No,West Bengal,5,23,Deal 2,No,No,Yes,DSL,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Two Year,Yes,Bank Withdrawal,58.75,3038.55,0.0,0,0.0,3038.55,Stayed,Others,Others
 66867-WES,Female,37,No,West Bengal,8,24,Deal 1,Yes,No,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,No,Credit Card,84.45,6033.1,0.0,0,2524.32,8557.42,Stayed,Others,Others
 59610-RAJ,Female,42,No,Rajasthan,2,6,Not Available,Yes,No,Yes,DSL,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,68.85,1970.5,0.0,0,29.58,2000.08,Churned,Competitor,Competitor made better offer
-99559-UTT,Male,57,Yes,Uttar Pradesh,8,15,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Mailed Check,-8.0,19.4,0.0,0,3.14,22.54,Churned,Dissatisfaction,Service dissatisfaction
 43800-KAR,Male,43,Yes,Karnataka,12,2,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,One Year,Yes,Credit Card,20.35,938.95,0.0,0,1349.0,2287.95,Stayed,Others,Others
 12112-MAD,Female,27,No,Madhya Pradesh,14,4,Deal 5,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.45,150.75,0.0,0,40.88,191.63,Stayed,Others,Others
 21338-TAM,Female,65,No,Tamil Nadu,6,23,Not Available,Yes,No,Yes,Cable,No,No,Yes,No,No,No,No,Yes,One Year,Yes,Credit Card,50.25,2023.55,0.0,0,931.2,2954.75,Stayed,Others,Others
@@ -4032,7 +3969,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 97925-GUJ,Female,25,Yes,Gujarat,7,20,Deal 2,Yes,Yes,Yes,Fiber Optic,No,No,Yes,No,Yes,Yes,Yes,Yes,One Year,No,Bank Withdrawal,101.25,5301.1,0.0,0,2329.08,7630.18,Stayed,Others,Others
 72603-TAM,Female,75,No,Tamil Nadu,2,30,Not Available,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,83.85,2716.3,0.0,0,1271.49,3987.79,Churned,Competitor,Competitor made better offer
 54490-AND,Female,41,Yes,Andhra Pradesh,1,26,Deal 4,Yes,No,Yes,DSL,Yes,No,No,Yes,No,Yes,Yes,No,One Year,Yes,Credit Card,64.15,1274.45,0.0,100,675.6,2050.05,Stayed,Others,Others
-74405-ODI,Female,25,Yes,Odisha,14,34,Not Available,Yes,No,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,Yes,Bank Withdrawal,-4.0,5717.85,0.0,0,2784.6,8502.45,Stayed,Others,Others
 65507-MAH,Male,24,No,Maharashtra,5,11,Not Available,Yes,Yes,Yes,Fiber Optic,No,No,No,Yes,Yes,Yes,Yes,Yes,Month-to-Month,No,Credit Card,100.3,3541.4,0.0,0,1667.22,5208.62,Stayed,Others,Others
 37960-TEL,Female,77,No,Telangana,0,2,Not Available,Yes,No,Yes,Cable,No,Yes,No,No,No,No,No,Yes,Two Year,Yes,Credit Card,51.3,419.35,0.0,0,77.07,496.42,Stayed,Others,Others
 14765-MAD,Female,73,Yes,Madhya Pradesh,13,2,Not Available,Yes,Yes,Yes,Cable,Yes,Yes,Yes,Yes,No,No,No,Yes,One Year,Yes,Credit Card,68.45,4014.0,0.0,0,1501.92,5515.92,Stayed,Others,Others
@@ -4121,7 +4057,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 28284-MAH,Male,74,No,Maharashtra,3,1,Not Available,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,70.1,467.55,20.23,0,112.35,559.67,Churned,Attitude,Attitude of service provider
 43627-AND,Female,33,No,Andhra Pradesh,14,34,Deal 4,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,84.75,1816.75,0.0,0,742.06,2558.81,Stayed,Others,Others
 95880-WES,Male,52,No,West Bengal,13,4,Deal 4,Yes,No,Yes,Fiber Optic,No,No,Yes,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,75.3,1702.9,0.0,0,1120.79,2823.69,Stayed,Others,Others
-66816-KAR,Female,74,Yes,Karnataka,0,27,Not Available,Yes,Yes,Yes,Fiber Optic,No,No,No,No,Yes,Yes,Yes,Yes,Two Year,Yes,Bank Withdrawal,-6.0,1608.15,36.4,0,547.23,2118.98,Stayed,Others,Others
 62096-KAR,Female,83,No,Karnataka,12,36,Not Available,Yes,Yes,Yes,Fiber Optic,Yes,No,Yes,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,96.5,1392.25,0.0,0,342.45,1734.7,Stayed,Others,Others
 38662-PUN,Female,64,Yes,Punjab,5,33,Deal 2,Yes,Yes,No,Not Available,No,No,No,No,No,No,No,No,Two Year,No,Bank Withdrawal,26.3,1245.05,0.0,0,995.04,2240.09,Stayed,Others,Others
 36216-PUD,Female,56,No,Puducherry,0,18,Deal 4,Yes,Yes,Yes,DSL,No,No,Yes,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,56.1,1033.9,0.0,0,700.72,1734.62,Stayed,Others,Others
@@ -4154,7 +4089,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 63502-GUJ,Male,32,No,Gujarat,2,11,Not Available,Yes,No,Yes,DSL,Yes,No,Yes,No,No,Yes,Yes,Yes,One Year,Yes,Credit Card,63.7,2188.5,0.0,0,1708.2,3896.7,Stayed,Others,Others
 32176-GUJ,Male,34,No,Gujarat,14,6,Deal 4,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,70.3,738.2,0.0,0,317.2,1055.4,Churned,Dissatisfaction,Limited range of services
 98151-HAR,Female,60,Yes,Haryana,10,16,Deal 2,Yes,Yes,Yes,Fiber Optic,No,No,Yes,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,92.55,4039.0,0.0,0,1182.07,5221.07,Stayed,Others,Others
-22520-AND,Female,47,Yes,Andhra Pradesh,12,18,Not Available,Yes,Yes,Yes,Cable,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,Yes,Bank Withdrawal,-4.0,6230.1,0.0,0,865.44,7095.54,Stayed,Others,Others
 84666-TEL,Female,21,No,Telangana,6,5,Not Available,Yes,Yes,Yes,Fiber Optic,No,No,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,96.1,4364.1,0.0,0,494.56,4858.66,Churned,Competitor,Competitor offered higher download speeds
 41561-JHA,Male,55,No,Jharkhand,3,5,Deal 2,Yes,Yes,Yes,Fiber Optic,No,No,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,97.1,3706.95,41.85,0,653.2,4318.3,Churned,Competitor,Competitor offered more data
 25059-JAM,Male,73,Yes,Jammu & Kashmir,15,35,Deal 3,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,One Year,Yes,Bank Withdrawal,108.35,3726.15,0.0,0,375.55,4101.7,Stayed,Others,Others
@@ -4166,7 +4100,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 73973-RAJ,Female,23,Yes,Rajasthan,12,7,Deal 1,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,No,Credit Card,118.6,7990.05,38.57,0,87.72,8039.2,Stayed,Others,Others
 92732-WES,Female,37,No,West Bengal,7,23,Not Available,No,No,Yes,DSL,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,One Year,No,Bank Withdrawal,57.6,1367.75,0.0,0,0.0,1367.75,Stayed,Others,Others
 73108-JAM,Female,43,No,Jammu & Kashmir,3,13,Deal 4,Yes,No,Yes,Fiber Optic,No,Yes,No,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,86.25,1340.1,0.0,0,356.8,1696.9,Stayed,Others,Others
-97359-UTT,Male,37,Yes,Uttar Pradesh,1,4,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,One Year,No,Credit Card,-5.0,267.0,0.0,0,199.08,466.08,Stayed,Others,Others
 49894-BIH,Female,27,No,Bihar,12,17,Not Available,Yes,No,Yes,DSL,Yes,Yes,Yes,No,No,No,No,Yes,Two Year,Yes,Bank Withdrawal,61.15,4017.45,0.0,0,1410.42,5427.87,Stayed,Others,Others
 69197-UTT,Female,42,Yes,Uttar Pradesh,7,20,Not Available,Yes,Yes,No,Not Available,No,No,No,No,No,No,No,No,Two Year,Yes,Credit Card,25.3,1474.35,0.0,0,2829.24,4303.59,Stayed,Others,Others
 63605-HAR,Male,46,Yes,Haryana,14,30,Not Available,Yes,No,Yes,Cable,Yes,No,No,Yes,No,No,No,Yes,Month-to-Month,No,Credit Card,56.65,654.85,0.0,0,95.64,750.49,Churned,Price,Extra data charges
@@ -4221,7 +4154,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 54891-HAR,Female,55,No,Haryana,11,24,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,One Year,No,Credit Card,19.9,527.5,0.0,0,34.0,561.5,Stayed,Others,Others
 91621-DEL,Male,63,Yes,Delhi,8,23,Not Available,Yes,No,Yes,DSL,Yes,No,No,Yes,No,No,No,Yes,One Year,No,Credit Card,57.2,1423.35,0.0,0,870.78,2294.13,Stayed,Others,Others
 55132-MAD,Female,39,No,Madhya Pradesh,11,25,Not Available,Yes,No,Yes,DSL,Yes,Yes,No,No,No,No,No,Yes,Two Year,No,Bank Withdrawal,52.85,1498.65,0.0,0,284.85,1783.5,Stayed,Others,Others
-58303-BIH,Female,51,No,Bihar,0,31,Not Available,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Credit Card,-3.0,7107.0,0.0,0,2715.7,9822.7,Stayed,Others,Others
 52367-BIH,Female,54,Yes,Bihar,1,4,Deal 4,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,One Year,No,Bank Withdrawal,20.25,488.25,0.0,0,829.4,1317.65,Stayed,Others,Others
 76892-KAR,Male,31,Yes,Karnataka,6,28,Deal 2,Yes,No,Yes,DSL,Yes,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,49.75,2535.55,0.0,0,2024.36,4559.91,Stayed,Others,Others
 43635-ODI,Male,50,Yes,Odisha,9,24,Deal 3,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Credit Card,95.1,3691.2,0.0,0,254.98,3946.18,Stayed,Others,Others
@@ -4231,7 +4163,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 28973-KAR,Female,54,No,Karnataka,6,16,Not Available,Yes,Yes,Yes,Fiber Optic,No,No,Yes,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,81.2,3292.3,0.0,0,140.8,3433.1,Stayed,Others,Others
 28035-DEL,Male,45,Yes,Delhi,15,12,Deal 4,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.25,331.35,0.0,0,563.94,895.29,Stayed,Others,Others
 21355-TEL,Female,67,Yes,Telangana,13,15,Deal 4,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,One Year,No,Mailed Check,19.65,436.9,0.0,0,572.24,1009.14,Stayed,Others,Others
-12443-AND,Female,48,Yes,Andhra Pradesh,15,9,Deal 5,Yes,No,Yes,Fiber Optic,No,No,No,No,No,Yes,Yes,Yes,Month-to-Month,No,Credit Card,-7.0,80.15,0.0,0,4.67,84.82,Churned,Attitude,Attitude of support person
 83399-MAH,Female,43,Yes,Maharashtra,5,24,Deal 4,Yes,Yes,Yes,Fiber Optic,No,No,Yes,No,No,Yes,Yes,No,Month-to-Month,Yes,Bank Withdrawal,88.45,1422.1,0.0,140,284.8,1846.9,Churned,Other,Don't know
 85731-MAH,Female,51,No,Maharashtra,12,14,Deal 1,Yes,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,No,No,Yes,Two Year,No,Credit Card,68.15,4808.7,0.0,0,1246.32,6055.02,Stayed,Others,Others
 28976-PUN,Female,64,No,Punjab,0,18,Not Available,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,98.85,3089.6,0.0,0,769.28,3858.88,Stayed,Others,Others
@@ -4314,7 +4245,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 97843-TAM,Male,48,No,Tamil Nadu,12,11,Not Available,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,75.6,402.5,0.0,10,96.5,509.0,Stayed,Others,Others
 66332-DEL,Female,59,Yes,Delhi,2,32,Not Available,Yes,Yes,No,Not Available,No,No,No,No,No,No,No,No,Two Year,No,Credit Card,26.1,692.55,0.0,0,155.15,847.7,Stayed,Others,Others
 45004-KER,Female,69,Yes,Kerala,7,22,Not Available,Yes,Yes,Yes,Fiber Optic,No,No,No,Yes,Yes,Yes,No,Yes,One Year,No,Bank Withdrawal,100.25,4753.85,0.0,0,987.16,5741.01,Stayed,Others,Others
-59829-UTT,Female,59,Yes,Uttar Pradesh,8,34,Deal 4,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,One Year,Yes,Credit Card,-5.0,1783.6,0.0,0,433.84,2217.44,Stayed,Others,Others
 83174-BIH,Male,23,No,Bihar,9,6,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,One Year,Yes,Bank Withdrawal,19.9,164.6,0.0,0,36.18,200.78,Stayed,Others,Others
 15382-GUJ,Female,60,No,Gujarat,6,19,Not Available,No,No,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,No,Credit Card,63.9,3334.95,0.0,0,0.0,3334.95,Stayed,Others,Others
 33003-KAR,Female,25,No,Karnataka,4,29,Deal 5,Yes,No,Yes,Fiber Optic,No,No,Yes,Yes,No,No,No,Yes,Month-to-Month,No,Credit Card,80.1,217.55,0.0,0,122.01,339.56,Churned,Attitude,Attitude of service provider
@@ -4365,7 +4295,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 59403-KER,Male,51,Yes,Kerala,8,3,Not Available,Yes,Yes,Yes,Fiber Optic,Yes,Yes,No,Yes,No,No,No,Yes,One Year,Yes,Bank Withdrawal,89.85,5844.65,0.0,0,2491.45,8336.1,Stayed,Others,Others
 34266-KAR,Female,73,Yes,Karnataka,14,18,Deal 3,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,Yes,No,No,Yes,Two Year,Yes,Bank Withdrawal,90.05,2627.2,0.0,0,1432.5,4059.7,Stayed,Others,Others
 29261-TEL,Male,29,No,Telangana,9,10,Deal 2,Yes,No,Yes,Cable,No,Yes,No,No,Yes,Yes,Yes,Yes,One Year,Yes,Bank Withdrawal,94.4,5610.25,0.0,0,2844.0,8454.25,Churned,Attitude,Attitude of support person
-86243-KER,Female,63,Yes,Kerala,15,8,Deal 5,Yes,No,Yes,Fiber Optic,No,No,Yes,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Mailed Check,-5.0,178.7,0.0,0,48.1,226.8,Churned,Attitude,Attitude of service provider
 14214-KAR,Female,62,Yes,Karnataka,1,10,Deal 5,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.25,186.15,0.0,0,23.4,209.55,Stayed,Others,Others
 83489-CHH,Male,59,No,Chhattisgarh,12,13,Not Available,No,No,Yes,Cable,No,No,Yes,No,Yes,Yes,Yes,Yes,One Year,Yes,Bank Withdrawal,49.05,2265.0,0.0,0,0.0,2265.0,Stayed,Others,Others
 62731-KER,Male,69,Yes,Kerala,8,21,Not Available,Yes,Yes,Yes,Fiber Optic,No,No,No,Yes,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,90.5,1910.6,0.0,0,1014.42,2925.02,Churned,Other,Don't know
@@ -4496,7 +4425,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 48770-BIH,Male,51,No,Bihar,9,26,Not Available,No,No,Yes,Cable,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,25.25,186.3,0.0,0,0.0,186.3,Stayed,Others,Others
 21368-AND,Female,23,No,Andhra Pradesh,9,2,Deal 1,Yes,Yes,Yes,Fiber Optic,No,Yes,No,Yes,Yes,Yes,Yes,Yes,One Year,Yes,Bank Withdrawal,106.6,7244.7,0.0,0,1255.58,8500.28,Stayed,Others,Others
 38434-HAR,Female,58,No,Haryana,10,19,Not Available,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,99.35,4749.15,0.0,0,1473.45,6222.6,Churned,Competitor,Competitor had better devices
-64095-BIH,Male,27,No,Bihar,2,17,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,One Year,Yes,Bank Withdrawal,-3.0,20.2,0.0,0,44.69,64.89,Joined,Others,Others
 17682-PUN,Female,32,No,Punjab,10,2,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,20.15,91.4,0.0,0,183.36,274.76,Stayed,Others,Others
 65380-JAM,Female,20,Yes,Jammu & Kashmir,5,2,Deal 4,Yes,Yes,Yes,DSL,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Month-to-Month,No,Bank Withdrawal,84.9,1398.25,0.0,0,146.56,1544.81,Stayed,Others,Others
 41944-UTT,Female,57,Yes,Uttar Pradesh,10,28,Deal 5,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,86.0,165.45,0.0,0,86.94,252.39,Churned,Attitude,Attitude of support person
@@ -4563,7 +4491,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 18432-RAJ,Female,66,Yes,Rajasthan,15,25,Deal 2,Yes,Yes,Yes,Fiber Optic,No,No,No,Yes,Yes,Yes,Yes,Yes,One Year,Yes,Bank Withdrawal,97.95,4917.9,0.0,0,784.98,5702.88,Stayed,Others,Others
 94725-TAM,Female,78,No,Tamil Nadu,12,32,Not Available,Yes,No,Yes,Fiber Optic,Yes,Yes,No,Yes,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,85.7,3778.1,0.0,50,186.3,4014.4,Stayed,Others,Others
 63359-JAM,Male,68,Yes,Jammu & Kashmir,6,12,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,One Year,No,Credit Card,20.6,690.25,0.0,0,1129.26,1819.51,Stayed,Others,Others
-72188-KAR,Male,66,No,Karnataka,13,19,Not Available,Yes,No,Yes,Fiber Optic,No,No,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,-7.0,79.2,0.0,0,20.06,99.26,Churned,Competitor,Competitor made better offer
 35913-GUJ,Female,47,No,Gujarat,5,17,Not Available,Yes,No,Yes,Fiber Optic,No,No,No,Yes,Yes,Yes,Yes,No,Two Year,Yes,Credit Card,95.2,4285.8,43.95,50,2160.9,6452.75,Stayed,Others,Others
 18415-KAR,Female,33,Yes,Karnataka,7,36,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Mailed Check,19.1,19.1,0.0,0,5.02,24.12,Joined,Others,Others
 65751-HAR,Female,20,Yes,Haryana,13,1,Deal 2,Yes,No,Yes,Fiber Optic,No,No,Yes,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,74.8,3548.3,0.0,0,1952.24,5500.54,Stayed,Others,Others
@@ -4609,7 +4536,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 55609-BIH,Female,36,No,Bihar,10,29,Deal 2,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Two Year,No,Credit Card,20.0,1209.25,0.0,0,2954.7,4163.95,Stayed,Others,Others
 92106-MAD,Female,41,No,Madhya Pradesh,14,9,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.35,92.75,0.0,0,158.9,251.65,Stayed,Others,Others
 91972-CHH,Female,19,No,Chhattisgarh,15,8,Deal 5,No,No,Yes,Cable,Yes,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,29.45,161.45,0.0,0,0.0,161.45,Stayed,Others,Others
-18329-HAR,Female,26,Yes,Haryana,8,18,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Two Year,No,Credit Card,-4.0,1185.95,0.0,0,1083.44,2269.39,Stayed,Others,Others
 47223-MAH,Female,25,No,Maharashtra,4,19,Deal 1,Yes,No,Yes,Cable,Yes,No,Yes,No,No,Yes,Yes,No,Two Year,No,Bank Withdrawal,65.55,4361.55,0.0,40,3332.58,7734.13,Stayed,Others,Others
 68060-KAR,Female,21,Yes,Karnataka,10,8,Deal 4,Yes,No,Yes,Cable,No,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,51.25,612.1,0.0,0,562.56,1174.66,Stayed,Others,Others
 13442-TAM,Female,59,Yes,Tamil Nadu,13,8,Deal 2,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,No,No,Yes,Yes,No,Month-to-Month,Yes,Bank Withdrawal,99.45,5623.7,0.0,30,2325.78,7979.48,Stayed,Others,Others
@@ -4661,7 +4587,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 25286-GUJ,Female,44,No,Gujarat,11,32,Deal 2,Yes,Yes,Yes,Cable,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Two Year,Yes,Bank Withdrawal,84.95,5150.55,4.68,0,291.4,5437.27,Stayed,Others,Others
 76853-HAR,Female,60,No,Haryana,4,6,Not Available,Yes,Yes,Yes,Fiber Optic,No,No,No,Yes,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,91.65,1301.0,0.0,0,127.82,1428.82,Churned,Dissatisfaction,Network reliability
 88689-KAR,Female,48,Yes,Karnataka,11,26,Not Available,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,69.95,1205.5,0.0,0,438.88,1644.38,Stayed,Others,Others
-64398-MAH,Female,43,No,Maharashtra,14,15,Not Available,Yes,No,Yes,DSL,Yes,Yes,No,No,No,No,No,Yes,One Year,No,Credit Card,-4.0,2016.45,0.0,0,439.6,2456.05,Stayed,Others,Others
 22701-RAJ,Female,64,Yes,Rajasthan,4,3,Not Available,Yes,No,Yes,Fiber Optic,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Month-to-Month,No,Credit Card,101.3,1794.65,0.0,0,136.08,1930.73,Stayed,Others,Others
 62577-MAH,Female,26,Yes,Maharashtra,12,14,Deal 1,Yes,No,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,No,Credit Card,86.45,5950.2,0.0,0,2180.5,8130.7,Stayed,Others,Others
 91717-BIH,Male,64,Yes,Bihar,10,17,Not Available,Yes,No,Yes,Cable,Yes,No,Yes,Yes,No,No,No,No,Two Year,Yes,Bank Withdrawal,60.4,3953.7,0.0,40,1418.39,5412.09,Stayed,Others,Others
@@ -4774,7 +4699,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 18619-GUJ,Female,58,No,Gujarat,7,9,Not Available,Yes,Yes,No,Not Available,No,No,No,No,No,No,No,No,Two Year,No,Bank Withdrawal,24.65,1620.45,0.0,0,965.47,2585.92,Stayed,Others,Others
 18385-KAR,Female,42,No,Karnataka,5,12,Deal 5,Yes,Yes,Yes,Fiber Optic,No,No,No,No,Yes,Yes,Yes,Yes,Month-to-Month,No,Credit Card,95.65,95.65,0.0,0,32.33,127.98,Churned,Attitude,Attitude of service provider
 38869-WES,Male,47,No,West Bengal,9,1,Not Available,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,Yes,Bank Withdrawal,113.1,8248.5,0.0,0,1895.04,10143.54,Stayed,Others,Others
-37950-MAD,Male,35,Yes,Madhya Pradesh,6,29,Not Available,Yes,No,Yes,DSL,No,No,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,-10.0,608.15,0.0,0,486.2,1094.35,Stayed,Others,Others
 48516-KAR,Female,68,No,Karnataka,1,34,Deal 5,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Two Year,Yes,Bank Withdrawal,74.05,678.45,0.0,0,357.93,1036.38,Stayed,Others,Others
 15872-KAR,Female,60,No,Karnataka,3,15,Deal 4,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.1,221.35,0.0,0,363.66,585.01,Churned,Attitude,Attitude of support person
 85050-GUJ,Male,72,Yes,Gujarat,3,17,Not Available,Yes,Yes,Yes,Fiber Optic,No,No,Yes,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,99.25,665.45,0.0,0,300.44,965.89,Churned,Attitude,Attitude of support person
@@ -4801,10 +4725,8 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 37974-ASS,Male,30,Yes,Assam,7,5,Not Available,Yes,No,Yes,Fiber Optic,Yes,Yes,Yes,Yes,No,No,No,Yes,One Year,Yes,Credit Card,90.1,4549.45,0.0,0,768.5,5317.95,Stayed,Others,Others
 42870-TAM,Male,84,Yes,Tamil Nadu,4,30,Not Available,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,75.75,75.75,0.0,0,8.35,84.1,Churned,Competitor,Competitor made better offer
 77849-WES,Male,68,No,West Bengal,10,8,Deal 2,Yes,No,Yes,Fiber Optic,No,No,Yes,No,No,No,No,No,One Year,No,Bank Withdrawal,73.85,3122.4,0.0,100,2070.64,5293.04,Stayed,Others,Others
-53518-BIH,Male,21,No,Bihar,6,12,Not Available,Yes,No,Yes,DSL,Yes,Yes,Yes,Yes,No,No,No,Yes,Two Year,Yes,Bank Withdrawal,-6.0,4158.25,0.0,0,2580.91,6739.16,Stayed,Others,Others
 49285-RAJ,Female,41,No,Rajasthan,15,30,Not Available,Yes,No,Yes,Fiber Optic,No,Yes,No,Yes,Yes,No,No,No,Month-to-Month,No,Credit Card,89.65,2623.65,0.0,10,374.68,3008.33,Stayed,Others,Others
 57324-ODI,Male,58,Yes,Odisha,2,17,Deal 4,Yes,No,Yes,DSL,No,Yes,No,Yes,No,No,No,Yes,Month-to-Month,Yes,Credit Card,53.75,648.65,0.0,0,21.6,670.25,Stayed,Others,Others
-57284-MAH,Male,46,Yes,Maharashtra,5,31,Deal 2,Yes,Yes,Yes,DSL,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Two Year,No,Bank Withdrawal,-2.0,3902.45,0.0,0,813.4,4715.85,Stayed,Others,Others
 68589-MAD,Male,70,Yes,Madhya Pradesh,15,29,Not Available,Yes,Yes,Yes,Fiber Optic,No,No,No,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,96.55,3580.3,0.0,0,122.1,3702.4,Churned,Attitude,Attitude of service provider
 49649-UTT,Male,69,Yes,Uttar Pradesh,8,15,Deal 3,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,Yes,Yes,Yes,No,Month-to-Month,No,Bank Withdrawal,105.75,2710.25,0.0,90,32.76,2833.01,Churned,Dissatisfaction,Product dissatisfaction
 89019-PUN,Female,28,No,Punjab,13,32,Deal 2,Yes,Yes,Yes,Fiber Optic,No,No,Yes,No,No,Yes,Yes,Yes,Two Year,Yes,Credit Card,89.45,4577.75,18.89,0,785.2,5344.06,Stayed,Others,Others
@@ -4922,7 +4844,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 73850-MAH,Male,39,No,Maharashtra,12,20,Deal 2,Yes,Yes,Yes,Fiber Optic,No,Yes,No,Yes,Yes,Yes,Yes,No,One Year,Yes,Bank Withdrawal,103.15,4594.65,0.0,130,1528.12,6252.77,Stayed,Others,Others
 33933-MAD,Male,56,Yes,Madhya Pradesh,9,3,Deal 4,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.0,417.7,0.0,0,722.19,1139.89,Stayed,Others,Others
 81060-PUN,Male,51,Yes,Punjab,1,14,Deal 3,Yes,Yes,Yes,Fiber Optic,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,106.4,4040.65,0.0,0,669.63,4710.28,Stayed,Others,Others
-72768-UTT,Male,44,Yes,Uttar Pradesh,1,23,Not Available,Yes,No,Yes,Cable,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,One Year,No,Credit Card,-7.0,1387.35,0.0,0,215.73,1603.08,Stayed,Others,Others
 36802-GUJ,Male,45,Yes,Gujarat,7,11,Not Available,Yes,No,Yes,DSL,Yes,Yes,No,No,Yes,No,No,Yes,Two Year,Yes,Bank Withdrawal,65.3,3512.9,0.0,0,1011.96,4524.86,Stayed,Others,Others
 76261-TAM,Female,22,Yes,Tamil Nadu,10,10,Not Available,Yes,No,Yes,Cable,No,Yes,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,50.85,466.6,0.0,0,113.31,579.91,Stayed,Others,Others
 71254-UTT,Male,24,Yes,Uttar Pradesh,10,12,Deal 5,Yes,No,Yes,DSL,No,No,No,No,No,No,Yes,Yes,Month-to-Month,No,Credit Card,45.95,45.95,0.0,0,5.12,51.07,Churned,Attitude,Attitude of support person
@@ -4957,7 +4878,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 15424-MAD,Female,29,Yes,Madhya Pradesh,5,19,Not Available,Yes,No,Yes,Cable,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,Yes,Bank Withdrawal,83.7,6096.9,0.0,0,1155.6,7252.5,Stayed,Others,Others
 18987-TAM,Female,33,No,Tamil Nadu,14,22,Deal 5,Yes,No,Yes,DSL,Yes,No,No,No,No,No,No,Yes,One Year,No,Credit Card,48.6,422.3,20.45,0,270.63,672.48,Stayed,Others,Others
 24584-MAH,Male,42,Yes,Maharashtra,9,7,Deal 2,Yes,Yes,Yes,Fiber Optic,No,No,No,Yes,Yes,Yes,Yes,Yes,One Year,No,Bank Withdrawal,99.4,5059.75,0.0,0,1303.0,6362.75,Stayed,Others,Others
-92461-KAR,Female,58,No,Karnataka,4,16,Deal 1,Yes,Yes,Yes,Cable,Yes,Yes,No,Yes,Yes,No,No,Yes,One Year,No,Credit Card,-6.0,4885.85,0.0,0,540.96,5426.81,Stayed,Others,Others
 23053-PUN,Male,26,Yes,Punjab,2,7,Not Available,Yes,No,Yes,DSL,Yes,No,Yes,No,No,Yes,Yes,Yes,One Year,No,Credit Card,64.85,950.75,0.0,0,655.35,1606.1,Stayed,Others,Others
 66215-ASS,Female,74,Yes,Assam,9,16,Not Available,Yes,No,Yes,Cable,No,No,Yes,No,No,Yes,No,Yes,One Year,No,Credit Card,60.7,1597.4,0.0,0,445.12,2042.52,Stayed,Others,Others
 93499-AND,Male,64,Yes,Andhra Pradesh,6,23,Deal 3,Yes,Yes,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,25.75,882.55,0.0,0,866.6,1749.15,Stayed,Others,Others
@@ -4986,7 +4906,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 81349-KAR,Male,72,No,Karnataka,14,19,Deal 1,Yes,Yes,Yes,Fiber Optic,No,No,Yes,Yes,Yes,Yes,No,No,One Year,Yes,Credit Card,102.85,6976.75,0.0,60,767.58,7804.33,Stayed,Others,Others
 97246-MAH,Female,33,Yes,Maharashtra,10,2,Not Available,Yes,No,Yes,DSL,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Month-to-Month,Yes,Credit Card,71.35,2847.2,0.0,0,1165.6,4012.8,Stayed,Others,Others
 77392-KAR,Female,74,Yes,Karnataka,3,11,Not Available,No,No,Yes,DSL,No,No,No,No,Yes,Yes,No,Yes,One Year,Yes,Bank Withdrawal,45.25,3264.45,0.0,0,0.0,3264.45,Churned,Attitude,Attitude of service provider
-96782-MAH,Female,59,Yes,Maharashtra,11,23,Deal 4,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,One Year,No,Bank Withdrawal,-9.0,405.6,0.0,0,606.51,1012.11,Stayed,Others,Others
 79111-MAD,Female,71,Yes,Madhya Pradesh,10,7,Deal 3,Yes,Yes,Yes,Fiber Optic,No,No,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,85.7,3171.15,0.0,0,1724.57,4895.72,Churned,Competitor,Competitor offered higher download speeds
 88195-TAM,Female,58,No,Tamil Nadu,5,24,Not Available,Yes,Yes,Yes,DSL,No,No,Yes,Yes,No,Yes,Yes,Yes,Two Year,No,Bank Withdrawal,69.5,3418.2,5.73,0,1352.0,4764.47,Stayed,Others,Others
 69387-RAJ,Female,36,No,Rajasthan,2,29,Not Available,Yes,No,Yes,DSL,Yes,Yes,Yes,No,No,No,No,Yes,Two Year,No,Bank Withdrawal,60.5,3694.45,0.0,0,2594.4,6288.85,Stayed,Others,Others
@@ -5005,7 +4924,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 29682-HAR,Female,40,Yes,Haryana,15,25,Deal 1,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,No,Yes,Yes,No,Two Year,Yes,Bank Withdrawal,93.15,6368.2,0.0,90,1165.8,7624.0,Stayed,Others,Others
 89356-UTT,Male,50,Yes,Uttar Pradesh,11,13,Not Available,Yes,Yes,No,Not Available,No,No,No,No,No,No,No,No,Two Year,No,Credit Card,23.85,1672.1,0.0,0,1504.49,3176.59,Stayed,Others,Others
 49835-TEL,Male,49,No,Telangana,0,7,Not Available,Yes,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,No,No,Yes,Two Year,No,Credit Card,71.6,4230.25,45.54,0,2353.06,6537.77,Stayed,Others,Others
-59762-BIH,Male,67,Yes,Bihar,8,3,Not Available,Yes,Yes,Yes,DSL,No,No,Yes,Yes,Yes,Yes,Yes,Yes,One Year,Yes,Credit Card,-4.0,1663.75,0.0,0,795.3,2459.05,Stayed,Others,Others
 52378-JHA,Male,58,Yes,Jharkhand,7,13,Deal 2,Yes,Yes,Yes,Cable,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,No,Mailed Check,89.55,5012.35,30.45,0,533.52,5515.42,Stayed,Others,Others
 58332-DEL,Male,35,No,Delhi,12,1,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Two Year,Yes,Credit Card,19.8,1311.3,0.0,0,316.24,1627.54,Stayed,Others,Others
 69777-TAM,Female,59,Yes,Tamil Nadu,7,3,Deal 3,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,19.2,702.9,0.0,0,740.52,1443.42,Stayed,Others,Others
@@ -5072,7 +4990,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 67762-PUN,Male,80,Yes,Punjab,4,27,Deal 4,Yes,Yes,Yes,Fiber Optic,No,No,Yes,Yes,Yes,No,No,Yes,Two Year,No,Bank Withdrawal,93.9,1743.9,0.0,0,34.56,1778.46,Stayed,Others,Others
 57292-AND,Female,46,No,Andhra Pradesh,5,19,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Two Year,No,Bank Withdrawal,20.45,1297.35,0.0,0,115.94,1413.29,Stayed,Others,Others
 63125-MAD,Female,50,No,Madhya Pradesh,6,33,Not Available,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,One Year,No,Bank Withdrawal,45.05,2462.6,0.0,0,1848.0,4310.6,Stayed,Others,Others
-46713-MAD,Female,55,Yes,Madhya Pradesh,7,29,Not Available,Yes,Yes,Yes,Fiber Optic,No,No,No,Yes,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,-2.0,1993.8,0.0,0,268.18,2261.98,Churned,Dissatisfaction,Limited range of services
 23152-KAR,Female,59,No,Karnataka,6,36,Not Available,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,Yes,No,No,Yes,Month-to-Month,Yes,Credit Card,94.45,5073.1,0.0,0,1903.55,6976.65,Stayed,Others,Others
 76124-JHA,Male,35,Yes,Jharkhand,0,15,Deal 3,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,Yes,Yes,Yes,Yes,One Year,No,Bank Withdrawal,100.2,2688.45,42.64,0,346.08,2991.89,Stayed,Others,Others
 52413-KER,Male,65,Yes,Kerala,3,17,Deal 5,No,No,Yes,DSL,No,No,Yes,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,41.15,132.2,0.0,0,0.0,132.2,Churned,Price,Long distance charges
@@ -5140,7 +5057,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 31589-MAD,Female,32,No,Madhya Pradesh,8,14,Deal 5,Yes,No,Yes,DSL,Yes,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,47.8,92.45,0.0,0,27.46,119.91,Churned,Attitude,Attitude of support person
 13123-BIH,Female,46,No,Bihar,13,18,Deal 5,Yes,No,Yes,Fiber Optic,Yes,Yes,No,No,Yes,Yes,Yes,No,Month-to-Month,No,Bank Withdrawal,100.2,198.5,0.0,10,45.12,253.62,Joined,Others,Others
 86963-WES,Male,28,No,West Bengal,10,34,Not Available,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,70.3,208.85,0.0,0,80.13,288.98,Churned,Competitor,Competitor had better devices
-53321-KAR,Female,68,No,Karnataka,14,25,Deal 4,Yes,No,Yes,DSL,No,No,Yes,Yes,No,No,No,Yes,Month-to-Month,No,Credit Card,-2.0,1058.1,0.0,0,858.96,1917.06,Stayed,Others,Others
 55971-UTT,Female,58,Yes,Uttar Pradesh,10,17,Deal 5,No,No,Yes,Cable,No,No,No,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,35.15,99.75,0.0,0,0.0,99.75,Churned,Attitude,Attitude of support person
 42864-ODI,Female,29,No,Odisha,2,10,Deal 5,No,No,Yes,DSL,No,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Mailed Check,30.25,63.75,0.0,0,0.0,63.75,Joined,Others,Others
 97820-ODI,Male,22,No,Odisha,8,7,Deal 4,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,100.65,2415.95,5.01,0,625.24,3036.18,Stayed,Others,Others
@@ -5218,7 +5134,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 97664-GUJ,Female,19,No,Gujarat,4,6,Deal 4,Yes,Yes,Yes,Fiber Optic,No,No,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,86.1,1235.55,0.0,0,101.64,1337.19,Churned,Competitor,Competitor had better devices
 14087-UTT,Female,77,No,Uttar Pradesh,2,17,Not Available,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,Yes,No,No,Yes,One Year,No,Credit Card,89.0,1288.3,45.69,0,25.05,1267.66,Stayed,Others,Others
 44775-GUJ,Female,58,Yes,Gujarat,10,1,Not Available,No,No,Yes,Cable,No,No,No,No,Yes,Yes,Yes,No,Month-to-Month,Yes,Bank Withdrawal,45.4,418.8,0.0,20,0.0,438.8,Churned,Competitor,Competitor had better devices
-18804-PUN,Female,71,No,Punjab,0,20,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Two Year,No,Credit Card,-7.0,1356.3,0.0,0,1422.78,2779.08,Stayed,Others,Others
 41658-KAR,Male,72,Yes,Karnataka,2,16,Not Available,Yes,Yes,Yes,Fiber Optic,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Two Year,Yes,Credit Card,105.05,5163.3,0.0,0,2045.0,7208.3,Stayed,Others,Others
 45324-TAM,Female,36,Yes,Tamil Nadu,8,14,Not Available,Yes,No,Yes,Fiber Optic,No,Yes,No,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,84.6,1017.35,0.0,0,30.84,1048.19,Stayed,Others,Others
 78323-KER,Male,34,No,Kerala,1,12,Deal 4,Yes,No,Yes,Fiber Optic,Yes,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,73.2,1441.1,0.0,0,489.25,1930.35,Churned,Attitude,Attitude of support person
@@ -5245,8 +5160,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 68719-AND,Female,52,Yes,Andhra Pradesh,6,17,Deal 2,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,No,Yes,No,No,No,Month-to-Month,Yes,Bank Withdrawal,100.55,6215.35,0.0,0,565.74,6781.09,Churned,Price,Price too high
 14570-KAR,Female,31,Yes,Karnataka,14,27,Not Available,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,One Year,Yes,Bank Withdrawal,108.25,5431.4,0.0,0,2079.0,7510.4,Stayed,Others,Others
 47613-AND,Male,48,No,Andhra Pradesh,10,9,Deal 5,Yes,No,Yes,DSL,No,Yes,Yes,No,No,No,No,Yes,Month-to-Month,Yes,Mailed Check,55.3,324.25,0.0,0,11.16,335.41,Churned,Competitor,Competitor made better offer
-79282-TAM,Female,58,No,Tamil Nadu,0,17,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,-10.0,19.5,0.0,0,32.45,51.95,Churned,Attitude,Attitude of support person
-39190-WES,Female,54,No,West Bengal,15,25,Deal 3,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Two Year,No,Bank Withdrawal,-9.0,520.55,0.0,0,1193.13,1713.68,Stayed,Others,Others
 35267-ODI,Female,26,Yes,Odisha,6,20,Deal 5,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,45.65,323.45,0.0,0,34.14,357.59,Stayed,Others,Others
 59749-TAM,Male,39,No,Tamil Nadu,6,26,Not Available,Yes,Yes,No,Not Available,No,No,No,No,No,No,No,No,Two Year,No,Bank Withdrawal,25.7,251.6,0.0,0,321.0,572.6,Stayed,Others,Others
 81676-KAR,Female,49,Yes,Karnataka,11,25,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Two Year,Yes,Credit Card,20.8,1411.9,0.0,0,590.94,2002.84,Stayed,Others,Others
@@ -5260,7 +5173,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 67547-GUJ,Female,19,Yes,Gujarat,5,3,Not Available,Yes,No,Yes,Fiber Optic,No,No,No,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Credit Card,79.85,2001.0,0.0,0,847.2,2848.2,Stayed,Others,Others
 11799-TAM,Male,33,No,Tamil Nadu,9,20,Not Available,No,No,Yes,DSL,No,No,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Mailed Check,45.3,45.3,0.0,0,0.0,45.3,Churned,Competitor,Competitor had better devices
 42152-DEL,Female,30,No,Delhi,14,7,Not Available,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,Yes,Bank Withdrawal,118.75,8672.45,0.0,0,2962.08,11634.53,Stayed,Others,Others
-73761-UTT,Female,51,Yes,Uttar Pradesh,0,8,Deal 1,Yes,Yes,Yes,Fiber Optic,Yes,Yes,No,No,No,No,No,Yes,Two Year,Yes,Bank Withdrawal,-1.0,5711.05,0.0,0,535.16,6246.21,Stayed,Others,Others
 27692-GUJ,Female,40,No,Gujarat,6,34,Not Available,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,74.9,147.15,0.0,0,76.56,223.71,Churned,Price,Long distance charges
 62966-TAM,Female,39,No,Tamil Nadu,5,24,Deal 2,Yes,Yes,Yes,Fiber Optic,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,Yes,Bank Withdrawal,104.05,6590.5,0.0,0,1095.54,7686.04,Stayed,Others,Others
 89855-RAJ,Female,33,No,Rajasthan,0,20,Deal 2,Yes,No,Yes,DSL,Yes,No,No,Yes,Yes,Yes,Yes,Yes,One Year,Yes,Credit Card,74.7,3187.65,0.0,0,1031.56,4219.21,Stayed,Others,Others
@@ -5276,7 +5188,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 56658-ASS,Female,26,No,Assam,12,29,Deal 5,Yes,No,Yes,DSL,No,No,No,No,No,No,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,43.3,123.65,0.0,0,146.52,270.17,Churned,Price,Lack of affordable download/upload speed
 17597-HAR,Female,33,Yes,Haryana,2,6,Deal 5,No,No,Yes,DSL,No,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,29.85,29.85,0.0,0,0.0,29.85,Joined,Others,Others
 32887-MAH,Female,60,Yes,Maharashtra,6,11,Deal 5,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,44.6,260.8,0.0,0,295.2,556.0,Churned,Price,Extra data charges
-32447-HAR,Female,38,Yes,Haryana,13,18,Not Available,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,-4.0,46.3,0.0,0,48.22,94.52,Churned,Price,Extra data charges
 66748-KAR,Female,71,Yes,Karnataka,9,32,Deal 3,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Two Year,No,Credit Card,69.15,2275.1,0.0,0,461.04,2736.14,Stayed,Others,Others
 46345-AND,Female,45,Yes,Andhra Pradesh,2,14,Not Available,No,No,Yes,DSL,No,No,Yes,No,Yes,Yes,Yes,Yes,Month-to-Month,No,Credit Card,50.6,1653.45,0.0,0,0.0,1653.45,Stayed,Others,Others
 36574-WES,Female,51,Yes,West Bengal,7,26,Not Available,Yes,No,Yes,Fiber Optic,No,Yes,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,75.8,75.8,0.0,0,14.48,90.28,Churned,Competitor,Competitor had better devices
@@ -5295,7 +5206,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 11873-HAR,Male,45,Yes,Haryana,9,10,Deal 2,Yes,No,Yes,DSL,No,No,Yes,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,50.25,2221.55,0.0,0,292.05,2513.6,Stayed,Others,Others
 61289-MAH,Female,37,Yes,Maharashtra,13,8,Deal 1,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Two Year,Yes,Credit Card,19.8,1468.75,0.0,0,2191.68,3660.43,Stayed,Others,Others
 29978-DEL,Female,30,Yes,Delhi,11,21,Not Available,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,No,Yes,Yes,No,One Year,Yes,Credit Card,95.0,4368.85,0.0,60,1505.25,5934.1,Stayed,Others,Others
-87630-MAD,Male,66,Yes,Madhya Pradesh,3,34,Deal 2,Yes,Yes,No,Not Available,No,No,No,No,No,No,No,No,Two Year,Yes,Credit Card,-10.0,1413.0,0.0,0,1088.72,2501.72,Stayed,Others,Others
 26069-AND,Female,25,No,Andhra Pradesh,2,17,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,One Year,No,Credit Card,19.55,280.85,0.0,0,721.14,1001.99,Stayed,Others,Others
 49078-MAH,Female,56,Yes,Maharashtra,1,25,Not Available,Yes,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Two Year,No,Bank Withdrawal,87.1,4735.2,0.0,80,1001.16,5816.36,Stayed,Others,Others
 75841-TAM,Female,51,Yes,Tamil Nadu,2,28,Not Available,Yes,Yes,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,26.35,378.6,0.0,0,119.4,498.0,Stayed,Others,Others
@@ -5329,7 +5239,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 64722-WES,Female,81,Yes,West Bengal,8,2,Not Available,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,100.7,4541.2,46.64,0,2259.06,6753.62,Churned,Dissatisfaction,Product dissatisfaction
 66574-MAH,Female,29,No,Maharashtra,4,22,Deal 2,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Two Year,No,Bank Withdrawal,19.35,1263.85,0.0,0,2635.92,3899.77,Stayed,Others,Others
 59601-HAR,Male,60,Yes,Haryana,7,6,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Two Year,No,Credit Card,19.85,198.5,0.0,0,155.1,353.6,Stayed,Others,Others
-83549-GUJ,Female,47,Yes,Gujarat,4,32,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Two Year,Yes,Bank Withdrawal,-3.0,1092.35,0.0,0,2264.22,3356.57,Stayed,Others,Others
 59408-AND,Male,27,Yes,Andhra Pradesh,14,8,Deal 4,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,One Year,No,Mailed Check,19.5,226.8,0.0,0,368.28,595.08,Stayed,Others,Others
 33718-MAH,Male,32,Yes,Maharashtra,1,3,Deal 1,Yes,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Two Year,Yes,Credit Card,80.1,5585.4,0.0,0,778.87,6364.27,Stayed,Others,Others
 27083-MAD,Male,65,Yes,Madhya Pradesh,14,1,Not Available,Yes,No,Yes,Fiber Optic,Yes,No,Yes,Yes,No,No,No,Yes,One Year,Yes,Bank Withdrawal,84.25,3539.25,0.0,0,653.6,4192.85,Stayed,Others,Others
@@ -5345,7 +5254,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 91824-DEL,Female,22,Yes,Delhi,7,1,Not Available,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,69.6,69.6,0.0,0,14.19,83.79,Churned,Competitor,Competitor made better offer
 33958-BIH,Female,43,Yes,Bihar,10,19,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,One Year,No,Credit Card,20.35,176.3,0.0,0,174.0,350.3,Stayed,Others,Others
 36599-BIH,Female,40,No,Bihar,0,29,Not Available,Yes,No,Yes,Fiber Optic,No,No,Yes,Yes,No,No,No,Yes,Two Year,Yes,Bank Withdrawal,80.45,3201.55,0.0,0,953.55,4155.1,Churned,Dissatisfaction,Lack of self-service on Website
-13035-KAR,Female,80,Yes,Karnataka,2,33,Not Available,Yes,Yes,Yes,Fiber Optic,No,No,No,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,-4.0,1614.7,0.0,0,65.11,1679.81,Stayed,Others,Others
 35911-MAD,Male,53,No,Madhya Pradesh,9,34,Deal 4,Yes,No,Yes,Cable,No,No,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Mailed Check,56.3,628.65,0.0,0,207.24,835.89,Stayed,Others,Others
 53572-ASS,Female,57,No,Assam,9,22,Deal 2,Yes,Yes,Yes,DSL,Yes,No,No,Yes,No,No,No,No,One Year,Yes,Bank Withdrawal,61.05,3478.75,0.0,0,1528.88,5007.63,Stayed,Others,Others
 95872-TAM,Female,26,Yes,Tamil Nadu,7,34,Not Available,Yes,No,Yes,Cable,Yes,No,No,Yes,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,55.7,3171.6,34.59,0,882.36,4019.37,Stayed,Others,Others
@@ -5454,7 +5362,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 53350-TEL,Male,37,Yes,Telangana,6,22,Not Available,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,74.5,217.45,0.0,0,20.91,238.36,Joined,Others,Others
 43410-MAD,Male,56,Yes,Madhya Pradesh,1,6,Not Available,Yes,Yes,Yes,Fiber Optic,No,No,No,Yes,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,80.65,4807.35,0.0,0,2590.86,7398.21,Stayed,Others,Others
 84133-KER,Female,38,No,Kerala,10,11,Not Available,Yes,No,Yes,Fiber Optic,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Month-to-Month,Yes,Bank Withdrawal,106.6,1934.45,21.72,40,538.65,2491.38,Churned,Dissatisfaction,Network reliability
-19665-JAM,Male,38,No,Jammu & Kashmir,1,3,Deal 5,Yes,No,Yes,DSL,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,-9.0,45.8,0.0,10,22.11,77.91,Churned,Competitor,Competitor made better offer
 37118-JAM,Male,65,Yes,Jammu & Kashmir,13,15,Not Available,Yes,No,Yes,Fiber Optic,No,No,Yes,No,Yes,Yes,Yes,Yes,Two Year,Yes,Bank Withdrawal,96.55,2263.45,0.0,0,498.72,2762.17,Stayed,Others,Others
 96284-ODI,Female,29,No,Odisha,10,2,Not Available,Yes,Yes,Yes,Fiber Optic,No,No,No,No,Yes,No,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,85.2,1553.9,0.0,0,439.2,1993.1,Churned,Other,Don't know
 35675-KAR,Male,57,Yes,Karnataka,5,20,Not Available,Yes,No,Yes,Cable,Yes,No,No,Yes,Yes,Yes,Yes,Yes,One Year,Yes,Bank Withdrawal,76.4,3966.3,0.0,0,1614.66,5580.96,Stayed,Others,Others
@@ -5462,7 +5369,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 93568-TAM,Female,29,Yes,Tamil Nadu,4,12,Deal 2,Yes,Yes,Yes,DSL,Yes,Yes,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,59.8,3641.5,0.0,100,1628.7,5370.2,Stayed,Others,Others
 24721-MAH,Female,61,No,Maharashtra,2,1,Deal 5,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,20.2,20.2,0.0,0,48.25,68.45,Churned,Price,Long distance charges
 92576-UTT,Female,25,No,Uttar Pradesh,13,11,Not Available,Yes,No,Yes,Cable,No,Yes,No,Yes,No,No,No,Yes,One Year,Yes,Credit Card,53.75,1857.3,0.0,0,509.85,2367.15,Stayed,Others,Others
-84889-GUJ,Female,23,No,Gujarat,12,10,Not Available,Yes,No,Yes,DSL,No,No,No,No,No,No,Yes,Yes,Month-to-Month,Yes,Credit Card,-7.0,84.5,0.0,0,99.62,184.12,Churned,Other,Don't know
 84012-MAD,Female,28,Yes,Madhya Pradesh,13,27,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,20.15,156.25,0.0,0,90.8,247.05,Churned,Price,Price too high
 78693-KER,Female,35,No,Kerala,9,14,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Two Year,No,Credit Card,19.65,494.9,0.0,0,330.46,825.36,Stayed,Others,Others
 68773-MAD,Female,36,Yes,Madhya Pradesh,1,19,Not Available,Yes,No,Yes,Fiber Optic,Yes,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,75.0,1778.5,0.0,0,552.92,2331.42,Stayed,Others,Others
@@ -5563,7 +5469,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 26873-TAM,Female,22,Yes,Tamil Nadu,12,3,Not Available,Yes,No,Yes,Fiber Optic,Yes,No,No,No,No,No,Yes,Yes,Month-to-Month,No,Bank Withdrawal,75.0,632.95,0.0,0,42.72,675.67,Churned,Dissatisfaction,Network reliability
 92753-JHA,Female,67,No,Jharkhand,13,16,Deal 5,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,Yes,Yes,No,Month-to-Month,Yes,Bank Withdrawal,85.65,659.45,0.0,70,316.72,1046.17,Stayed,Others,Others
 79769-HAR,Male,78,Yes,Haryana,1,35,Deal 2,Yes,No,Yes,DSL,No,No,Yes,Yes,No,Yes,No,Yes,One Year,No,Bank Withdrawal,65.25,3529.95,33.07,0,277.56,3774.44,Stayed,Others,Others
-92206-TEL,Male,55,No,Telangana,10,34,Deal 2,Yes,Yes,Yes,DSL,Yes,No,No,No,No,No,No,Yes,One Year,No,Credit Card,-7.0,2386.85,28.83,0,867.3,3225.32,Stayed,Others,Others
 12678-UTT,Female,45,No,Uttar Pradesh,11,2,Not Available,Yes,Yes,No,Not Available,No,No,No,No,No,No,No,No,Two Year,Yes,Bank Withdrawal,25.0,332.5,0.0,0,457.47,789.97,Stayed,Others,Others
 63548-GUJ,Female,55,Yes,Gujarat,15,16,Deal 1,Yes,Yes,No,Not Available,No,No,No,No,No,No,No,No,Two Year,Yes,Credit Card,25.15,1683.6,0.0,0,1370.82,3054.42,Stayed,Others,Others
 77604-WES,Male,57,No,West Bengal,0,9,Deal 2,Yes,Yes,Yes,Fiber Optic,No,No,No,Yes,No,No,No,Yes,One Year,Yes,Credit Card,81.2,4965.1,0.0,0,2447.55,7412.65,Stayed,Others,Others
@@ -5601,7 +5506,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 98753-TAM,Female,39,Yes,Tamil Nadu,13,7,Deal 1,Yes,Yes,No,Not Available,No,No,No,No,No,No,No,No,One Year,No,Bank Withdrawal,25.45,1699.15,0.0,0,2126.52,3825.67,Stayed,Others,Others
 38817-AND,Female,44,No,Andhra Pradesh,3,4,Deal 2,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Two Year,No,Mailed Check,19.55,1245.6,0.0,0,672.21,1917.81,Stayed,Others,Others
 98879-JAM,Female,45,No,Jammu & Kashmir,4,17,Deal 4,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,21.15,306.05,0.0,0,406.8,712.85,Stayed,Others,Others
-93935-RAJ,Female,52,No,Rajasthan,3,8,Deal 2,No,No,Yes,Cable,Yes,Yes,No,Yes,No,No,No,Yes,Two Year,Yes,Credit Card,-10.0,2345.55,0.0,0,0.0,2345.55,Stayed,Others,Others
 68556-MAH,Male,68,No,Maharashtra,4,23,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.2,20.2,0.0,0,13.08,33.28,Joined,Others,Others
 33119-KAR,Male,51,Yes,Karnataka,14,36,Deal 4,Yes,No,Yes,DSL,No,No,Yes,No,Yes,No,No,Yes,Month-to-Month,No,Credit Card,60.2,563.5,0.0,0,197.7,761.2,Stayed,Others,Others
 74254-BIH,Female,68,Yes,Bihar,2,23,Deal 2,Yes,Yes,Yes,Cable,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Two Year,No,Credit Card,81.35,4060.9,0.0,0,2116.31,6177.21,Stayed,Others,Others
@@ -5609,7 +5513,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 81988-PUN,Female,26,No,Punjab,5,35,Deal 2,Yes,No,Yes,DSL,Yes,No,Yes,No,No,No,No,Yes,One Year,No,Credit Card,54.75,3425.35,8.5,0,2041.04,5457.89,Stayed,Others,Others
 92887-CHH,Female,69,Yes,Chhattisgarh,1,11,Deal 5,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,70.55,70.55,0.0,0,18.2,88.75,Churned,Attitude,Attitude of service provider
 23113-JAM,Female,65,No,Jammu & Kashmir,11,10,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,19.5,146.3,0.0,0,190.2,336.5,Churned,Competitor,Competitor made better offer
-16124-MAH,Male,68,Yes,Maharashtra,7,23,Not Available,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,No,Yes,No,Yes,Two Year,Yes,Bank Withdrawal,-8.0,4931.8,0.0,0,1003.32,5935.12,Stayed,Others,Others
 27634-JAM,Female,59,No,Jammu & Kashmir,6,20,Not Available,Yes,No,Yes,Fiber Optic,No,No,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,79.65,79.65,0.0,0,22.48,102.13,Churned,Competitor,Competitor made better offer
 52456-JAM,Female,77,Yes,Jammu & Kashmir,1,23,Deal 5,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,84.45,762.5,0.0,0,116.19,878.69,Churned,Competitor,Competitor made better offer
 92223-TEL,Female,77,Yes,Telangana,10,26,Deal 3,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,Yes,Yes,No,Yes,Two Year,Yes,Bank Withdrawal,105.35,3465.05,0.0,0,420.75,3885.8,Stayed,Others,Others
@@ -5621,7 +5524,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 61770-AND,Male,79,No,Andhra Pradesh,0,25,Deal 2,Yes,No,Yes,Fiber Optic,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Two Year,Yes,Bank Withdrawal,99.1,6496.15,0.0,0,1184.95,7681.1,Stayed,Others,Others
 32028-WES,Male,64,No,West Bengal,13,20,Deal 1,Yes,Yes,Yes,Fiber Optic,Yes,Yes,No,Yes,Yes,No,No,Yes,One Year,Yes,Credit Card,99.65,7181.25,0.0,0,277.61,7458.86,Stayed,Others,Others
 41652-JAM,Female,43,No,Jammu & Kashmir,13,28,Not Available,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,74.75,799.65,0.0,0,56.3,855.95,Churned,Other,Don't know
-72036-PUN,Male,25,No,Punjab,11,33,Deal 4,No,No,Yes,Cable,No,No,No,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,-3.0,446.1,0.0,0,0.0,446.1,Churned,Attitude,Attitude of service provider
 16271-MAH,Female,55,Yes,Maharashtra,7,16,Deal 3,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Two Year,Yes,Credit Card,21.1,490.65,0.0,0,494.4,985.05,Stayed,Others,Others
 89786-TEL,Female,50,Yes,Telangana,13,4,Not Available,No,No,Yes,Cable,Yes,No,No,Yes,No,No,No,Yes,Two Year,No,Credit Card,35.7,2545.7,0.0,0,0.0,2545.7,Stayed,Others,Others
 75802-ODI,Male,64,Yes,Odisha,8,17,Deal 4,No,No,Yes,Cable,No,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Mailed Check,31.1,419.7,0.0,0,0.0,419.7,Stayed,Others,Others
@@ -5700,7 +5602,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 82754-MAH,Male,42,Yes,Maharashtra,2,1,Not Available,No,No,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,No,Credit Card,60.3,4109.0,0.0,0,0.0,4109.0,Stayed,Others,Others
 97952-ODI,Female,61,Yes,Odisha,9,19,Deal 3,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,89.95,2625.55,0.0,0,847.84,3473.39,Churned,Attitude,Attitude of service provider
 71205-AND,Female,48,No,Andhra Pradesh,7,32,Not Available,Yes,No,Yes,DSL,No,No,No,Yes,No,No,No,No,Month-to-Month,No,Bank Withdrawal,50.25,593.75,0.0,120,558.96,1272.71,Churned,Price,Extra data charges
-72285-JAM,Female,45,No,Jammu & Kashmir,9,20,Not Available,Yes,No,Yes,Fiber Optic,No,No,No,No,No,Yes,Yes,Yes,Month-to-Month,No,Bank Withdrawal,-1.0,159.45,0.0,0,10.22,169.67,Churned,Competitor,Competitor made better offer
 37737-PUN,Male,52,No,Punjab,11,24,Not Available,Yes,No,Yes,DSL,Yes,No,Yes,Yes,No,Yes,Yes,Yes,One Year,No,Credit Card,71.4,4487.3,0.0,0,871.1,5358.4,Stayed,Others,Others
 13703-TEL,Male,36,Yes,Telangana,5,20,Not Available,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,75.5,438.0,0.0,0,127.38,565.38,Churned,Dissatisfaction,Product dissatisfaction
 14600-ASS,Female,51,Yes,Assam,2,30,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,One Year,No,Bank Withdrawal,20.5,79.05,0.0,0,178.92,257.97,Stayed,Others,Others
@@ -5886,7 +5787,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 36842-DEL,Male,27,Yes,Delhi,8,36,Not Available,Yes,Yes,Yes,Fiber Optic,No,No,Yes,Yes,Yes,No,No,No,Two Year,Yes,Bank Withdrawal,94.9,3616.25,0.0,0,981.92,4598.17,Stayed,Others,Others
 87915-UTT,Male,33,Yes,Uttar Pradesh,10,32,Not Available,Yes,Yes,Yes,Fiber Optic,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Two Year,No,Bank Withdrawal,104.6,6885.75,0.0,0,757.77,7643.52,Stayed,Others,Others
 93979-GUJ,Female,60,No,Gujarat,6,5,Not Available,Yes,No,Yes,DSL,Yes,No,No,Yes,No,No,No,Yes,Month-to-Month,No,Mailed Check,55.1,1253.15,0.0,0,816.42,2069.57,Stayed,Others,Others
-39398-TAM,Male,37,Yes,Tamil Nadu,5,28,Deal 2,Yes,Yes,Yes,Fiber Optic,Yes,No,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,-3.0,5497.05,0.0,0,694.83,6191.88,Stayed,Others,Others
 19256-JAM,Female,63,Yes,Jammu & Kashmir,2,21,Deal 1,Yes,No,Yes,Cable,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Two Year,Yes,Bank Withdrawal,74.35,5237.4,0.0,50,1239.12,6526.52,Stayed,Others,Others
 47330-MAH,Female,42,No,Maharashtra,9,11,Not Available,Yes,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,No,No,Yes,One Year,No,Bank Withdrawal,79.4,5528.9,0.0,0,3042.2,8571.1,Stayed,Others,Others
 21041-DEL,Male,75,Yes,Delhi,15,15,Not Available,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,73.65,73.65,0.0,0,39.88,113.53,Churned,Attitude,Attitude of service provider
@@ -5905,7 +5805,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 92815-BIH,Female,65,Yes,Bihar,6,14,Deal 4,Yes,Yes,Yes,Fiber Optic,Yes,No,No,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,100.8,1308.1,0.0,0,93.86,1401.96,Churned,Attitude,Attitude of support person
 69134-WES,Female,42,No,West Bengal,0,30,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,One Year,Yes,Credit Card,19.75,806.95,0.0,0,1535.86,2342.81,Stayed,Others,Others
 38825-KAR,Female,63,No,Karnataka,8,29,Not Available,Yes,Yes,Yes,Cable,No,Yes,Yes,No,No,No,No,Yes,Two Year,Yes,Bank Withdrawal,59.8,3246.45,0.0,0,1243.08,4489.53,Stayed,Others,Others
-63480-TEL,Female,22,No,Telangana,14,6,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,One Year,No,Credit Card,-6.0,707.5,0.0,0,1176.96,1884.46,Stayed,Others,Others
 61369-WES,Male,53,No,West Bengal,3,35,Not Available,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,No,Credit Card,115.8,8332.15,0.0,0,1986.48,10318.63,Stayed,Others,Others
 14407-MAH,Female,31,No,Maharashtra,14,26,Deal 2,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Two Year,No,Credit Card,19.5,1147.85,0.0,0,1106.25,2254.1,Stayed,Others,Others
 48917-TEL,Male,57,Yes,Telangana,9,27,Deal 3,Yes,Yes,No,Not Available,No,No,No,No,No,No,No,No,Two Year,No,Credit Card,24.75,692.1,0.0,0,493.75,1185.85,Churned,Competitor,Competitor made better offer
@@ -5962,7 +5861,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 22781-KAR,Male,56,No,Karnataka,13,6,Deal 4,Yes,Yes,No,Not Available,No,No,No,No,No,No,No,No,Two Year,Yes,Bank Withdrawal,25.4,313.0,0.0,0,529.44,842.44,Stayed,Others,Others
 41013-TEL,Female,35,Yes,Telangana,4,19,Not Available,Yes,Yes,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,49.1,679.55,0.0,0,145.65,825.2,Churned,Competitor,Competitor had better devices
 51214-MAH,Male,28,No,Maharashtra,12,22,Not Available,Yes,No,Yes,Fiber Optic,No,No,Yes,No,No,No,No,No,Month-to-Month,Yes,Credit Card,73.6,232.5,0.0,10,82.02,324.52,Joined,Others,Others
-72181-ODI,Female,69,No,Odisha,8,7,Not Available,Yes,No,Yes,DSL,Yes,Yes,Yes,Yes,No,No,No,Yes,Two Year,No,Credit Card,-10.0,4492.9,0.0,0,334.41,4827.31,Stayed,Others,Others
 82718-TAM,Male,32,Yes,Tamil Nadu,12,7,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,20.7,20.7,0.0,0,45.86,66.56,Joined,Others,Others
 62886-RAJ,Female,78,No,Rajasthan,4,10,Not Available,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,No,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,94.25,3217.55,0.0,0,97.92,3315.47,Churned,Competitor,Competitor had better devices
 49927-PUN,Male,52,Yes,Punjab,5,12,Not Available,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,90.75,512.25,0.0,0,140.1,652.35,Stayed,Others,Others
@@ -6111,10 +6009,8 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 35002-KAR,Female,51,No,Karnataka,1,30,Not Available,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Two Year,Yes,Bank Withdrawal,103.4,7372.65,0.0,0,221.04,7593.69,Churned,Price,Lack of affordable download/upload speed
 69085-KAR,Female,65,Yes,Karnataka,4,16,Deal 1,Yes,Yes,Yes,Fiber Optic,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Two Year,Yes,Bank Withdrawal,100.55,7325.1,0.0,0,3156.48,10481.58,Stayed,Others,Others
 28117-UTT,Female,56,Yes,Uttar Pradesh,9,23,Deal 3,Yes,No,Yes,Fiber Optic,No,No,Yes,No,No,Yes,Yes,Yes,One Year,No,Bank Withdrawal,86.45,2538.05,0.0,0,1452.9,3990.95,Stayed,Others,Others
-27188-KAR,Male,62,No,Karnataka,3,26,Deal 3,Yes,Yes,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,-8.0,546.85,0.0,0,489.0,1035.85,Stayed,Others,Others
 28195-UTT,Male,38,No,Uttar Pradesh,13,24,Not Available,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,75.1,75.1,0.0,0,5.94,81.04,Churned,Dissatisfaction,Lack of self-service on Website
 63295-KER,Male,70,Yes,Kerala,12,6,Deal 2,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Two Year,Yes,Bank Withdrawal,104.45,4863.85,36.78,0,1893.82,6720.89,Stayed,Others,Others
-11965-BIH,Female,38,Yes,Bihar,4,21,Deal 3,Yes,Yes,Yes,Fiber Optic,Yes,No,No,No,Yes,Yes,Yes,No,Month-to-Month,Yes,Credit Card,-8.0,3204.65,35.82,110,1074.24,4353.07,Churned,Competitor,Competitor made better offer
 16774-MAH,Male,38,No,Maharashtra,7,8,Not Available,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,80.45,2429.1,0.0,0,1149.17,3578.27,Stayed,Others,Others
 29553-GUJ,Female,39,No,Gujarat,10,30,Deal 1,No,No,Yes,Cable,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Two Year,Yes,Bank Withdrawal,54.1,3794.5,0.0,0,0.0,3794.5,Stayed,Others,Others
 68655-TEL,Male,55,No,Telangana,4,3,Not Available,Yes,Yes,Yes,Fiber Optic,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Two Year,Yes,Credit Card,109.1,6393.65,0.0,0,2154.7,8548.35,Stayed,Others,Others
@@ -6185,7 +6081,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 28132-HAR,Female,28,No,Haryana,5,27,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Two Year,No,Credit Card,19.65,1161.75,0.0,0,1318.8,2480.55,Stayed,Others,Others
 21712-MAD,Male,76,No,Madhya Pradesh,3,34,Not Available,No,No,Yes,Cable,No,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,30.35,1359.7,0.0,0,0.0,1359.7,Churned,Competitor,Competitor had better devices
 73850-HAR,Male,65,No,Haryana,14,15,Not Available,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,One Year,Yes,Bank Withdrawal,110.75,7053.35,0.0,0,2963.6,10016.95,Stayed,Others,Others
-74656-ASS,Female,74,No,Assam,11,24,Not Available,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,No,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,-1.0,2187.55,23.33,0,909.0,3073.22,Churned,Dissatisfaction,Poor expertise of online support
 45226-UTT,Male,68,No,Uttar Pradesh,12,12,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Two Year,No,Mailed Check,19.35,867.3,0.0,0,1441.86,2309.16,Stayed,Others,Others
 21645-RAJ,Female,29,Yes,Rajasthan,13,31,Not Available,Yes,No,Yes,DSL,No,No,No,No,Yes,No,No,Yes,Month-to-Month,No,Credit Card,55.95,1082.8,0.0,0,332.46,1415.26,Stayed,Others,Others
 74542-BIH,Female,42,No,Bihar,4,7,Not Available,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,83.3,803.3,0.0,0,267.3,1070.6,Churned,Attitude,Attitude of support person
@@ -6323,7 +6218,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 21065-HAR,Male,27,No,Haryana,5,10,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.3,20.3,0.0,0,10.84,31.14,Joined,Others,Others
 35146-HAR,Female,21,No,Haryana,0,3,Not Available,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Credit Card,85.45,85.45,0.0,0,31.03,116.48,Churned,Price,Price too high
 88796-MAD,Female,56,No,Madhya Pradesh,1,13,Not Available,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,Yes,Bank Withdrawal,114.0,8093.15,0.0,0,2337.84,10430.99,Stayed,Others,Others
-99814-ODI,Female,37,Yes,Odisha,3,25,Not Available,Yes,No,Yes,DSL,Yes,Yes,No,Yes,No,No,No,Yes,One Year,Yes,Bank Withdrawal,-9.0,2603.95,0.0,0,774.84,3378.79,Stayed,Others,Others
 13539-ODI,Female,38,Yes,Odisha,5,24,Not Available,Yes,No,Yes,Fiber Optic,No,No,Yes,No,Yes,Yes,Yes,Yes,Two Year,No,Bank Withdrawal,95.8,5655.45,0.0,0,1795.96,7451.41,Stayed,Others,Others
 43566-BIH,Female,66,Yes,Bihar,2,12,Not Available,Yes,Yes,Yes,Fiber Optic,No,Yes,No,Yes,Yes,Yes,Yes,No,Month-to-Month,Yes,Credit Card,103.6,1806.35,0.0,10,22.86,1839.21,Stayed,Others,Others
 24441-UTT,Female,45,No,Uttar Pradesh,8,34,Not Available,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Credit Card,98.7,2249.1,0.0,0,332.35,2581.45,Stayed,Others,Others
@@ -6400,7 +6294,6 @@ Customer_ID,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_
 37799-TAM,Female,37,No,Tamil Nadu,7,31,Deal 4,Yes,No,Yes,Fiber Optic,No,No,Yes,Yes,Yes,Yes,Yes,Yes,One Year,No,Bank Withdrawal,98.6,1704.95,0.0,0,91.8,1796.75,Churned,Competitor,Competitor had better devices
 45697-KER,Female,36,No,Kerala,5,22,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,20.3,246.3,0.0,0,538.12,784.42,Stayed,Others,Others
 62989-TAM,Female,25,No,Tamil Nadu,10,21,Deal 1,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,No,Credit Card,113.65,8166.8,0.0,0,306.72,8473.52,Stayed,Others,Others
-47624-TAM,Female,62,Yes,Tamil Nadu,7,29,Not Available,Yes,No,Yes,DSL,No,No,No,No,No,Yes,Yes,Yes,Month-to-Month,No,Mailed Check,-5.0,189.1,0.0,0,100.59,289.69,Joined,Others,Others
 39642-RAJ,Female,54,No,Rajasthan,4,34,Deal 5,Yes,No,Yes,DSL,No,No,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Credit Card,54.7,169.45,0.0,0,8.64,178.09,Churned,Competitor,Competitor had better devices
 46848-WES,Female,22,Yes,West Bengal,14,10,Not Available,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,70.15,735.5,0.0,0,42.9,778.4,Stayed,Others,Others
 82479-TEL,Female,72,Yes,Telangana,8,26,Not Available,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,74.95,308.7,0.0,0,112.44,421.14,Churned,Competitor,Competitor offered more data
