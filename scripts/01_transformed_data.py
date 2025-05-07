@@ -56,4 +56,4 @@ df.isna().sum()
 df = df[df['Monthly_Charge'] >= 0]
 
 # %% Export the DataFrame to a CSV file
-df.to_csv("../data/output/prod_customer_data.csv", index=False)
+df.to_csv("../data/processed/prod_customer_data.csv", index=False)

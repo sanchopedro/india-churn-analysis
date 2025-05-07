@@ -2,7 +2,7 @@
 import pandas as pd
 
 # Load the CSV file
-csv_file_path = "../data/output/prod_customer_data.csv"
+csv_file_path = "../data/processed/prod_customer_data.csv"
 df = pd.read_csv(csv_file_path)
 
 # Display the first few rows of the DataFrame

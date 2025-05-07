@@ -2,7 +2,7 @@
 import pandas as pd
 
 # Load the CSV file
-df = pd.read_csv("../data/output/prod_customer_data.csv")
+df = pd.read_csv("../data/processed/prod_customer_data.csv")
 df.head()
 
 # %% Display the DataFrame shape

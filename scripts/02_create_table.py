@@ -130,7 +130,7 @@ class Customer(Base):
 Base.metadata.create_all(db)
 
 # Load the CSV file
-csv_file_path = "../data/output/prod_customer_data.csv"
+csv_file_path = "../data/processed/prod_customer_data.csv"
 data = pd.read_csv(csv_file_path)
 
 # Check if the table already exists and if it has data
