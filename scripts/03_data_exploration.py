@@ -44,11 +44,11 @@ print("Customer Status Stats:\n", status_stats, "\n" + "=" * 50 + "\n")
 print("State Stats:\n", state_stats, "\n" + "=" * 50 + "\n")
 
 # %% Filter the DataFrame to include only churned and stayed customers
-
 df_churn = df[
     (df["Customer_Status"] == "Churned") | (df["Customer_Status"] == "Stayed")
 ].reset_index(drop=True)
 df_churn
+
 # %% Filter the DataFrame to include only new customers
 df_new_customers = df[df["Customer_Status"] == "Joined"].reset_index(drop=True)
 df_new_customers
