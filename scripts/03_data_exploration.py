@@ -47,11 +47,11 @@ print("State Stats:\n", state_stats, "\n" + "=" * 50 + "\n")
 df_churn = df[
     (df["Customer_Status"] == "Churned") | (df["Customer_Status"] == "Stayed")
 ].reset_index(drop=True)
-df_churn
+df_churn.head()
 
 # %% Filter the DataFrame to include only new customers
 df_new_customers = df[df["Customer_Status"] == "Joined"].reset_index(drop=True)
-df_new_customers
+df_new_customers.head()
 
 # %% Export the DataFrames to CSV files
 df_churn.to_csv("../data/output/prod_customer_data_churn.csv", index=False)
