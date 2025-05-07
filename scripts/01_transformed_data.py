@@ -42,7 +42,7 @@ fill_values = {
     "Streaming_Movies": "No",
     "Streaming_Music": "No",
     "Unlimited_Data": "No",
-    "Churn_Category": "Others",
+    "Churn_Category": "Other",
     "Churn_Reason": "Others"
 }
 
