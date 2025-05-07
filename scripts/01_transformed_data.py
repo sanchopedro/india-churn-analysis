@@ -51,5 +51,9 @@ df.fillna(fill_values, inplace=True)
 
 # %% Check for missing values in the DataFrame
 df.isna().sum()
+
+# %% Remove negative values from the Monthly_Charge column
+df = df[df['Monthly_Charge'] >= 0]
+
 # %% Export the DataFrame to a CSV file
 df.to_csv("../data/output/prod_customer_data.csv", index=False)
