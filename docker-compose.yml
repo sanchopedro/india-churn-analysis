@@ -1,17 +1,31 @@
-version: '3.8'
-
 services:
   sqlserver:
     image: mcr.microsoft.com/mssql/server:2022-latest
     container_name: sqlserver_container
     environment:
-      SA_PASSWORD: ${SA_PASSWORD}
-      ACCEPT_EULA: ${ACCEPT_EULA}
-      MSSQL_PID: ${MSSQL_PID}
+      - SA_PASSWORD=${SA_PASSWORD}
+      - ACCEPT_EULA=${ACCEPT_EULA}
+      - MSSQL_PID=${MSSQL_PID}
+      - TZ=America/Sao_Paulo
+      - MSSQL_AGENT_ENABLED=true
     ports:
       - "1433:1433"
     volumes:
       - sqlserver_data:/var/opt/mssql
+      - ./sql:/scripts
+    networks:
+      - churn_network
+    restart: unless-stopped
+    healthcheck:
+      test: /opt/mssql-tools/bin/sqlcmd -S localhost -U sa -P ${SA_PASSWORD} -Q "SELECT 1" || exit 1
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+networks:
+  churn_network:
+    driver: bridge
 
 volumes:
   sqlserver_data:
+    driver: local
