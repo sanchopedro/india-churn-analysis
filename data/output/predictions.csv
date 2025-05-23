@@ -1,0 +1,406 @@
+Customer_ID,Churn_Prediction,Churn_Probability,Churn_Status,Gender,Age,Married,State,Number_of_Referrals,Tenure_in_Months,Value_Deal,Phone_Service,Multiple_Lines,Internet_Service,Internet_Type,Online_Security,Online_Backup,Device_Protection_Plan,Premium_Support,Streaming_TV,Streaming_Movies,Streaming_Music,Unlimited_Data,Contract,Paperless_Billing,Payment_Method,Monthly_Charge,Total_Charges,Total_Refunds,Total_Extra_Data_Charges,Total_Long_Distance_Charges,Total_Revenue
+93520-GUJ,1,0.6219347483663267,Likely to Churn,Female,67,No,Gujarat,13,19,Deal 5,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,One Year,Yes,Bank Withdrawal,72.1,72.1,0.0,0,7.77,79.87
+57256-BIH,0,0.13225886204590312,Likely to Stay,Female,18,No,Bihar,9,7,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.85,57.2,0.0,0,9.36,66.56
+72357-MAD,1,0.6005641808165341,Likely to Churn,Female,53,No,Madhya Pradesh,14,12,Deal 5,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,44.3,44.3,0.0,0,42.95,87.25
+66612-KAR,0,0.17553783199314613,Likely to Stay,Female,58,Yes,Karnataka,11,18,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.95,58.0,0.0,0,8.07,66.07
+22119-WES,0,0.15478591045179294,Likely to Stay,Male,31,Yes,West Bengal,5,5,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.05,33.7,0.0,0,3.62,37.32
+79168-UTT,0,0.48143480173978953,Likely to Stay,Female,78,No,Uttar Pradesh,2,10,Deal 5,Yes,No,Yes,Cable,No,No,No,No,No,No,No,Yes,One Year,Yes,Bank Withdrawal,44.3,89.3,0.0,0,47.82,137.12
+66712-GUJ,1,0.8333533645238758,Likely to Churn,Female,47,Yes,Gujarat,6,33,Deal 5,Yes,No,Yes,Fiber Optic,No,Yes,No,No,No,Yes,Yes,Yes,Month-to-Month,No,Bank Withdrawal,84.3,235.05,0.0,0,41.16,276.21
+53815-BIH,0,0.16870525344844173,Likely to Stay,Female,36,No,Bihar,2,4,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.7,19.7,0.0,0,34.28,53.98
+34110-MAH,0,0.45952405947121905,Likely to Stay,Female,20,Yes,Maharashtra,6,3,Not Available,Yes,Yes,Yes,Cable,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,50.1,50.1,0.0,0,29.13,79.23
+12056-WES,1,0.7125931248895506,Likely to Churn,Male,27,No,West Bengal,2,20,Not Available,Yes,No,Yes,Fiber Optic,No,Yes,Yes,No,No,Yes,Yes,Yes,Month-to-Month,No,Bank Withdrawal,90.4,268.45,0.0,0,94.44,362.89
+82129-JHA,1,0.6917526321891256,Likely to Churn,Female,26,No,Jharkhand,9,8,Deal 5,Yes,No,Yes,DSL,No,Yes,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Credit Card,58.7,168.6,0.0,0,34.41,203.01
+27880-AND,0,0.021288705598203398,Likely to Stay,Male,48,No,Andhra Pradesh,14,21,Not Available,Yes,Yes,No,Not Available,No,No,No,No,No,No,No,No,Two Year,Yes,Credit Card,26.4,121.25,0.0,0,101.61,222.86
+39764-UTT,0,0.15244068233475397,Likely to Stay,Female,39,Yes,Uttar Pradesh,5,14,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.35,46.35,0.0,0,88.68,135.03
+29626-WES,1,0.6847378540578677,Likely to Churn,Male,67,No,West Bengal,10,22,Deal 5,Yes,No,Yes,DSL,Yes,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,50.15,50.15,0.0,50,38.33,138.48
+47133-ODI,0,0.496149807401776,Likely to Stay,Female,60,Yes,Odisha,15,8,Not Available,Yes,No,Yes,Cable,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,44.6,122.7,0.0,0,46.77,169.47
+62842-HAR,0,0.14877603085337912,Likely to Stay,Male,33,Yes,Haryana,11,25,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.3,44.4,0.0,0,99.82,144.22
+21288-MAH,1,0.7315686438592658,Likely to Churn,Female,63,No,Maharashtra,12,34,Not Available,Yes,Yes,Yes,DSL,No,No,No,No,Yes,No,No,No,Month-to-Month,Yes,Bank Withdrawal,60.25,170.5,0.0,70,60.3,300.8
+83994-DEL,1,0.7236707529859804,Likely to Churn,Male,48,Yes,Delhi,8,24,Not Available,Yes,No,Yes,Fiber Optic,No,No,No,No,Yes,Yes,Yes,Yes,Month-to-Month,No,Credit Card,90.7,237.65,0.0,0,16.17,253.82
+24754-AND,1,0.6686336062131618,Likely to Churn,Female,63,Yes,Andhra Pradesh,0,28,Not Available,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,69.55,200.2,33.8,0,5.01,171.41
+62497-BIH,0,0.3196986082195854,Likely to Stay,Female,20,No,Bihar,0,2,Deal 5,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,20.75,67.1,0.0,0,49.17,116.27
+24990-WES,1,0.7525466088720364,Likely to Churn,Female,36,No,West Bengal,8,24,Not Available,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,71.65,135.75,0.0,0,58.06,193.81
+26500-GUJ,1,0.857365799096204,Likely to Churn,Female,62,Yes,Gujarat,3,19,Deal 5,Yes,No,Yes,Cable,Yes,No,No,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Mailed Check,62.15,113.1,0.0,0,96.78,209.88
+17796-BIH,1,0.5044903125696351,Likely to Churn,Female,65,No,Bihar,5,1,Not Available,Yes,No,Yes,Cable,Yes,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,48.45,48.45,0.0,0,16.42,64.87
+21956-JHA,1,0.6706214864426253,Likely to Churn,Female,59,Yes,Jharkhand,10,8,Not Available,Yes,No,Yes,Fiber Optic,Yes,No,No,Yes,No,No,No,No,Month-to-Month,Yes,Credit Card,82.3,214.4,0.0,20,134.91,369.31
+92198-DEL,0,0.3806064887112252,Likely to Stay,Female,44,Yes,Delhi,8,15,Deal 5,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,20.25,20.25,0.0,0,28.18,48.43
+79905-UTT,0,0.14313488205952155,Likely to Stay,Female,24,No,Uttar Pradesh,0,12,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.45,20.45,0.0,0,30.09,50.54
+71509-HAR,1,0.5940103787021749,Likely to Churn,Female,40,No,Haryana,3,27,Not Available,Yes,No,Yes,DSL,No,No,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,54.65,54.65,0.0,0,36.33,90.98
+62535-AND,1,0.6223490167759319,Likely to Churn,Male,42,No,Andhra Pradesh,8,22,Deal 5,Yes,No,Yes,Cable,No,No,No,Yes,Yes,Yes,Yes,Yes,Month-to-Month,No,Credit Card,70.7,225.65,0.0,0,75.12,300.77
+45978-GUJ,0,0.13621166743399984,Likely to Stay,Female,38,Yes,Gujarat,2,19,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.75,44.2,0.0,0,55.34,99.54
+91835-GUJ,0,0.43453231815459803,Likely to Stay,Male,21,Yes,Gujarat,12,5,Not Available,Yes,No,Yes,Cable,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,75.5,75.5,0.0,0,5.63,81.13
+98788-TAM,1,0.6690617650172442,Likely to Churn,Male,58,Yes,Tamil Nadu,4,16,Deal 5,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Mailed Check,20.05,39.25,0.0,0,13.7,52.95
+48018-RAJ,0,0.16422321123472647,Likely to Stay,Male,39,No,Rajasthan,1,14,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.55,19.55,0.0,0,30.63,50.18
+31601-DEL,0,0.14146565423202398,Likely to Stay,Female,31,Yes,Delhi,2,10,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.65,19.65,0.0,0,42.42,62.07
+74651-WES,0,0.3073760574382566,Likely to Stay,Female,30,Yes,West Bengal,7,23,Not Available,No,No,Yes,DSL,No,Yes,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,29.2,98.5,0.0,0,0.0,98.5
+42358-BIH,1,0.6065401321090116,Likely to Churn,Female,53,No,Bihar,9,35,Not Available,Yes,No,Yes,DSL,No,No,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,54.2,140.4,0.0,0,124.14,264.54
+71564-KAR,0,0.1544508814604366,Likely to Stay,Female,48,No,Karnataka,6,5,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.05,19.05,0.0,0,5.02,24.07
+22137-KAR,0,0.04567221890019099,Likely to Stay,Female,51,No,Karnataka,4,28,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,One Year,No,Credit Card,19.85,19.85,0.0,0,47.46,67.31
+44709-WES,1,0.6615316830326904,Likely to Churn,Female,72,Yes,West Bengal,7,17,Not Available,No,No,Yes,DSL,No,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,30.75,82.85,0.0,0,0.0,82.85
+27856-UTT,0,0.4310554063385363,Likely to Stay,Female,33,Yes,Uttar Pradesh,1,32,Deal 5,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,19.25,19.25,0.0,0,9.44,28.69
+26567-UTT,0,0.0178716203260654,Likely to Stay,Female,67,Yes,Uttar Pradesh,1,35,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Two Year,No,Credit Card,20.35,20.35,0.0,0,30.09,50.44
+27465-JAM,0,0.4109938181748913,Likely to Stay,Female,50,No,Jammu & Kashmir,10,30,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.85,19.85,0.0,0,16.47,36.32
+54195-MAH,0,0.29538935994312554,Likely to Stay,Female,61,Yes,Maharashtra,11,23,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,19.75,19.75,0.0,0,37.62,57.37
+94978-PUN,0,0.05310499975777713,Likely to Stay,Female,36,No,Punjab,2,8,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,One Year,Yes,Credit Card,19.45,69.25,0.0,0,8.34,77.59
+38748-AND,0,0.18062379951749888,Likely to Stay,Female,22,Yes,Andhra Pradesh,13,6,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,19.65,19.65,0.0,0,27.88,47.53
+78918-BIH,1,0.8479072060222719,Likely to Churn,Female,59,No,Bihar,12,11,Deal 5,Yes,No,Yes,Fiber Optic,Yes,No,No,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Credit Card,86.05,244.85,0.0,0,54.78,299.63
+99515-ASS,1,0.5988881068746563,Likely to Churn,Male,34,No,Assam,11,11,Not Available,Yes,Yes,Yes,Cable,No,No,No,Yes,Yes,No,No,Yes,Month-to-Month,Yes,Credit Card,65.25,209.9,0.0,0,128.04,337.94
+26902-TEL,1,0.7959702410216152,Likely to Churn,Male,52,Yes,Telangana,7,2,Not Available,Yes,No,Yes,Fiber Optic,No,No,No,Yes,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,95.85,95.85,0.0,0,2.7,98.55
+97497-RAJ,1,0.5734258936600803,Likely to Churn,Male,24,Yes,Rajasthan,9,8,Deal 5,Yes,No,Yes,DSL,No,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,49.9,49.9,0.0,0,6.35,56.25
+28317-MAD,0,0.0250496831070653,Likely to Stay,Female,29,Yes,Madhya Pradesh,14,6,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Two Year,No,Mailed Check,19.1,52.0,0.0,0,135.99,187.99
+32063-UTT,0,0.4384192368965706,Likely to Stay,Female,63,Yes,Uttar Pradesh,6,31,Deal 5,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,19.0,19.0,0.0,0,28.28,47.28
+84843-MAD,1,0.789386778734399,Likely to Churn,Female,57,Yes,Madhya Pradesh,11,8,Not Available,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,75.1,75.1,0.0,0,4.53,79.63
+43920-RAJ,0,0.45109264087758877,Likely to Stay,Female,38,No,Rajasthan,9,3,Deal 5,Yes,No,Yes,Cable,Yes,No,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,49.9,49.9,0.0,0,9.0,58.9
+94609-HAR,0,0.20350327948947347,Likely to Stay,Female,45,No,Haryana,1,11,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.65,60.65,0.0,0,91.02,151.67
+48939-BIH,0,0.3903500513510106,Likely to Stay,Female,38,Yes,Bihar,1,6,Not Available,Yes,No,Yes,DSL,No,Yes,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,49.95,49.95,0.0,0,44.98,94.93
+67882-UTT,1,0.6072995206476905,Likely to Churn,Female,44,No,Uttar Pradesh,3,16,Deal 5,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,43.8,43.8,0.0,0,37.5,81.3
+18015-ODI,0,0.3186206232172997,Likely to Stay,Female,28,Yes,Odisha,15,9,Not Available,Yes,No,Yes,DSL,No,No,No,Yes,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,49.9,49.9,0.0,0,14.93,64.83
+12257-ASS,0,0.37572667154044964,Likely to Stay,Female,39,No,Assam,9,1,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,19.55,19.55,0.0,0,10.2,29.75
+78253-GUJ,1,0.8001436138613227,Likely to Churn,Male,63,No,Gujarat,13,30,Not Available,Yes,No,Yes,Fiber Optic,No,Yes,No,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,85.0,85.0,0.0,0,15.2,100.2
+66868-HAR,1,0.6920665412444327,Likely to Churn,Female,25,Yes,Haryana,13,10,Not Available,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,70.25,70.25,0.0,10,10.05,90.3
+33776-BIH,0,0.1339111256533361,Likely to Stay,Male,32,Yes,Bihar,6,10,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.2,19.2,0.0,0,35.88,55.08
+16931-BIH,0,0.3613843404398143,Likely to Stay,Female,39,Yes,Bihar,8,23,Deal 5,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,19.3,19.3,0.0,0,8.66,27.96
+74518-ODI,1,0.5491317888104313,Likely to Churn,Female,27,No,Odisha,13,13,Deal 5,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,44.45,82.7,0.0,0,37.4,120.1
+83486-MAH,1,0.6871344314713468,Likely to Churn,Male,34,No,Maharashtra,5,4,Deal 5,Yes,No,Yes,Fiber Optic,No,No,Yes,No,No,No,No,Yes,Month-to-Month,No,Credit Card,75.35,75.35,0.0,0,38.89,114.24
+38663-UTT,0,0.31076085545997945,Likely to Stay,Male,42,No,Uttar Pradesh,7,15,Deal 5,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.3,40.25,0.0,0,14.54,54.79
+44655-TEL,1,0.5189380664089146,Likely to Churn,Male,41,Yes,Telangana,0,25,Not Available,Yes,No,Yes,DSL,No,No,No,Yes,No,No,No,Yes,Month-to-Month,Yes,Mailed Check,50.5,147.75,0.0,0,79.14,226.89
+11751-TAM,1,0.6873217531065584,Likely to Churn,Female,18,No,Tamil Nadu,5,7,Deal 5,No,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Mailed Check,24.3,38.45,0.0,0,0.0,38.45
+45213-AND,1,0.5499888172686517,Likely to Churn,Female,25,Yes,Andhra Pradesh,15,5,Deal 5,Yes,No,Yes,Cable,Yes,No,No,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Credit Card,61.2,125.95,0.0,0,64.12,190.07
+21165-DEL,0,0.3179923794395483,Likely to Stay,Female,38,No,Delhi,2,32,Deal 5,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.95,38.15,0.0,0,69.14,107.29
+83113-GUJ,0,0.18278731677530094,Likely to Stay,Male,35,No,Gujarat,8,30,Not Available,No,No,Yes,DSL,No,No,No,Yes,No,No,No,Yes,Month-to-Month,No,Credit Card,29.15,29.15,0.0,0,0.0,29.15
+34319-UTT,1,0.52064087900554,Likely to Churn,Male,40,Yes,Uttar Pradesh,12,25,Deal 5,Yes,No,Yes,DSL,No,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,50.15,50.15,0.0,0,20.3,70.45
+73044-KAR,0,0.3689459253372234,Likely to Stay,Male,23,Yes,Karnataka,15,5,Not Available,Yes,No,Yes,Fiber Optic,No,Yes,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,74.6,74.6,0.0,0,42.99,117.59
+71689-PUN,0,0.28935247281444776,Likely to Stay,Female,42,Yes,Punjab,3,19,Not Available,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,43.95,43.95,0.0,0,45.59,89.54
+78885-TAM,0,0.3100432577019877,Likely to Stay,Female,43,No,Tamil Nadu,2,5,Deal 5,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.5,19.5,0.0,0,20.11,39.61
+65987-TAM,1,0.5936755166214523,Likely to Churn,Male,52,Yes,Tamil Nadu,9,34,Deal 5,Yes,Yes,Yes,DSL,Yes,Yes,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,61.15,61.15,0.0,0,17.07,78.22
+94070-JAM,1,0.9066929310861755,Likely to Churn,Female,21,Yes,Jammu & Kashmir,8,3,Not Available,Yes,No,Yes,Fiber Optic,No,No,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,90.1,90.1,0.0,0,24.33,114.43
+85031-RAJ,1,0.6846184459655431,Likely to Churn,Female,60,No,Rajasthan,1,4,Deal 5,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,44.0,44.0,0.0,0,13.4,57.4
+72469-MAD,0,0.3041984907874575,Likely to Stay,Male,56,No,Madhya Pradesh,9,9,Not Available,Yes,No,Yes,Cable,Yes,No,Yes,No,No,No,No,Yes,Month-to-Month,No,Credit Card,55.7,55.7,0.0,0,17.68,73.38
+46792-MAD,1,0.51158237924487,Likely to Churn,Female,59,Yes,Madhya Pradesh,6,25,Deal 5,No,No,Yes,DSL,No,No,Yes,Yes,No,No,No,Yes,Month-to-Month,No,Credit Card,35.9,35.9,0.0,0,0.0,35.9
+28873-TAM,1,0.6626909706929399,Likely to Churn,Male,55,No,Tamil Nadu,7,4,Not Available,Yes,No,Yes,Fiber Optic,No,Yes,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,74.95,151.75,0.0,0,7.52,159.27
+95748-UTT,1,0.541913029735444,Likely to Churn,Male,22,Yes,Uttar Pradesh,5,4,Deal 5,Yes,Yes,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Mailed Check,25.4,25.4,0.0,0,32.73,58.13
+23683-TEL,0,0.16681765634109222,Likely to Stay,Male,26,No,Telangana,10,16,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,20.25,20.25,0.0,0,42.96,63.21
+84789-PUN,1,0.9024489727234644,Likely to Churn,Male,46,No,Punjab,9,19,Deal 5,Yes,No,Yes,Fiber Optic,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,107.95,318.6,0.0,0,37.98,356.58
+84508-TAM,0,0.14316066668715585,Likely to Stay,Female,28,Yes,Tamil Nadu,11,28,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,21.1,21.1,0.0,0,18.81,39.91
+98301-WES,0,0.2944379620652127,Likely to Stay,Male,28,Yes,West Bengal,4,27,Not Available,Yes,No,Yes,Cable,Yes,No,Yes,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,53.45,119.5,0.0,0,25.18,144.68
+16068-BIH,1,0.6735662525443543,Likely to Churn,Female,44,Yes,Bihar,4,25,Deal 5,No,No,Yes,DSL,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,25.25,25.25,0.0,10,0.0,35.25
+42768-TAM,0,0.1735946177816878,Likely to Stay,Female,45,No,Tamil Nadu,13,14,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.4,19.4,0.0,0,2.85,22.25
+46619-RAJ,0,0.0367724486011356,Likely to Stay,Male,25,No,Rajasthan,1,14,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,One Year,No,Credit Card,20.4,20.4,0.0,0,27.5,47.9
+84613-BIH,1,0.8124887021337247,Likely to Churn,Female,30,No,Bihar,8,22,Deal 5,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,79.15,79.15,0.0,60,18.0,157.15
+91320-PUD,1,0.8553111066054693,Likely to Churn,Female,58,No,Puducherry,0,18,Not Available,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,70.1,70.1,0.0,0,1.15,71.25
+39540-BIH,0,0.24263663592318638,Likely to Stay,Female,34,No,Bihar,12,13,Not Available,Yes,No,Yes,Cable,No,No,No,Yes,No,No,No,Yes,Month-to-Month,No,Credit Card,49.05,49.05,0.0,0,25.77,74.82
+19539-PUN,1,0.5378552373902291,Likely to Churn,Female,37,Yes,Punjab,14,8,Deal 5,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,45.4,45.4,0.0,0,49.33,94.73
+23256-HAR,0,0.4096900416170503,Likely to Stay,Female,32,Yes,Haryana,10,31,Deal 5,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,19.85,52.0,0.0,0,72.1,124.1
+66164-CHH,0,0.2281824782164128,Likely to Stay,Female,62,No,Chhattisgarh,13,20,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.4,61.05,0.0,0,13.3,74.35
+45038-BIH,1,0.5444859497439465,Likely to Churn,Female,25,Yes,Bihar,7,14,Not Available,Yes,No,Yes,Fiber Optic,Yes,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,74.55,233.65,0.0,0,30.3,263.95
+58974-MAD,0,0.1486656214127798,Likely to Stay,Male,34,No,Madhya Pradesh,11,14,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.3,41.2,0.0,0,25.36,66.56
+94243-TAM,0,0.18842870458061933,Likely to Stay,Female,34,No,Tamil Nadu,5,15,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,19.9,19.9,0.0,0,7.76,27.66
+92398-AND,0,0.3338081575356922,Likely to Stay,Male,35,No,Andhra Pradesh,5,12,Deal 5,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,20.0,61.7,0.0,0,46.11,107.81
+84535-TAM,0,0.3935435819502238,Likely to Stay,Male,46,No,Tamil Nadu,2,36,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Mailed Check,20.4,42.9,0.0,0,99.06,141.96
+72971-TAM,0,0.3511301356106335,Likely to Stay,Female,81,No,Tamil Nadu,6,8,Not Available,Yes,No,Yes,Fiber Optic,No,No,No,Yes,No,No,No,Yes,One Year,No,Bank Withdrawal,74.7,74.7,0.0,0,27.65,102.35
+56554-RAJ,0,0.33002272853136744,Likely to Stay,Female,29,Yes,Rajasthan,0,11,Deal 5,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,19.75,19.75,0.0,0,10.22,29.97
+86362-ASS,1,0.8638591127148462,Likely to Churn,Female,35,Yes,Assam,15,11,Not Available,Yes,No,Yes,Fiber Optic,No,No,No,Yes,No,No,No,Yes,Month-to-Month,Yes,Mailed Check,74.3,74.3,0.0,0,39.55,113.85
+64327-AND,0,0.26381360774820156,Likely to Stay,Female,59,Yes,Andhra Pradesh,8,9,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,20.65,20.65,0.0,0,35.24,55.89
+84687-PUN,1,0.5679620985801295,Likely to Churn,Female,31,No,Punjab,0,18,Deal 5,No,No,Yes,Cable,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,24.7,24.7,0.0,70,0.0,94.7
+28239-UTT,0,0.19700974561336265,Likely to Stay,Female,55,Yes,Uttar Pradesh,0,5,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.95,19.95,0.0,0,38.84,58.79
+46571-HAR,0,0.4448133337317693,Likely to Stay,Female,65,Yes,Haryana,8,33,Deal 5,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,Yes,No,Yes,Two Year,Yes,Bank Withdrawal,84.05,186.05,0.0,0,43.8,229.85
+42574-ASS,0,0.2724299024916868,Likely to Stay,Female,25,No,Assam,5,3,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.55,19.55,0.0,0,8.23,27.78
+71261-TAM,1,0.5056921370856348,Likely to Churn,Female,59,No,Tamil Nadu,2,27,Not Available,Yes,No,Yes,Cable,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,70.45,70.45,0.0,0,20.1,90.55
+14567-TAM,0,0.16175701709321064,Likely to Stay,Male,43,No,Tamil Nadu,1,9,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.35,20.35,0.0,0,44.09,64.44
+77688-TAM,0,0.18501952870262653,Likely to Stay,Male,35,No,Tamil Nadu,4,13,Not Available,Yes,No,Yes,DSL,No,No,No,Yes,No,No,No,Yes,Month-to-Month,No,Credit Card,49.0,49.0,0.0,0,49.19,98.19
+53612-UTT,0,0.17094098331598503,Likely to Stay,Female,39,Yes,Uttar Pradesh,8,34,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.85,72.0,0.0,0,35.31,107.31
+13058-MAD,1,0.7210095030658106,Likely to Churn,Female,58,No,Madhya Pradesh,13,22,Not Available,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Mailed Check,46.1,130.15,0.0,0,7.98,138.13
+23729-UTT,0,0.4438997913179275,Likely to Stay,Female,58,No,Uttar Pradesh,14,19,Deal 5,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,19.65,38.8,0.0,0,19.22,58.02
+12136-RAJ,0,0.20769523364269882,Likely to Stay,Female,25,Yes,Rajasthan,2,35,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,19.9,19.9,0.0,0,11.83,31.73
+35658-JHA,1,0.5085002901537186,Likely to Churn,Male,35,No,Jharkhand,2,16,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Mailed Check,20.45,20.45,0.0,0,39.61,60.06
+63487-MAH,0,0.3074307280558382,Likely to Stay,Female,36,Yes,Maharashtra,8,34,Not Available,Yes,No,Yes,Cable,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,44.75,44.75,0.0,0,40.87,85.62
+86289-UTT,0,0.1384393125231032,Likely to Stay,Male,27,No,Uttar Pradesh,4,27,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.3,20.3,0.0,0,29.19,49.49
+66749-KER,0,0.17768045772805025,Likely to Stay,Female,47,No,Kerala,9,5,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.75,20.75,0.0,0,36.28,57.03
+46479-GUJ,0,0.012216554109066002,Likely to Stay,Male,41,Yes,Gujarat,0,13,Not Available,Yes,No,Yes,DSL,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Two Year,No,Credit Card,71.1,213.35,2.62,0,111.0,321.73
+53295-WES,1,0.5894904610493514,Likely to Churn,Female,35,No,West Bengal,7,33,Deal 5,Yes,Yes,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,25.7,25.7,0.0,0,43.84,69.54
+15349-UTT,1,0.7068951588927811,Likely to Churn,Male,47,Yes,Uttar Pradesh,9,12,Deal 5,Yes,Yes,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,50.15,50.15,0.0,0,39.87,90.02
+28281-KAR,1,0.8791766049078928,Likely to Churn,Male,56,Yes,Karnataka,8,32,Deal 5,Yes,No,Yes,Fiber Optic,No,No,No,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,80.35,253.8,0.0,0,148.89,402.69
+88111-MAH,0,0.42373213658849646,Likely to Stay,Female,52,Yes,Maharashtra,15,32,Not Available,Yes,No,Yes,Fiber Optic,Yes,Yes,No,Yes,No,No,No,Yes,Month-to-Month,Yes,Credit Card,83.4,83.4,0.0,0,43.06,126.46
+42029-TAM,0,0.22993710635201697,Likely to Stay,Male,32,Yes,Tamil Nadu,3,30,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,20.5,76.95,0.0,0,111.03,187.98
+12490-TEL,1,0.7676046812342614,Likely to Churn,Female,52,No,Telangana,9,6,Not Available,Yes,No,Yes,Fiber Optic,No,No,Yes,No,No,No,No,Yes,Month-to-Month,Yes,Mailed Check,74.75,238.1,38.84,0,37.5,236.76
+34024-AND,0,0.1792591444367686,Likely to Stay,Female,45,Yes,Andhra Pradesh,4,21,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.05,20.05,0.0,0,7.66,27.71
+71752-TEL,0,0.4613802941484573,Likely to Stay,Female,51,No,Telangana,4,2,Deal 5,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,19.9,57.4,0.0,0,53.8,111.2
+62968-UTT,0,0.3199461728821841,Likely to Stay,Female,18,No,Uttar Pradesh,4,3,Not Available,Yes,No,Yes,Cable,No,No,No,Yes,No,Yes,Yes,Yes,Month-to-Month,Yes,Credit Card,59.55,59.55,0.0,0,41.39,100.94
+68826-MAH,1,0.5470987426853638,Likely to Churn,Male,48,No,Maharashtra,14,1,Not Available,No,No,Yes,Cable,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,24.7,24.7,0.0,0,0.0,24.7
+36017-TAM,0,0.18074475175028482,Likely to Stay,Female,52,Yes,Tamil Nadu,15,23,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.55,19.55,0.0,0,40.63,60.18
+83610-BIH,0,0.2991077871727096,Likely to Stay,Female,66,Yes,Bihar,0,11,Deal 5,Yes,No,Yes,Fiber Optic,No,No,Yes,No,No,No,No,Yes,Two Year,Yes,Bank Withdrawal,74.2,140.1,0.0,0,14.58,154.68
+32563-KAR,1,0.6352421761443017,Likely to Churn,Female,34,Yes,Karnataka,3,22,Not Available,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,69.8,146.65,0.0,10,22.38,179.03
+36284-ODI,0,0.37595332139361864,Likely to Stay,Male,43,Yes,Odisha,4,13,Not Available,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,44.55,44.55,0.0,0,41.1,85.65
+46378-MAH,1,0.6592919791200553,Likely to Churn,Female,59,Yes,Maharashtra,15,10,Not Available,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,70.4,154.8,0.0,0,14.98,169.78
+44202-TEL,1,0.6315766426992396,Likely to Churn,Female,50,Yes,Telangana,9,14,Not Available,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,69.95,69.95,0.0,0,11.45,81.4
+17154-HAR,0,0.1140215666249542,Likely to Stay,Male,32,No,Haryana,13,4,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,One Year,No,Mailed Check,18.8,18.8,0.0,0,43.57,62.37
+19837-TAM,1,0.705853669729338,Likely to Churn,Female,57,Yes,Tamil Nadu,4,6,Not Available,No,No,Yes,Cable,No,Yes,No,No,Yes,Yes,Yes,Yes,Month-to-Month,No,Bank Withdrawal,51.4,96.8,0.0,0,0.0,96.8
+13666-UTT,1,0.8142789058275157,Likely to Churn,Male,57,Yes,Uttarakhand,15,16,Not Available,Yes,No,Yes,Fiber Optic,No,Yes,No,No,Yes,Yes,Yes,Yes,Month-to-Month,No,Bank Withdrawal,95.4,293.15,0.0,0,51.03,344.18
+48307-WES,1,0.6568396574115789,Likely to Churn,Female,56,No,West Bengal,4,15,Deal 5,Yes,No,Yes,Cable,No,No,Yes,No,Yes,Yes,Yes,No,One Year,Yes,Bank Withdrawal,69.95,220.45,0.0,30,88.53,338.98
+26412-ASS,0,0.46976149370750303,Likely to Stay,Female,30,No,Assam,7,18,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,20.7,39.85,0.0,0,27.78,67.63
+86891-GUJ,0,0.10590987720435405,Likely to Stay,Male,25,No,Gujarat,7,5,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.05,20.05,0.0,0,18.15,38.2
+34101-TAM,0,0.24591063530080332,Likely to Stay,Female,41,No,Tamil Nadu,5,35,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,20.2,50.6,0.0,0,55.29,105.89
+63464-AND,0,0.3325727444210891,Likely to Stay,Male,48,No,Andhra Pradesh,7,5,Not Available,Yes,No,Yes,DSL,No,No,No,Yes,No,Yes,Yes,Yes,Month-to-Month,No,Credit Card,60.65,196.9,0.0,0,67.47,264.37
+92134-BIH,0,0.39203137825474166,Likely to Stay,Male,24,No,Bihar,5,11,Not Available,No,No,Yes,DSL,No,No,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Credit Card,34.8,113.95,0.0,0,0.0,113.95
+48051-GUJ,0,0.09863280829454035,Likely to Stay,Female,49,Yes,Gujarat,0,36,Not Available,No,No,Yes,DSL,No,No,No,No,No,No,No,Yes,One Year,No,Credit Card,25.85,25.85,0.0,0,0.0,25.85
+19811-MAH,1,0.7555487570654081,Likely to Churn,Female,35,Yes,Maharashtra,10,7,Deal 5,Yes,No,Yes,Fiber Optic,Yes,Yes,No,No,Yes,No,No,Yes,Month-to-Month,No,Bank Withdrawal,89.85,248.4,0.0,0,99.9,348.3
+82473-AND,1,0.5661502765295974,Likely to Churn,Male,63,Yes,Andhra Pradesh,10,1,Deal 5,No,No,Yes,DSL,No,Yes,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,29.8,94.4,0.0,0,0.0,94.4
+89512-JAM,1,0.6836021710081926,Likely to Churn,Male,57,No,Jammu & Kashmir,3,34,Not Available,Yes,Yes,Yes,DSL,Yes,Yes,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,60.95,134.6,0.0,0,29.76,164.36
+27553-UTT,0,0.19979513706081886,Likely to Stay,Female,53,Yes,Uttar Pradesh,0,18,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.3,20.3,0.0,0,4.09,24.39
+83196-UTT,1,0.5855891357611323,Likely to Churn,Female,61,Yes,Uttar Pradesh,3,10,Not Available,Yes,Yes,Yes,Fiber Optic,Yes,No,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,80.55,188.1,0.0,0,10.6,198.7
+95735-PUN,0,0.20113929494839683,Likely to Stay,Female,53,No,Punjab,10,21,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.25,48.35,0.0,0,42.36,90.71
+52279-TAM,1,0.8902627369051839,Likely to Churn,Male,53,No,Tamil Nadu,15,26,Deal 5,Yes,No,Yes,Fiber Optic,No,No,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,80.7,239.45,0.0,0,71.16,310.61
+45672-TAM,0,0.3416779824240921,Likely to Stay,Female,29,No,Tamil Nadu,0,2,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Mailed Check,20.2,20.2,0.0,0,42.15,62.35
+19541-ODI,1,0.5677530809622301,Likely to Churn,Female,37,Yes,Odisha,15,14,Deal 5,Yes,No,Yes,Cable,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,45.25,74.2,0.0,0,79.0,153.2
+79777-MAH,1,0.8888853881770138,Likely to Churn,Male,77,Yes,Maharashtra,13,33,Not Available,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Mailed Check,72.6,154.3,0.0,0,30.38,184.68
+95822-AND,0,0.16682694837047687,Likely to Stay,Male,34,Yes,Andhra Pradesh,3,26,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,19.2,19.2,0.0,0,17.89,37.09
+97828-MAH,1,0.943295729955856,Likely to Churn,Female,57,No,Maharashtra,0,12,Deal 5,Yes,No,Yes,Fiber Optic,No,No,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,92.0,266.8,0.0,0,46.8,313.6
+54564-AND,1,0.7448079248909352,Likely to Churn,Female,55,Yes,Andhra Pradesh,11,7,Not Available,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,76.1,257.6,0.0,0,43.05,300.65
+84720-GUJ,0,0.1444206237089668,Likely to Stay,Male,55,Yes,Gujarat,11,6,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.2,19.2,0.0,0,32.78,51.98
+38779-HAR,0,0.19504962805071785,Likely to Stay,Female,25,No,Haryana,13,19,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,20.05,75.45,0.0,0,113.55,189.0
+39623-HAR,1,0.9293122416055636,Likely to Churn,Female,85,No,Haryana,2,10,Deal 5,Yes,No,Yes,Fiber Optic,No,Yes,No,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,74.6,239.05,0.0,30,118.53,387.58
+53186-HAR,0,0.3842388144189246,Likely to Stay,Male,74,Yes,Haryana,10,2,Deal 5,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,One Year,No,Bank Withdrawal,45.25,45.25,0.0,0,11.89,57.14
+82010-WES,1,0.8684172474436502,Likely to Churn,Female,46,No,West Bengal,14,7,Deal 5,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,79.55,151.75,0.0,0,51.12,202.87
+46865-PUN,1,0.8142364886616521,Likely to Churn,Female,18,No,Punjab,11,1,Deal 5,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,79.45,145.15,0.0,0,57.22,202.37
+99488-KAR,0,0.2857597025020426,Likely to Stay,Male,50,Yes,Karnataka,10,31,Not Available,No,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,24.4,24.4,0.0,0,0.0,24.4
+73547-KAR,1,0.7582893597440337,Likely to Churn,Female,43,Yes,Karnataka,13,16,Not Available,Yes,Yes,Yes,Fiber Optic,No,No,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,84.05,134.05,0.0,0,44.46,178.51
+12469-AND,0,0.34480298278359633,Likely to Stay,Male,24,Yes,Andhra Pradesh,11,4,Not Available,Yes,No,Yes,DSL,No,No,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Credit Card,55.3,55.3,0.0,0,36.69,91.99
+77137-MAH,1,0.8189207180462705,Likely to Churn,Male,52,No,Maharashtra,1,8,Deal 5,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Mailed Check,45.55,45.55,0.0,0,16.34,61.89
+35075-PUN,0,0.3076549941566551,Likely to Stay,Male,64,Yes,Punjab,5,9,Not Available,Yes,No,Yes,Cable,No,No,Yes,Yes,No,No,No,Yes,Month-to-Month,No,Credit Card,55.05,55.05,0.0,0,14.65,69.7
+61474-TEL,0,0.18292061848807678,Likely to Stay,Male,52,Yes,Telangana,11,17,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.35,20.35,0.0,0,31.97,52.32
+63883-KAR,0,0.3676952798276267,Likely to Stay,Female,33,Yes,Karnataka,12,26,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Mailed Check,20.45,42.45,0.0,0,94.38,136.83
+19041-AND,0,0.36964856392506085,Likely to Stay,Female,36,No,Andhra Pradesh,6,21,Deal 5,No,No,Yes,Cable,Yes,No,No,Yes,No,No,No,Yes,Month-to-Month,No,Credit Card,35.1,101.1,0.0,0,0.0,101.1
+74378-KAR,0,0.16082037818451592,Likely to Stay,Female,37,Yes,Karnataka,12,30,Not Available,Yes,No,Yes,DSL,Yes,No,No,Yes,No,No,No,Yes,Month-to-Month,Yes,Credit Card,54.45,87.3,0.0,0,39.74,127.04
+23605-MAH,0,0.1497900279627336,Likely to Stay,Female,31,Yes,Maharashtra,1,19,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.75,20.75,0.0,0,7.57,28.32
+22765-MAH,0,0.3923501443749423,Likely to Stay,Female,40,Yes,Maharashtra,6,16,Deal 5,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,19.45,19.45,0.0,0,16.44,35.89
+94305-KAR,0,0.36526518767974303,Likely to Stay,Male,49,Yes,Karnataka,5,18,Deal 5,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,19.75,19.75,0.0,0,5.32,25.07
+15591-KAR,0,0.12527522203565056,Likely to Stay,Female,26,No,Karnataka,3,31,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.4,20.4,0.0,0,45.91,66.31
+98334-MAD,0,0.2970880229791997,Likely to Stay,Male,67,Yes,Madhya Pradesh,15,20,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,20.2,65.95,0.0,0,95.43,161.38
+47737-UTT,0,0.164483172993844,Likely to Stay,Male,42,No,Uttar Pradesh,15,25,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.65,19.65,0.0,0,16.91,36.56
+24696-BIH,1,0.6969052556229207,Likely to Churn,Female,69,Yes,Bihar,0,20,Deal 5,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,43.95,85.1,0.0,0,38.18,123.28
+18829-TAM,0,0.30963164014010797,Likely to Stay,Female,49,Yes,Tamil Nadu,4,31,Deal 5,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,18.8,56.0,0.0,0,19.83,75.83
+72391-UTT,1,0.5043473258843572,Likely to Churn,Male,35,No,Uttar Pradesh,1,7,Not Available,No,No,Yes,DSL,No,No,No,No,No,Yes,Yes,Yes,Month-to-Month,No,Bank Withdrawal,35.0,35.0,0.0,0,0.0,35.0
+77230-RAJ,0,0.3551475338923595,Likely to Stay,Female,59,Yes,Rajasthan,5,4,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,19.65,31.2,0.0,0,15.6,46.8
+52403-WES,0,0.21526527215094016,Likely to Stay,Female,66,Yes,West Bengal,9,6,Not Available,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,No,Two Year,Yes,Bank Withdrawal,71.25,71.25,0.0,10,17.6,98.85
+19998-AND,1,0.7427563132745009,Likely to Churn,Female,18,No,Andhra Pradesh,0,2,Deal 5,Yes,No,Yes,Fiber Optic,No,No,Yes,No,No,Yes,Yes,Yes,Month-to-Month,No,Credit Card,85.7,256.75,0.0,0,89.52,346.27
+36483-KAR,0,0.13695946421439234,Likely to Stay,Male,42,No,Karnataka,2,14,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.75,19.75,0.0,0,15.77,35.52
+54598-TAM,0,0.20016902212821217,Likely to Stay,Male,59,No,Tamil Nadu,11,32,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.75,39.3,0.0,0,3.94,43.24
+66669-HAR,1,0.7154139637588177,Likely to Churn,Male,44,No,Haryana,12,32,Deal 5,Yes,No,Yes,Cable,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,44.05,44.05,0.0,0,30.73,74.78
+35606-BIH,0,0.490023807371315,Likely to Stay,Male,76,Yes,Bihar,12,18,Deal 5,Yes,No,Yes,Fiber Optic,No,No,Yes,No,No,No,No,No,One Year,No,Credit Card,75.05,202.9,5.49,10,124.32,331.73
+33773-UTT,0,0.35492015510731617,Likely to Stay,Male,58,Yes,Uttar Pradesh,3,6,Deal 5,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.6,20.6,0.0,0,1.48,22.08
+43877-PUN,0,0.4375775247390336,Likely to Stay,Male,23,No,Punjab,6,3,Not Available,Yes,No,Yes,DSL,No,No,Yes,No,No,Yes,Yes,Yes,Month-to-Month,No,Bank Withdrawal,60.85,111.4,0.0,0,30.5,141.9
+16764-WES,0,0.3521672507513164,Likely to Stay,Male,40,No,West Bengal,15,13,Deal 5,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.8,20.8,0.0,0,48.14,68.94
+95991-MAD,0,0.2842352049531112,Likely to Stay,Female,37,Yes,Madhya Pradesh,0,32,Not Available,Yes,No,Yes,Cable,No,No,No,Yes,No,No,No,Yes,Month-to-Month,Yes,Credit Card,50.25,152.3,0.0,0,84.57,236.87
+56256-UTT,1,0.5804537334652339,Likely to Churn,Male,40,No,Uttar Pradesh,14,15,Not Available,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,70.3,220.4,0.0,0,29.22,249.62
+32587-UTT,0,0.30875904265744736,Likely to Stay,Female,30,No,Uttar Pradesh,1,27,Not Available,Yes,No,Yes,Cable,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,45.45,141.7,0.0,0,61.11,202.81
+86970-KER,0,0.41647874658669704,Likely to Stay,Male,57,Yes,Kerala,2,9,Not Available,Yes,No,Yes,DSL,No,Yes,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,49.5,49.5,0.0,30,16.99,96.49
+66766-UTT,1,0.8157151884441984,Likely to Churn,Female,38,No,Uttar Pradesh,6,10,Deal 5,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,74.95,212.4,27.6,0,4.92,189.72
+34713-KER,1,0.7943194343999813,Likely to Churn,Male,58,Yes,Kerala,1,29,Deal 5,Yes,Yes,Yes,Fiber Optic,Yes,No,No,No,No,Yes,Yes,Yes,Month-to-Month,No,Credit Card,90.75,174.75,0.0,0,54.34,229.09
+82170-TAM,1,0.5493651799597625,Likely to Churn,Male,41,No,Tamil Nadu,5,29,Not Available,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Mailed Check,44.6,44.6,0.0,0,45.28,89.88
+74033-ASS,1,0.6875610713148356,Likely to Churn,Female,45,Yes,Assam,15,20,Not Available,No,No,Yes,Cable,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,25.25,25.25,0.0,0,0.0,25.25
+26139-KAR,0,0.1889774557111001,Likely to Stay,Male,76,No,Karnataka,5,22,Deal 5,Yes,No,Yes,DSL,No,No,Yes,No,No,No,No,Yes,Two Year,No,Mailed Check,49.95,107.1,0.0,0,75.94,183.04
+32966-HAR,0,0.21487501258282507,Likely to Stay,Female,23,No,Haryana,3,7,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,19.2,19.2,0.0,0,26.37,45.57
+94124-MAH,1,0.6982804112924611,Likely to Churn,Female,21,No,Maharashtra,9,8,Not Available,Yes,No,Yes,Fiber Optic,No,No,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,79.95,174.45,0.0,0,75.4,249.85
+13823-TEL,1,0.5819699687527803,Likely to Churn,Female,31,Yes,Telangana,1,28,Deal 5,No,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,24.5,46.4,0.0,0,0.0,46.4
+57457-MAD,0,0.4234480683763096,Likely to Stay,Female,46,No,Madhya Pradesh,14,34,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Mailed Check,20.0,38.0,0.0,0,68.76,106.76
+96967-CHH,1,0.8192788194931295,Likely to Churn,Female,33,No,Chhattisgarh,5,8,Not Available,Yes,No,Yes,Fiber Optic,No,No,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,89.35,89.35,0.0,0,5.36,94.71
+71210-WES,0,0.25819843383284746,Likely to Stay,Female,58,No,West Bengal,15,28,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.85,19.85,0.0,0,29.1,48.95
+53764-WES,0,0.43511503748915864,Likely to Stay,Male,36,No,West Bengal,10,23,Not Available,No,No,Yes,Cable,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,24.9,24.9,0.0,0,0.0,24.9
+39128-PUN,1,0.6499487902925927,Likely to Churn,Male,36,No,Punjab,15,22,Deal 5,Yes,No,Yes,DSL,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,44.75,44.75,0.0,10,18.57,73.32
+65405-MAH,0,0.17508877579111473,Likely to Stay,Female,65,Yes,Maharashtra,7,18,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,One Year,No,Mailed Check,20.25,71.2,0.0,0,4.41,75.61
+87024-KAR,1,0.7852456749435509,Likely to Churn,Male,58,No,Karnataka,14,8,Deal 5,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,71.3,157.75,0.0,0,13.48,171.23
+99855-MAH,1,0.7179293414408924,Likely to Churn,Female,50,Yes,Maharashtra,5,29,Not Available,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,69.7,135.2,0.0,0,31.34,166.54
+39866-MAH,1,0.5644525228268952,Likely to Churn,Female,24,No,Maharashtra,1,12,Deal 5,Yes,No,Yes,DSL,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,45.55,84.4,0.0,10,83.8,178.2
+97427-JAM,1,0.5552778684072879,Likely to Churn,Female,27,Yes,Jammu & Kashmir,9,2,Deal 5,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,20.35,20.35,0.0,0,29.86,50.21
+92527-KAR,0,0.1823195026787371,Likely to Stay,Female,40,No,Karnataka,7,16,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,20.05,20.05,0.0,0,3.23,23.28
+33910-TEL,0,0.31831344055732946,Likely to Stay,Female,63,No,Telangana,4,30,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,19.55,61.05,0.0,0,122.94,183.99
+85506-MAH,0,0.0347559894797112,Likely to Stay,Female,23,No,Maharashtra,0,10,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,One Year,No,Credit Card,20.2,34.75,0.0,0,76.82,111.57
+57012-TAM,0,0.1301879425753218,Likely to Stay,Female,78,Yes,Tamil Nadu,11,29,Deal 5,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Two Year,No,Bank Withdrawal,45.2,45.2,0.0,0,49.34,94.54
+46190-GUJ,1,0.7590172991654414,Likely to Churn,Male,27,Yes,Gujarat,0,36,Deal 5,Yes,No,Yes,DSL,No,No,No,No,No,Yes,Yes,No,Month-to-Month,No,Mailed Check,55.55,55.55,0.0,30,33.32,118.87
+36628-GUJ,1,0.6593315583606459,Likely to Churn,Female,44,Yes,Gujarat,7,1,Deal 5,Yes,No,Yes,Fiber Optic,Yes,No,No,Yes,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,80.15,194.55,0.0,0,53.16,247.71
+46730-ASS,1,0.8908851871146817,Likely to Churn,Female,18,No,Assam,5,4,Deal 5,Yes,No,Yes,Fiber Optic,No,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,74.75,144.8,0.0,0,87.12,231.92
+47492-AND,0,0.4334581652526497,Likely to Stay,Female,30,Yes,Andhra Pradesh,15,24,Deal 5,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,20.15,20.15,0.0,0,18.63,38.78
+33472-HAR,0,0.16772379419701805,Likely to Stay,Female,77,No,Haryana,0,16,Not Available,Yes,No,Yes,Fiber Optic,No,No,Yes,No,No,No,No,Yes,Two Year,No,Bank Withdrawal,73.85,196.4,0.0,0,139.95,336.35
+49273-PUD,0,0.15136559021759696,Likely to Stay,Female,45,Yes,Puducherry,11,15,Deal 5,Yes,No,Yes,DSL,Yes,Yes,No,Yes,No,No,No,Yes,Two Year,No,Mailed Check,59.5,130.5,0.0,0,85.1,215.6
+44700-DEL,1,0.9210037399812956,Likely to Churn,Female,48,No,Delhi,10,19,Deal 5,Yes,Yes,Yes,Fiber Optic,No,No,No,No,Yes,No,No,No,Month-to-Month,Yes,Bank Withdrawal,84.6,84.6,0.0,0,7.34,91.94
+25517-RAJ,1,0.8406741321981474,Likely to Churn,Female,40,No,Rajasthan,4,10,Not Available,Yes,Yes,Yes,Fiber Optic,No,No,Yes,No,Yes,No,No,No,Month-to-Month,Yes,Bank Withdrawal,91.45,171.45,0.0,10,98.82,280.27
+25733-HAR,1,0.7912887516188349,Likely to Churn,Female,80,No,Haryana,8,33,Deal 5,Yes,No,Yes,Fiber Optic,No,No,Yes,No,Yes,Yes,No,No,One Year,Yes,Credit Card,95.5,181.65,0.0,10,66.2,257.85
+79342-KAR,0,0.20683112111356533,Likely to Stay,Female,39,Yes,Karnataka,5,22,Not Available,Yes,No,Yes,DSL,Yes,No,No,Yes,Yes,No,No,Yes,Month-to-Month,Yes,Credit Card,64.4,195.65,0.0,0,114.15,309.8
+74804-WES,1,0.6757959587142046,Likely to Churn,Female,46,No,West Bengal,0,5,Not Available,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,69.6,207.4,0.0,20,86.91,314.31
+45561-MAH,1,0.6403185136158579,Likely to Churn,Female,44,Yes,Maharashtra,6,7,Deal 5,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Mailed Check,20.0,40.9,0.0,0,86.54,127.44
+28681-HAR,1,0.6689289314260656,Likely to Churn,Female,33,No,Haryana,4,2,Not Available,Yes,No,Yes,Fiber Optic,No,No,Yes,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,75.55,75.55,0.0,0,7.11,82.66
+36339-UTT,0,0.4212339978582495,Likely to Stay,Female,54,No,Uttar Pradesh,14,7,Deal 5,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,19.9,45.75,0.0,0,124.08,169.83
+73108-GUJ,0,0.13195981626915557,Likely to Stay,Female,38,Yes,Gujarat,6,12,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.25,36.8,0.0,0,31.66,68.46
+86703-WES,1,0.5285230055548261,Likely to Churn,Female,54,Yes,West Bengal,14,35,Deal 5,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,20.65,20.65,0.0,0,1.47,22.12
+92494-MAH,1,0.6994354201937489,Likely to Churn,Female,39,Yes,Maharashtra,11,19,Not Available,Yes,No,Yes,Fiber Optic,Yes,Yes,No,No,Yes,No,No,No,Month-to-Month,Yes,Bank Withdrawal,91.15,168.5,0.0,10,93.56,272.06
+79427-KAR,1,0.815563055148472,Likely to Churn,Male,67,Yes,Karnataka,12,21,Deal 5,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,70.1,141.65,0.0,0,69.98,211.63
+26448-BIH,1,0.7995308705034768,Likely to Churn,Female,57,No,Bihar,10,21,Deal 5,Yes,No,Yes,DSL,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,75.3,244.1,0.0,0,116.97,361.07
+81118-MAD,0,0.3750029666280492,Likely to Stay,Female,31,No,Madhya Pradesh,1,13,Not Available,Yes,No,Yes,Cable,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,45.8,45.8,0.0,0,13.62,59.42
+91505-DEL,0,0.49219098672157907,Likely to Stay,Male,62,Yes,Delhi,13,36,Deal 5,Yes,Yes,Yes,Fiber Optic,No,No,No,No,Yes,Yes,Yes,Yes,Two Year,Yes,Bank Withdrawal,94.85,335.75,0.0,0,113.34,449.09
+83308-TAM,1,0.5615103930750754,Likely to Churn,Male,40,No,Tamil Nadu,5,14,Not Available,No,No,Yes,DSL,No,Yes,No,No,No,No,No,Yes,Month-to-Month,No,Mailed Check,29.65,90.05,0.0,0,0.0,90.05
+82559-CHH,1,0.5243532753645798,Likely to Churn,Male,34,Yes,Chhattisgarh,0,33,Deal 5,Yes,No,Yes,DSL,No,Yes,No,Yes,No,Yes,Yes,No,Month-to-Month,Yes,Credit Card,64.2,143.65,0.0,30,8.82,182.47
+72275-GUJ,0,0.03638221762417832,Likely to Stay,Female,45,Yes,Gujarat,8,4,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,One Year,No,Credit Card,19.95,47.7,0.0,0,62.9,110.6
+96430-PUN,0,0.2457636196167183,Likely to Stay,Male,37,No,Punjab,0,23,Not Available,Yes,No,Yes,DSL,Yes,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,48.75,48.75,0.0,0,26.26,75.01
+82118-JAM,1,0.9398185326385292,Likely to Churn,Female,69,Yes,Jammu & Kashmir,3,6,Deal 5,No,No,Yes,Cable,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Mailed Check,24.2,24.2,0.0,0,0.0,24.2
+61203-PUN,0,0.393201856600497,Likely to Stay,Female,19,No,Punjab,11,11,Not Available,Yes,Yes,Yes,Cable,No,No,No,Yes,Yes,No,No,Yes,Month-to-Month,No,Bank Withdrawal,64.6,174.2,0.0,0,122.97,297.17
+58577-ODI,1,0.5819515072380588,Likely to Churn,Female,44,Yes,Odisha,7,36,Deal 5,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,45.85,105.6,0.0,0,10.94,116.54
+43908-WES,1,0.6614577488545091,Likely to Churn,Male,36,No,West Bengal,3,25,Not Available,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,70.35,139.25,0.0,0,89.54,228.79
+47611-WES,1,0.5915518727493558,Likely to Churn,Male,25,No,West Bengal,4,31,Not Available,Yes,No,Yes,DSL,No,No,No,No,No,Yes,Yes,No,Month-to-Month,Yes,Bank Withdrawal,55.25,55.25,0.0,60,39.19,154.44
+95594-TAM,0,0.476163982862743,Likely to Stay,Female,64,No,Tamil Nadu,4,1,Not Available,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,44.0,44.0,0.0,0,15.66,59.66
+55043-UTT,1,0.6970765781964503,Likely to Churn,Male,43,Yes,Uttar Pradesh,8,17,Not Available,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,69.9,69.9,0.0,10,9.36,89.26
+43604-TAM,0,0.1786257555288695,Likely to Stay,Female,18,No,Tamil Nadu,14,7,Deal 5,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,One Year,No,Mailed Check,19.65,19.65,0.0,0,23.41,43.06
+52695-UTT,0,0.21393310444480834,Likely to Stay,Female,52,No,Uttar Pradesh,14,34,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.35,35.1,0.0,0,4.92,40.02
+89303-AND,1,0.7422764638908195,Likely to Churn,Male,51,No,Andhra Pradesh,6,11,Deal 5,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,69.95,143.9,0.0,0,58.2,202.1
+19747-WES,1,0.6851148331666486,Likely to Churn,Female,47,No,West Bengal,15,19,Deal 5,Yes,No,Yes,DSL,Yes,No,No,Yes,No,Yes,Yes,No,Month-to-Month,Yes,Bank Withdrawal,64.5,177.4,0.0,60,118.65,356.05
+25048-TEL,0,0.36447207091040285,Likely to Stay,Male,47,No,Telangana,15,9,Deal 5,Yes,Yes,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,24.0,24.0,0.0,0,32.95,56.95
+79700-KER,1,0.9280801617438719,Likely to Churn,Female,53,No,Kerala,5,30,Not Available,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Month-to-Month,No,Mailed Check,107.95,313.6,0.0,0,142.5,456.1
+93667-KER,0,0.05303406734830892,Likely to Stay,Female,38,No,Kerala,7,33,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,One Year,Yes,Credit Card,20.55,57.4,0.0,0,33.81,91.21
+36323-UTT,0,0.08102108425294309,Likely to Stay,Female,48,No,Uttar Pradesh,14,11,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,One Year,No,Bank Withdrawal,20.5,38.25,0.0,0,62.02,100.27
+45771-KAR,0,0.2926464541684119,Likely to Stay,Female,50,No,Karnataka,3,7,Not Available,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,44.45,44.45,0.0,0,23.34,67.79
+27561-UTT,0,0.30117109599207725,Likely to Stay,Female,19,No,Uttar Pradesh,6,10,Deal 5,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,20.25,20.25,0.0,0,47.25,67.5
+21247-ASS,0,0.40703252855629035,Likely to Stay,Male,58,Yes,Assam,2,2,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,19.5,19.5,0.0,0,8.02,27.52
+87077-TAM,1,0.7239113106049629,Likely to Churn,Male,62,Yes,Tamil Nadu,3,21,Deal 5,Yes,No,Yes,Cable,No,No,Yes,No,Yes,Yes,Yes,Yes,Month-to-Month,No,Credit Card,69.0,147.8,0.0,0,54.82,202.62
+17250-HAR,0,0.24790480530322181,Likely to Stay,Female,23,Yes,Haryana,12,2,Not Available,Yes,No,Yes,DSL,No,Yes,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,49.25,97.0,0.0,0,81.5,178.5
+89382-ASS,1,0.8097242682395783,Likely to Churn,Male,56,No,Assam,5,29,Deal 5,No,No,Yes,DSL,No,No,No,Yes,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,29.75,96.85,0.0,0,0.0,96.85
+16032-AND,1,0.5326702764763503,Likely to Churn,Female,47,No,Andhra Pradesh,8,18,Not Available,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,46.6,87.9,0.0,0,3.74,91.64
+47957-GUJ,0,0.27906750991544127,Likely to Stay,Female,26,No,Gujarat,4,2,Deal 5,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,20.45,20.45,0.0,0,42.17,62.62
+49201-GUJ,0,0.2138659566284453,Likely to Stay,Female,37,No,Gujarat,11,30,Not Available,No,No,Yes,DSL,Yes,No,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,29.9,29.9,0.0,0,0.0,29.9
+74979-MAD,1,0.578863799653774,Likely to Churn,Female,49,Yes,Madhya Pradesh,10,14,Deal 5,No,No,Yes,Cable,No,No,No,Yes,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,29.05,44.75,0.0,0,0.0,44.75
+54172-RAJ,1,0.7190092120838362,Likely to Churn,Female,64,Yes,Rajasthan,0,9,Deal 5,Yes,Yes,Yes,DSL,No,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,56.55,118.25,0.0,0,63.48,181.73
+83080-HAR,1,0.7756405093681188,Likely to Churn,Female,54,No,Haryana,9,4,Not Available,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,70.15,194.2,0.0,0,16.89,211.09
+41795-UTT,0,0.2171887823021481,Likely to Stay,Female,58,No,Uttar Pradesh,5,10,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.75,19.75,0.0,0,41.28,61.03
+16733-ODI,1,0.503440332835369,Likely to Churn,Female,76,Yes,Odisha,10,1,Not Available,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,45.85,45.85,0.0,0,40.38,86.23
+25763-JHA,1,0.759878362760787,Likely to Churn,Female,47,Yes,Jharkhand,9,3,Deal 5,Yes,No,Yes,Cable,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,44.15,44.15,0.0,0,9.82,53.97
+28266-JAM,1,0.527327270630076,Likely to Churn,Male,32,No,Jammu & Kashmir,6,1,Not Available,No,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,25.35,25.35,0.0,0,0.0,25.35
+32080-WES,0,0.1865765295635941,Likely to Stay,Male,33,Yes,West Bengal,1,12,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,19.6,55.25,0.0,0,125.7,180.95
+67994-MAD,0,0.12862030563136384,Likely to Stay,Male,75,Yes,Madhya Pradesh,12,33,Deal 5,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Two Year,No,Bank Withdrawal,46.3,46.3,0.0,0,11.51,57.81
+12340-DEL,1,0.5798947077700356,Likely to Churn,Female,51,Yes,Delhi,0,10,Not Available,Yes,No,Yes,Cable,No,No,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Credit Card,62.8,62.8,0.0,0,42.19,104.99
+31476-TEL,0,0.2970819042972767,Likely to Stay,Male,42,Yes,Telangana,5,33,Deal 5,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.95,19.95,0.0,0,27.08,47.03
+31918-KAR,0,0.1916994699205714,Likely to Stay,Female,37,No,Karnataka,15,34,Not Available,No,No,Yes,Cable,Yes,No,Yes,Yes,No,No,No,Yes,Month-to-Month,No,Credit Card,41.35,107.25,0.0,0,0.0,107.25
+66413-TAM,1,0.8035125795899638,Likely to Churn,Female,53,No,Tamil Nadu,12,4,Not Available,Yes,No,Yes,Fiber Optic,No,No,No,No,Yes,No,No,No,Month-to-Month,Yes,Bank Withdrawal,80.5,232.35,0.0,0,80.58,312.93
+97615-MAH,0,0.24551034051234796,Likely to Stay,Female,23,Yes,Maharashtra,11,10,Deal 5,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.2,20.2,0.0,0,41.1,61.3
+42089-MAH,0,0.2988790947730531,Likely to Stay,Female,32,No,Maharashtra,2,34,Deal 5,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.7,57.5,0.0,0,115.23,172.73
+75641-PUN,0,0.2236045782664591,Likely to Stay,Male,77,No,Punjab,9,28,Not Available,Yes,No,Yes,Fiber Optic,No,Yes,No,No,Yes,No,No,Yes,Two Year,Yes,Bank Withdrawal,83.8,163.7,0.0,0,65.96,229.66
+75671-PUD,1,0.6669655080588042,Likely to Churn,Female,34,Yes,Puducherry,8,13,Not Available,Yes,No,Yes,Cable,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,45.4,80.95,0.0,0,21.62,102.57
+29525-TAM,1,0.5314248191180528,Likely to Churn,Female,50,Yes,Tamil Nadu,9,3,Deal 5,No,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,25.0,78.25,0.0,0,0.0,78.25
+18415-KAR,0,0.301523508045657,Likely to Stay,Female,33,Yes,Karnataka,7,36,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Mailed Check,19.1,19.1,0.0,0,5.02,24.12
+35635-TEL,0,0.33274855593574065,Likely to Stay,Female,26,Yes,Telangana,10,5,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Mailed Check,20.4,20.4,0.0,0,17.81,38.21
+67752-MAH,0,0.3011394776641127,Likely to Stay,Female,28,No,Maharashtra,0,24,Not Available,Yes,No,Yes,Cable,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,45.3,45.3,0.0,0,47.36,92.66
+51961-BIH,0,0.4429130097230423,Likely to Stay,Male,47,No,Bihar,9,25,Deal 5,Yes,No,Yes,DSL,Yes,No,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,50.95,123.05,0.0,0,73.92,196.97
+23632-HAR,1,0.8802154226438571,Likely to Churn,Female,37,Yes,Haryana,2,16,Deal 5,Yes,No,Yes,Fiber Optic,Yes,No,No,No,Yes,Yes,Yes,Yes,Month-to-Month,No,Bank Withdrawal,97.1,184.15,0.0,0,78.7,262.85
+38920-PUN,1,0.5500878142406637,Likely to Churn,Female,50,No,Punjab,8,7,Not Available,Yes,No,Yes,Cable,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,43.85,43.85,0.0,10,15.9,69.75
+51597-MAD,0,0.13375184981731275,Likely to Stay,Female,26,Yes,Madhya Pradesh,10,18,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.9,19.9,0.0,0,1.5,21.4
+88107-JAM,1,0.6084958310792403,Likely to Churn,Female,58,No,Jammu & Kashmir,10,34,Not Available,No,No,Yes,DSL,No,No,No,Yes,No,No,No,No,Month-to-Month,No,Credit Card,30.55,30.55,0.0,40,0.0,70.55
+86315-TAM,0,0.4843252923334764,Likely to Stay,Female,54,No,Tamil Nadu,6,13,Deal 5,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,20.95,20.95,0.0,0,2.29,23.24
+35995-PUN,0,0.3727434083701862,Likely to Stay,Female,34,No,Punjab,3,23,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Mailed Check,20.0,63.6,0.0,0,120.6,184.2
+84577-TEL,1,0.6273585729791549,Likely to Churn,Female,59,Yes,Telangana,11,29,Not Available,Yes,No,Yes,Cable,No,Yes,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,59.0,114.15,0.0,0,54.04,168.19
+23855-MAH,0,0.43454644705819945,Likely to Stay,Female,53,Yes,Maharashtra,13,9,Not Available,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,44.9,111.05,0.0,0,10.16,121.21
+71183-TAM,0,0.04228502300750147,Likely to Stay,Female,39,No,Tamil Nadu,1,33,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,One Year,No,Credit Card,19.6,61.35,0.0,0,106.95,168.3
+43297-MAH,0,0.3801321567273431,Likely to Stay,Male,60,No,Maharashtra,12,18,Not Available,Yes,No,Yes,Cable,No,No,No,Yes,No,No,No,No,Month-to-Month,Yes,Credit Card,50.2,109.25,0.0,10,12.68,131.93
+59750-AND,1,0.6714092529619223,Likely to Churn,Female,49,Yes,Andhra Pradesh,11,4,Not Available,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,74.9,136.05,0.0,0,82.16,218.21
+83050-PUN,0,0.03506145198956614,Likely to Stay,Female,25,Yes,Punjab,7,20,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,One Year,No,Credit Card,20.45,34.8,0.0,0,92.0,126.8
+93700-MAH,1,0.5855094252189927,Likely to Churn,Female,57,No,Maharashtra,8,20,Deal 5,Yes,No,Yes,Cable,Yes,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,50.7,50.7,0.0,0,38.05,88.75
+86369-BIH,1,0.7422222430300046,Likely to Churn,Female,59,No,Bihar,1,2,Deal 5,Yes,Yes,Yes,DSL,No,Yes,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,54.3,54.3,0.0,10,34.02,98.32
+62359-AND,0,0.49518082944040287,Likely to Stay,Female,48,Yes,Andhra Pradesh,5,24,Deal 5,No,No,Yes,Cable,No,Yes,No,Yes,No,No,No,No,Month-to-Month,No,Credit Card,33.6,33.6,0.0,50,0.0,83.6
+81763-DEL,1,0.568803872023299,Likely to Churn,Male,36,Yes,Delhi,7,7,Not Available,Yes,No,Yes,Fiber Optic,Yes,No,Yes,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,80.45,137.1,0.0,0,70.82,207.92
+89188-KAR,0,0.3411126894020886,Likely to Stay,Female,26,Yes,Karnataka,3,9,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Mailed Check,20.55,33.6,0.0,0,33.4,67.0
+83939-AND,0,0.2580173718478242,Likely to Stay,Female,42,No,Andhra Pradesh,8,27,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,20.1,43.15,0.0,0,65.72,108.87
+55757-KAR,1,0.6810797677034381,Likely to Churn,Female,32,Yes,Karnataka,2,9,Deal 5,Yes,No,Yes,Cable,No,No,Yes,Yes,No,No,No,Yes,Month-to-Month,Yes,Mailed Check,55.8,154.55,0.0,0,12.57,167.12
+98767-WES,0,0.16868236643205678,Likely to Stay,Female,26,No,West Bengal,14,7,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.05,20.05,0.0,0,11.1,31.15
+44208-AND,1,0.5225185893192016,Likely to Churn,Female,25,Yes,Andhra Pradesh,2,20,Not Available,Yes,Yes,Yes,DSL,No,Yes,Yes,No,Yes,No,No,No,Month-to-Month,Yes,Bank Withdrawal,69.15,235.0,0.0,0,72.84,307.84
+32375-UTT,0,0.3265283103781065,Likely to Stay,Female,23,Yes,Uttar Pradesh,1,3,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Mailed Check,20.9,20.9,0.0,0,10.21,31.11
+28237-JHA,1,0.9179000172474979,Likely to Churn,Female,52,No,Jharkhand,7,9,Deal 5,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,69.85,199.85,0.0,0,104.28,304.13
+21642-TEL,0,0.2794008266162069,Likely to Stay,Male,60,Yes,Telangana,12,29,Not Available,Yes,No,Yes,DSL,Yes,No,No,Yes,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,54.5,54.5,0.0,0,33.21,87.71
+46081-TAM,0,0.2719893186397094,Likely to Stay,Male,41,Yes,Tamil Nadu,14,29,Not Available,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,45.15,45.15,0.0,0,42.34,87.49
+13744-AND,0,0.4627448474378384,Likely to Stay,Female,41,Yes,Andhra Pradesh,8,3,Deal 5,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,19.65,19.65,0.0,0,13.85,33.5
+71234-HAR,0,0.2513390883592893,Likely to Stay,Female,44,No,Haryana,10,34,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,19.4,19.4,0.0,0,23.97,43.37
+15803-UTT,0,0.15655069596494398,Likely to Stay,Female,34,No,Uttar Pradesh,6,31,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.15,19.15,0.0,0,22.37,41.52
+41427-HAR,0,0.42941987164112405,Likely to Stay,Male,37,No,Haryana,13,13,Deal 5,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,20.2,20.2,0.0,0,24.48,44.68
+31294-KAR,0,0.4676893217726793,Likely to Stay,Male,50,Yes,Karnataka,15,33,Deal 5,Yes,No,Yes,DSL,Yes,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,49.75,49.75,0.0,0,41.79,91.54
+33621-MAD,1,0.8598947537677519,Likely to Churn,Female,42,No,Madhya Pradesh,13,12,Deal 5,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,70.35,120.25,0.0,20,15.4,155.65
+77911-TEL,0,0.3312841095444254,Likely to Stay,Female,20,No,Telangana,5,8,Deal 5,Yes,Yes,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,23.6,89.05,0.0,0,42.3,131.35
+77658-AND,1,0.6765358943289518,Likely to Churn,Male,44,No,Andhra Pradesh,0,4,Deal 5,No,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,24.4,24.4,0.0,0,0.0,24.4
+13123-BIH,1,0.8868707932304914,Likely to Churn,Female,46,No,Bihar,13,18,Deal 5,Yes,No,Yes,Fiber Optic,Yes,Yes,No,No,Yes,Yes,Yes,No,Month-to-Month,No,Bank Withdrawal,100.2,198.5,0.0,10,45.12,253.62
+42864-ODI,1,0.7900143733418693,Likely to Churn,Female,29,No,Odisha,2,10,Deal 5,No,No,Yes,DSL,No,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Mailed Check,30.25,63.75,0.0,0,0.0,63.75
+51751-KER,1,0.7537403117531145,Likely to Churn,Female,62,No,Kerala,9,25,Not Available,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,70.15,123.8,0.0,0,67.5,191.3
+76419-KAR,1,0.7925157292111206,Likely to Churn,Male,46,Yes,Karnataka,14,28,Not Available,Yes,Yes,Yes,Fiber Optic,No,No,No,No,Yes,Yes,Yes,Yes,Month-to-Month,No,Bank Withdrawal,94.9,273.2,0.0,0,8.91,282.11
+39332-TEL,1,0.8015863754770599,Likely to Churn,Female,44,Yes,Telangana,6,8,Not Available,Yes,No,Yes,Fiber Optic,No,No,No,No,Yes,No,No,No,Month-to-Month,Yes,Bank Withdrawal,80.55,80.55,0.0,60,5.93,146.48
+49304-KAR,0,0.33076571419208267,Likely to Stay,Female,32,Yes,Karnataka,6,33,Not Available,Yes,Yes,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,49.8,49.8,0.0,0,3.97,53.77
+31129-AND,1,0.7964448004439061,Likely to Churn,Male,68,No,Andhra Pradesh,15,15,Not Available,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,70.35,70.35,0.0,10,14.42,94.77
+99475-KAR,0,0.19546461166151924,Likely to Stay,Male,22,Yes,Karnataka,11,11,Not Available,Yes,No,Yes,DSL,No,Yes,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,51.55,106.2,0.0,0,37.22,143.42
+55831-TAM,1,0.567956080375387,Likely to Churn,Male,43,No,Tamil Nadu,11,13,Deal 5,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Mailed Check,19.95,58.3,0.0,0,15.45,73.75
+99144-UTT,0,0.20817780627857668,Likely to Stay,Female,41,No,Uttar Pradesh,9,20,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,19.65,68.35,0.0,0,106.77,175.12
+92228-BIH,0,0.35279236391909974,Likely to Stay,Female,22,Yes,Bihar,10,9,Not Available,No,No,Yes,Cable,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,25.15,25.15,0.0,0,0.0,25.15
+37131-MAH,1,0.8426510963535938,Likely to Churn,Male,52,No,Maharashtra,6,2,Not Available,Yes,No,Yes,Fiber Optic,No,No,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,89.25,89.25,0.0,0,16.64,105.89
+17597-HAR,1,0.6761237563078378,Likely to Churn,Female,33,Yes,Haryana,2,6,Deal 5,No,No,Yes,DSL,No,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,29.85,29.85,0.0,0,0.0,29.85
+82427-MAH,0,0.28076851521605867,Likely to Stay,Male,36,No,Maharashtra,15,28,Deal 5,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.55,19.55,0.0,0,17.94,37.49
+28378-MAD,1,0.5087503461467159,Likely to Churn,Female,65,No,Madhya Pradesh,12,1,Deal 5,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,19.45,19.45,0.0,0,46.59,66.04
+18027-UTT,0,0.4331362652117968,Likely to Stay,Female,58,Yes,Uttar Pradesh,15,30,Deal 5,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,19.9,33.7,0.0,0,7.64,41.34
+28398-TEL,0,0.3562593528455062,Likely to Stay,Male,59,Yes,Telangana,3,23,Deal 5,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.0,20.0,0.0,0,25.99,45.99
+13946-HAR,0,0.33351693281189293,Likely to Stay,Female,41,Yes,Haryana,1,3,Deal 5,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.65,19.65,0.0,0,23.67,43.32
+38577-BIH,0,0.4223751159659275,Likely to Stay,Female,30,Yes,Bihar,6,36,Not Available,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,44.5,90.05,0.0,0,61.74,151.79
+83736-UTT,0,0.2927924347756625,Likely to Stay,Male,43,Yes,Uttar Pradesh,1,25,Not Available,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,45.35,45.35,0.0,0,12.46,57.81
+51657-TAM,0,0.19249339652346736,Likely to Stay,Male,54,No,Tamil Nadu,13,16,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.85,60.65,0.0,0,58.74,119.39
+22782-ODI,0,0.183222675342201,Likely to Stay,Female,50,Yes,Odisha,2,28,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.3,54.7,0.0,0,30.39,85.09
+61331-UTT,0,0.42506790926302135,Likely to Stay,Male,36,Yes,Uttarakhand,2,10,Deal 5,Yes,No,Yes,DSL,Yes,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,50.75,50.75,0.0,0,45.77,96.52
+83440-GUJ,0,0.22340411906939378,Likely to Stay,Male,53,No,Gujarat,4,14,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,20.0,49.65,0.0,0,93.18,142.83
+23078-UTT,0,0.3486867650863286,Likely to Stay,Female,57,Yes,Uttar Pradesh,3,24,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,20.3,20.3,0.0,0,6.64,26.94
+53350-TEL,1,0.6462834008988536,Likely to Churn,Male,37,Yes,Telangana,6,22,Not Available,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,74.5,217.45,0.0,0,20.91,238.36
+85027-KAR,0,0.37261651146052766,Likely to Stay,Male,57,No,Karnataka,14,27,Deal 5,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,19.75,19.75,0.0,0,1.61,21.36
+53449-MAH,0,0.20278339829735015,Likely to Stay,Female,52,No,Maharashtra,8,17,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.9,19.9,0.0,0,2.38,22.28
+78978-UTT,0,0.33967451363352874,Likely to Stay,Male,54,No,Uttar Pradesh,0,13,Deal 5,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.3,19.3,0.0,0,16.36,35.66
+78220-TAM,1,0.5069180141464454,Likely to Churn,Female,21,Yes,Tamil Nadu,14,10,Not Available,Yes,No,Yes,Fiber Optic,No,No,Yes,Yes,Yes,No,Yes,Yes,Month-to-Month,Yes,Credit Card,89.85,244.45,0.0,0,75.3,319.75
+85428-HAR,0,0.2471356005975437,Likely to Stay,Female,62,Yes,Haryana,11,18,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.1,39.8,0.0,0,71.0,110.8
+52641-JHA,1,0.8821784208997704,Likely to Churn,Female,44,Yes,Jharkhand,7,29,Not Available,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Mailed Check,71.1,71.1,0.0,0,37.51,108.61
+68556-MAH,0,0.23532407227372967,Likely to Stay,Male,68,No,Maharashtra,4,23,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.2,20.2,0.0,0,13.08,33.28
+61025-MAH,1,0.6790134364267156,Likely to Churn,Female,45,No,Maharashtra,4,16,Deal 5,Yes,No,Yes,DSL,No,No,Yes,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,49.85,49.85,0.0,0,42.55,92.4
+41500-KAR,0,0.23056769127847362,Likely to Stay,Male,31,No,Karnataka,1,31,Deal 5,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.85,51.6,0.0,0,54.94,106.54
+27461-MAD,0,0.4667754064768361,Likely to Stay,Male,22,Yes,Madhya Pradesh,7,6,Deal 5,Yes,No,Yes,Cable,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,44.55,44.55,0.0,0,23.04,67.59
+77311-MAD,0,0.30957275787088107,Likely to Stay,Male,47,Yes,Madhya Pradesh,9,19,Deal 5,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.25,20.25,0.0,0,40.46,60.71
+29093-ASS,1,0.6935844848310714,Likely to Churn,Male,57,Yes,Assam,6,6,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Mailed Check,20.45,20.45,0.0,0,11.61,32.06
+83817-UTT,0,0.48694921133281655,Likely to Stay,Male,48,No,Uttar Pradesh,8,18,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Mailed Check,21.05,21.05,0.0,0,10.14,31.19
+38452-MAH,0,0.4566545194765373,Likely to Stay,Female,34,No,Maharashtra,6,14,Deal 5,Yes,No,Yes,DSL,Yes,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,47.95,47.95,0.0,0,46.23,94.18
+76233-BIH,0,0.29303986395438375,Likely to Stay,Female,78,Yes,Bihar,6,9,Deal 5,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,No,Two Year,Yes,Credit Card,70.6,70.6,0.0,30,32.61,133.21
+41196-MAH,1,0.6197349104111595,Likely to Churn,Female,29,Yes,Maharashtra,11,10,Deal 5,Yes,No,Yes,DSL,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,45.0,45.0,0.0,10,40.63,95.63
+19898-HAR,0,0.28227898230885873,Likely to Stay,Male,31,Yes,Haryana,3,30,Deal 5,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.45,19.45,0.0,0,29.15,48.6
+88215-KAR,1,0.5942987430372269,Likely to Churn,Female,19,No,Karnataka,5,10,Deal 5,Yes,Yes,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,50.05,50.05,0.0,0,43.05,93.1
+71197-PUN,1,0.7950451247169318,Likely to Churn,Female,38,No,Punjab,0,33,Deal 5,Yes,No,Yes,Cable,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,77.4,206.15,0.0,0,133.26,339.41
+87704-GUJ,0,0.01946927041076711,Likely to Stay,Female,38,Yes,Gujarat,9,24,Deal 5,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Two Year,No,Credit Card,20.45,20.45,0.0,0,43.82,64.27
+65531-MAH,0,0.21057901435636164,Likely to Stay,Female,55,No,Maharashtra,10,22,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.8,19.8,0.0,0,11.96,31.76
+85917-TAM,0,0.36426133707286823,Likely to Stay,Male,53,Yes,Tamil Nadu,7,15,Deal 5,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,19.5,19.5,0.0,0,33.02,52.52
+16244-UTT,0,0.11764277997139243,Likely to Stay,Female,19,Yes,Uttar Pradesh,5,7,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.55,19.55,0.0,0,5.1,24.65
+44693-UTT,0,0.0584680243747745,Likely to Stay,Female,53,No,Uttar Pradesh,11,27,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,One Year,No,Credit Card,20.3,31.9,0.0,0,70.84,102.74
+51214-MAH,1,0.5160028539640116,Likely to Churn,Male,28,No,Maharashtra,12,22,Not Available,Yes,No,Yes,Fiber Optic,No,No,Yes,No,No,No,No,No,Month-to-Month,Yes,Credit Card,73.6,232.5,0.0,10,82.02,324.52
+82718-TAM,0,0.1907965464278831,Likely to Stay,Male,32,Yes,Tamil Nadu,12,7,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,20.7,20.7,0.0,0,45.86,66.56
+67941-PUN,1,0.5851185801817922,Likely to Churn,Female,46,No,Punjab,9,13,Deal 5,Yes,Yes,Yes,DSL,No,Yes,No,No,No,No,No,No,Month-to-Month,No,Credit Card,54.15,101.65,0.0,10,42.6,154.25
+82965-TEL,0,0.34208061874205004,Likely to Stay,Female,38,No,Telangana,8,20,Not Available,Yes,No,Yes,Cable,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,44.75,148.05,0.0,10,104.67,262.72
+99862-BIH,1,0.7078155869845791,Likely to Churn,Female,30,No,Bihar,12,9,Deal 5,Yes,No,Yes,Fiber Optic,No,No,No,Yes,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,74.0,74.0,0.0,0,23.7,97.7
+81098-GUJ,0,0.16302891581797346,Likely to Stay,Male,31,Yes,Gujarat,13,11,Not Available,Yes,No,Yes,DSL,Yes,No,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,51.25,51.25,0.0,0,39.3,90.55
+41235-WES,1,0.6944366569024225,Likely to Churn,Female,37,No,West Bengal,8,10,Deal 5,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,44.8,44.8,0.0,0,27.46,72.26
+81235-JHA,1,0.6961056630116416,Likely to Churn,Female,42,Yes,Jharkhand,9,32,Deal 5,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,44.9,44.9,0.0,0,15.76,60.66
+34169-RAJ,0,0.3912250130496422,Likely to Stay,Male,51,Yes,Rajasthan,14,30,Deal 5,Yes,Yes,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,24.85,62.0,0.0,0,80.5,142.5
+23148-CHH,0,0.11877593414078616,Likely to Stay,Female,74,Yes,Chhattisgarh,4,9,Deal 5,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Two Year,No,Bank Withdrawal,44.0,44.0,0.0,0,28.67,72.67
+58044-KAR,0,0.2527340223020843,Likely to Stay,Female,31,No,Karnataka,5,13,Deal 5,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.35,41.85,0.0,0,10.84,52.69
+75802-MAH,0,0.22565195667947371,Likely to Stay,Female,61,No,Maharashtra,4,3,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.05,20.05,0.0,0,13.51,33.56
+58848-PUN,0,0.34140439517778814,Likely to Stay,Male,58,Yes,Punjab,14,18,Not Available,Yes,No,Yes,Cable,Yes,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,49.8,49.8,0.0,0,38.21,88.01
+33565-UTT,0,0.15866260580669328,Likely to Stay,Male,72,Yes,Uttar Pradesh,7,29,Not Available,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Two Year,No,Bank Withdrawal,74.3,74.3,0.0,0,17.84,92.14
+89154-RAJ,1,0.5553169726702275,Likely to Churn,Female,47,No,Rajasthan,5,3,Deal 5,Yes,No,Yes,Cable,No,Yes,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,49.2,103.7,0.0,0,58.56,162.26
+77678-JHA,0,0.4530008954119839,Likely to Stay,Female,41,Yes,Jharkhand,1,29,Not Available,Yes,No,Yes,DSL,Yes,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,49.55,49.55,0.0,0,10.83,60.38
+78021-UTT,0,0.4446610644787679,Likely to Stay,Female,45,Yes,Uttar Pradesh,12,35,Deal 5,Yes,Yes,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,25.0,25.0,0.0,0,3.39,28.39
+29371-WES,1,0.7387537029265779,Likely to Churn,Female,23,No,West Bengal,14,9,Deal 5,Yes,No,Yes,DSL,No,No,No,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,55.3,108.65,0.0,0,87.86,196.51
+88728-UTT,0,0.05108416006643345,Likely to Stay,Female,42,No,Uttar Pradesh,12,9,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,One Year,No,Credit Card,21.2,52.05,0.0,0,36.15,88.2
+28782-PUN,1,0.8197544548413384,Likely to Churn,Male,58,Yes,Punjab,8,7,Deal 5,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Mailed Check,44.95,44.95,0.0,0,13.63,58.58
+49265-BIH,0,0.38868615219698,Likely to Stay,Female,18,Yes,Bihar,4,4,Deal 5,Yes,No,Yes,Cable,Yes,No,Yes,No,No,No,Yes,Yes,Month-to-Month,No,Credit Card,55.9,157.55,0.0,0,99.84,257.39
+84770-UTT,0,0.37612246769328495,Likely to Stay,Female,38,Yes,Uttar Pradesh,2,21,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Mailed Check,20.15,20.15,0.0,0,27.59,47.74
+75058-TEL,0,0.1678777821980848,Likely to Stay,Female,59,No,Telangana,6,14,Not Available,Yes,No,Yes,DSL,No,No,Yes,Yes,Yes,Yes,Yes,Yes,One Year,No,Credit Card,74.1,74.1,0.0,0,36.05,110.15
+81169-TEL,0,0.28736792780276993,Likely to Stay,Female,62,Yes,Telangana,4,2,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,18.85,18.85,0.0,0,7.8,26.65
+65580-UTT,0,0.2197676016023541,Likely to Stay,Male,54,No,Uttar Pradesh,6,2,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,19.1,53.05,0.0,0,48.96,102.01
+41348-BIH,0,0.1403150611747181,Likely to Stay,Female,64,No,Bihar,14,13,Not Available,Yes,No,Yes,Fiber Optic,No,No,No,No,Yes,No,No,Yes,Two Year,No,Credit Card,81.5,162.55,0.0,0,49.9,212.45
+89804-MAH,0,0.2707725141411967,Likely to Stay,Male,34,No,Maharashtra,4,31,Deal 5,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.4,50.6,0.0,0,30.32,80.92
+74978-MAH,0,0.19553078731696388,Likely to Stay,Female,28,Yes,Maharashtra,1,21,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,19.75,19.75,0.0,0,30.38,50.13
+99996-HAR,0,0.40066992584722183,Likely to Stay,Male,22,Yes,Haryana,2,8,Deal 5,Yes,No,Yes,DSL,Yes,Yes,No,No,No,No,Yes,Yes,Month-to-Month,Yes,Credit Card,53.55,53.55,0.0,0,16.06,69.61
+21065-HAR,0,0.1559668833560972,Likely to Stay,Male,27,No,Haryana,5,10,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.3,20.3,0.0,0,10.84,31.14
+31412-HAR,0,0.036895362730053186,Likely to Stay,Female,81,Yes,Haryana,14,29,Not Available,Yes,No,No,Not Available,No,No,No,No,No,No,No,No,Two Year,No,Bank Withdrawal,19.2,37.2,0.0,0,14.06,51.26
+54997-UTT,0,0.41228858062353735,Likely to Stay,Female,55,No,Uttar Pradesh,7,23,Not Available,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,44.0,44.0,0.0,0,26.15,70.15
+56728-RAJ,0,0.3098967927824157,Likely to Stay,Male,40,No,Rajasthan,0,1,Not Available,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,45.6,45.6,0.0,0,37.44,83.04
+95053-UTT,0,0.1801963749462648,Likely to Stay,Female,32,No,Uttar Pradesh,15,2,Not Available,Yes,Yes,No,Not Available,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,24.6,86.35,0.0,0,78.99,165.34
